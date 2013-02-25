@@ -1,5 +1,14 @@
 ---
+style: Washington State Grange v. Washington State Republican Party et al.
 abbreviated: Washington State Grange v. Washington State Republican Party
+with:
+  - number: No. 06–730
+    style: Washington et al. v. Washington State Republican Party et al.,
+    posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+argued: 2007-10-01
+decided: 2008-03-18
+number: 06-713
 year: 2008
 citations:
 - reporter: United States Reports
