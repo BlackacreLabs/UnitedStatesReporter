@@ -1,13 +1,14 @@
 ---
 abbreviated: The Atalanta
 year: 1818
-citations:
+reports:
 - reporter: Wheaton
   abbreviation: Wheat.
   volume: 3
   page: 409
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 16
   page: 409
-position: 1
+  position: 1

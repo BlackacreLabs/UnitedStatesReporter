@@ -6,10 +6,10 @@ argued: 2008-02-25
 decided: 2008-03-03
 number: 06-1498
 year: 2008
-citations:
+parenthetical: per curiam
+reports:
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 552
   page: 440
-parenthetical: per curiam
-position: 1
+  position: 1

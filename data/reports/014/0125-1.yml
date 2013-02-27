@@ -1,13 +1,14 @@
 ---
 abbreviated: The Astrea
 year: 1816
-citations:
+reports:
 - reporter: Wheaton
   abbreviation: Wheat.
   volume: 1
   page: 125
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 14
   page: 125
-position: 1
+  position: 1

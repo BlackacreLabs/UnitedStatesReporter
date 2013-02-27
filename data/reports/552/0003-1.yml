@@ -5,10 +5,10 @@ posture: Certiorari to the United States Court of Appeals for the Eleventh Circu
 volume: 552
 decided: 2007-11-05
 year: 2007
-citations:
+parenthetical: per curiam
+reports:
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 552
   page: 3
-parenthetical: per curiam
-position: 1
+  position: 1

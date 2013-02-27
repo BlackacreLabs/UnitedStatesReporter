@@ -1,13 +1,14 @@
 ---
 abbreviated: The Rio Grande
 year: 1874
-citations:
+reports:
 - reporter: Wallace
   abbreviation: Wall.
   volume: 19
   page: 178
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 86
   page: 178
-position: 1
+  position: 1

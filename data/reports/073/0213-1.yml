@@ -1,13 +1,14 @@
 ---
 abbreviated: The Rock Island Bridge
 year: 1867
-citations:
+reports:
 - reporter: Wallace
   abbreviation: Wall.
   volume: 6
   page: 213
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 73
   page: 213
-position: 1
+  position: 1

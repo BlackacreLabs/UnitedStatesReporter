@@ -1,13 +1,14 @@
 ---
 abbreviated: Post v. Jones
 year: 1857
-citations:
+reports:
 - reporter: Howard
   abbreviation: How.
   volume: 19
   page: 150
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 60
   page: 150
-position: 1
+  position: 1

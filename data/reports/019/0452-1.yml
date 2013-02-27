@@ -1,13 +1,14 @@
 ---
 abbreviated: The Jonquille
 year: 1821
-citations:
+reports:
 - reporter: Wheaton
   abbreviation: Wheat.
   volume: 6
   page: 452
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 19
   page: 452
-position: 1
+  position: 1

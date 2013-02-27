@@ -1,13 +1,14 @@
 ---
 abbreviated: The William Bagaley
 year: 1867
-citations:
+reports:
 - reporter: Wallace
   abbreviation: Wall.
   volume: 5
   page: 377
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 72
   page: 377
-position: 1
+  position: 1

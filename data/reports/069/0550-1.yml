@@ -1,13 +1,14 @@
 ---
 abbreviated: The Morning Light
 year: 1865
-citations:
+reports:
 - reporter: Wallace
   abbreviation: Wall.
   volume: 2
   page: 550
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 69
   page: 550
-position: 1
+  position: 1

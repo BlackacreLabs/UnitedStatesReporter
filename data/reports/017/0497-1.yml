@@ -1,13 +1,14 @@
 ---
 abbreviated: The Neustra Senora de la Caridad
 year: 1819
-citations:
+reports:
 - reporter: Wheaton
   abbreviation: Wheat.
   volume: 4
   page: 497
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 17
   page: 497
-position: 1
+  position: 1

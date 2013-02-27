@@ -6,9 +6,9 @@ number: 06-989
 argued: 2007-11-07
 decided: 2008-03-25
 year: 2008
-citations:
+reports:
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 552
   page: 576
-position: 1
+  position: 1

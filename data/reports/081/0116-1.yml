@@ -1,13 +1,14 @@
 ---
 abbreviated: The Bridgeport
 year: 1872
-citations:
+reports:
 - reporter: Wallace
   abbreviation: Wall.
   volume: 14
   page: 116
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 81
   page: 116
-position: 1
+  position: 1

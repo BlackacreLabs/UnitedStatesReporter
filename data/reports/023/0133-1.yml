@@ -1,13 +1,14 @@
 ---
 abbreviated: The Plattsburgh
 year: 1825
-citations:
+reports:
 - reporter: Wheaton
   abbreviation: Wheat.
   volume: 10
   page: 133
+  position: 1
 - reporter: United States Reports
   abbreviation: U. S.
   volume: 23
   page: 133
-position: 1
+  position: 1
