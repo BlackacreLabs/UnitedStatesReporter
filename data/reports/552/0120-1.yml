@@ -12,3 +12,4 @@ reports:
   volume: 552
   page: 120
   position: 1
+paginated: true
