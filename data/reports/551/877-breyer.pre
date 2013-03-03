@@ -1,0 +1,733 @@
+Author: Breyer
+Type: Dissenting
+Page: 908
+
+  <<Justice Breyer,>> with whom <<Justice Stevens, Justice>> <<Souter,>>
+and <<Justice Ginsburg>> join, dissenting.
+
+  In \\Dr. Miles Medical Co.\\ v. \\John D. Park & Sons Co.,\\ 220
+U. S. 373, 394, 408–409 (1911), this Court held that an agreement
+between a manufacturer of proprietary medicines and its dealers to fix
+the minimum price at which its medicines could be sold was “invalid
+. . . under the [Sherman Act, 15 U. S. C. § 1].” This Court has
+consistently read \\Dr. Miles\\ as establishing a bright-line rule that
+agreements fixing minimum resale prices are \\per se\\ illegal. See,
+\\e. g., UnitedStates\\ v. \\Trenton Potteries Co.,\\ 273 U. S. 392,
+399–401 (1927); \\NYNEX Corp.\\ v. \\Discon, Inc.,\\ 525 U. S. 128,
+133 (1998). That \\per se\\ rule is one upon which the legal profession,
+business, and the public have relied for close to a century. Today the
+Court holds that courts must determine the lawfulness of minimum resale
+price maintenance by applying, not a bright-line \\per se\\ rule, but
+a circumstance-specific “rule of reason.” \\Ante,\\ at 907. And in
+doing so it overturns \\Dr. Miles.\\
+
+  The Court justifies its departure from ordinary considerations of
+\\stare decisis\\ by pointing to a set of arguments well known in the
+antitrust literature for close to half a century. See \\ante,\\ at
+889–892. Congress has repeatedly found in these arguments insufficient
+grounds for overturning the \\perse\\ rule. See, \\e. g.,\\ Hearings on
+H. R. 10527 et al. before the Subcommittee on Commerce and Finance of
+the House Committee on Interstate and Foreign Commerce, 85th Cong., 2d
+Sess., 74–76, 89, 99, 101–102, 192–195, 261–262 (1958). And,
+@@909@@ in my view, they do not warrant the Court’s now overturning so
+well-established a legal precedent.
+
+# I
+
+  The Sherman Act seeks to maintain a marketplace free of
+anticompetitive practices, in particular those enforced by agreement
+among private firms. The law assumes that such a marketplace, free
+of private restrictions, will tend to bring about the lower prices,
+better products, and more efficient production processes that consumers
+typically desire. In determining the lawfulness of particular practices,
+courts often apply a “rule of reason.” They examine both a
+practice’s likely anticompetitive effects and its beneficial business
+justifications. See, \\e. g., National Collegiate Athletic Assn.\\ v.
+\\Board of Regents of Univ. of Okla.,\\ 468 U. S. 85, 109–110, and
+n. 39 (1984); \\National Soc. of Professional Engineers\\ v. \\United
+States,\\ 435 U. S. 679, 688–691 (1978); \\Board of Tradeof Chicago\\
+v. \\United States,\\ 246 U. S. 231, 238 (1918).
+
+  Nonetheless, sometimes the likely anticompetitive consequences of a
+particular practice are so serious and the potential justifications so
+few (or, \\e. g.,\\ so difficult to prove) that courts have departed
+from a pure “rule of reason” approach. And sometimes this Court has
+imposed a rule of \\per se\\ unlawfulness—a rule that instructs courts
+to find the practice unlawful all (or nearly all) the time. See, \\e.
+g., NYNEX,supra,\\ at 133; \\Arizona\\ v. \\Maricopa County Medical
+Soc.,\\ 457 U. S. 332, 343–344, and n. 16 (1982); \\Continental T.
+V.,Inc.\\ v. \\GTE Sylvania Inc.,\\ 433 U. S. 36, 50, n. 16 (1977);
+\\United States\\ v. \\Topco Associates, Inc.,\\ 405 U. S. 596, 609–
+611 (1972); \\United States\\ v. \\Socony-Vacuum Oil Co.,\\ 310 U. S.
+150, 213–214 (1940) (citing and quoting \\Trenton Potteries, supra,\\
+at 397–398).
+
+  The case before us asks which kind of approach the courts should
+follow where minimum resale price maintenance is at issue. Should they
+apply a \\per se\\ rule (or a variation) that @@910@@ would make minimum
+resale price maintenance always (or \\almost\\ always) unlawful? Should
+they apply a “rule of reason”? Were the Court writing on a blank
+slate, I would find these questions difficult. But, of course, the Court
+is not writing on a blank slate, and that fact makes a considerable
+legal difference.
+
+  To best explain why the question would be difficult were we deciding
+it afresh, I briefly summarize several classical arguments for and
+against the use of a \\per se\\ rule. The arguments focus on three
+sets of considerations, those involving: (1) potential anticompetitive
+effects, (2) potential benefits, and (3) administration. The difficulty
+arises out of the fact that the different sets of considerations point
+in different directions. See, \\e. g.,\\ 8 P. Areeda, Antitrust Law
+¶¶ 1628–1633, pp. 330–392 (1st ed. 1989) (hereinafter Areeda); 8
+P. Areeda & H. Hovenkamp, Antitrust Law ¶¶ 1628–1633, pp. 288–339
+(2d ed. 2004) (hereinafter Areeda & Hovenkamp); Easterbrook, Vertical
+Arrangements and the Rule of Reason, 53 Antitrust L. J. 135, 146–152
+(1984) (hereinafter Easterbrook); Pitofsky, In Defense of Discounters:
+The No-Frills Case for a \\Per Se\\ Rule Against Vertical Price Fixing,
+71 Geo. L. J. 1487 (1983) (hereinafter Pitofsky); Scherer, The Economics
+of Vertical Restraints, 52 Antitrust L. J. 687, 706–707 (1983)
+(hereinafter Scherer); Posner, The Next Step in the Antitrust Treatment
+of Restricted Distribution: Per Se Legality, 48 U. Chi. L. Rev. 6,
+22–26 (1981); Brief for William S. Comanor et al. as \\Amici Curiae\\
+7–10.
+
+  On the one hand, agreements setting minimum resale prices may have
+serious anticompetitive consequences. \\Inrespect to dealers:\\ Resale
+price maintenance agreements, rather like horizontal price agreements,
+can diminish or eliminate price competition among dealers of a single
+brand or (if practiced generally by manufacturers) among multibrand
+dealers. In doing so, they can prevent dealers from offering customers
+the lower prices that many customers prefer; they can prevent dealers
+from responding to changes @@911@@ in demand, say, falling demand,
+by cutting prices; they can encourage dealers to substitute service,
+for price, competition, thereby threatening wastefully to attract too
+many resources into that portion of the industry; they can inhibit
+expansion by more efficient dealers whose lower prices might otherwise
+attract more customers, stifling the development of new, more efficient
+modes of retailing; and so forth. See, \\e. g.,\\ 8 Areeda & Hovenkamp
+¶ 1632c, at 319– 321; Steiner, The Evolution and Applications of
+Dual-Stage Thinking, 49 The Antitrust Bulletin 877, 899–900 (2004);
+Comanor, Vertical Price-Fixing, Vertical Market Restrictions, and the
+New Antitrust Policy, 98 Harv. L. Rev. 983, 990–1000 (1985).
+
+  \\In respect to producers:\\ Resale price maintenance agreements
+can help to reinforce the competition-inhibiting behavior of firms in
+concentrated industries. In such industries firms may tacitly collude,
+\\i. e.,\\ observe each other’s pricing behavior, each understanding
+that price cutting by one firm is likely to trigger price competition
+by all. See 8 Areeda & Hovenkamp ¶ 1632d, at 321–323; P. Areeda
+& L. Kaplow, Antitrust Analysis ¶¶ 231–233, pp. 276–283 (4th
+ed. 1988) (hereinafter Areeda & Kaplow). Cf. \\United States\\ v.
+\\Container Corp. of America,\\ 393 U. S. 333 (1969); Areeda & Kaplow
+¶¶ 247–253, at 327–348. Where that is so, resale price maintenance
+can make it easier for each producer to identify (by observing retail
+markets) when a competitor has begun to cut prices. And a producer
+who cuts wholesale prices \\without\\ lowering the minimum resale
+price will stand to gain little, if anything, in increased profits,
+because the dealer will be unable to stimulate increased consumer
+demand by passing along the producer’s price cut to consumers. In
+either case, resale price maintenance agreements will tend to prevent
+price competition from “breaking out”; and they will thereby tend
+to stabilize producer prices. See Pitofsky 1490–1491. Cf., \\e. g.,
+Container Corp., supra,\\ at 336–337. @@912@@
+
+  Those who express concern about the potential anticompetitive effects
+find empirical support in the behavior of prices before, and then
+after, Congress in 1975 repealed the Miller-Tydings Fair Trade Act, 50
+Stat. 693, and the McGuire Act, 66 Stat. 631. Those Acts had permitted
+(but not required) individual States to enact “fair trade” laws
+authorizing minimum resale price maintenance. At the time of repeal
+minimum resale price maintenance was lawful in 36 States; it was
+unlawful in 14 States. See Hearings on S. 408 before the Subcommittee on
+Antitrust and Monopoly of the Senate Committee on the Judiciary, 94th
+Cong., 1st Sess., 173 (1975) (hereinafter Hearings on S. 408) (statement
+of Thomas E. Kauper, Assistant Attorney General, Antitrust Division).
+Comparing prices in the former States with prices in the latter States,
+the Department of Justice argued that minimum resale price maintenance
+had raised prices by 19% to 27%. See Hearings on H. R. 2384 before the
+Subcommittee on Monopolies and Commercial Law of the House Committee on
+the Judiciary, 94th Cong., 1st Sess., 122 (1975) (hereinafter Hearings
+on H. R. 2384) (statement of Keith I. Clearwaters, Deputy Assistant
+Attorney General, Antitrust Division).
+
+  After repeal, minimum resale price maintenance agreements were
+unlawful \\per se\\ in every State. The Federal Trade Commission (FTC)
+staff, after studying numerous price surveys, wrote that collectively
+the surveys “indicate[d] that [resale price maintenance] in most
+cases increased the prices of products sold with [resale price
+maintenance].” Bureau of Economics Staff Report to the FTC, T.
+Overstreet, Resale Price Maintenance: Economic Theories and Empirical
+Evidence 160 (1983) (hereinafter Overstreet). Most economists today
+agree that, in the words of a prominent antitrust treatise, “resale
+price maintenance tends to produce higher consumer prices than would
+otherwise be the case.” 8 Areeda & Hovenkamp ¶ 1604b, at 40 (finding
+“[t]he evidence . . . persuasive on this point”). See also
+Brief for William S. Comanor et al. as \\Amici Curiae\\ 4 (“It is
+uni@@913@@formly acknowledged that [resale price maintenance] and other
+vertical restraints lead to higher consumer prices”).
+
+  On the other hand, those favoring resale price maintenance have long
+argued that resale price maintenance agreements can provide important
+consumer benefits. The majority lists two: First, such agreements can
+facilitate new entry. \\Ante,\\ at 891. For example, a newly entering
+producer wishing to build a product name might be able to convince
+dealers to help it do so—if, but only if, the producer can assure
+those dealers that they will later recoup their investment. Without
+resale price maintenance, lateentering dealers might take advantage of
+the earlier investment and, through price competition, drive prices down
+to the point where the early dealers cannot recover what they spent.
+By assuring the initial dealers that such later price competition will
+not occur, resale price maintenance can encourage them to carry the
+new product, thereby helping the new producer succeed. See 8 Areeda
+& Hovenkamp ¶¶ 1617a, 1631b, at 193–196, 308. The result might
+be increased competition at the producer level, \\i. e.,\\ greater
+\\inter\\-brand competition, that brings with it net consumer benefits.
+
+  Second, without resale price maintenance a producer might find its
+efforts to sell a product undermined by what resale price maintenance
+advocates call “free riding.” \\Ante,\\ at 890–891. Suppose a
+producer concludes that it can succeed only if dealers provide certain
+services, say, product demonstrations, high quality shops, advertising
+that creates a certain product image, and so forth. Without resale price
+maintenance, some dealers might take a “free ride” on the investment
+that others make in providing those services. Such a dealer would save
+money by not paying for those services and could consequently cut its
+own price and increase its own sales. Under these circumstances, dealers
+might prove unwilling to invest in the provision of necessary services.
+See, \\e. g.,\\ 8 Areeda & Hovenkamp ¶¶ 1611–1613, @@914@@ 1631c, at
+126–165, 309–313; R. Posner, Antitrust Law 172– 173 (2d ed. 2001);
+R. Bork, The Antitrust Paradox 290–291 (1978) (hereinafter Bork);
+Easterbrook 146–149.
+
+  Moreover, where a producer and not a group of dealers seeks a resale
+price maintenance agreement, there is a special reason to believe
+some such benefits exist. That is because, other things being equal,
+producers should want to encourage price competition among their
+dealers. By doing so they will often increase profits by selling more
+of their product. See \\Sylvania,\\ 433 U. S., at 56, n. 24; Bork
+290. And that is so, even if the producer possesses sufficient market
+power to earn a supernormal profit. That is to say, other things
+being equal, the producer will benefit by charging his dealers a
+competitive (or even a higher-thancompetitive) wholesale price while
+encouraging price competition among them. Hence, if the producer is the
+moving force, the producer must have some special reason for wanting
+resale price maintenance; and in the absence of, say, concentrated
+producer markets (where that special reason might consist of a desire to
+stabilize wholesale prices), that special reason may well reflect the
+special circumstances just described: new entry, “free riding,” or
+variations on those themes.
+
+  The upshot is, as many economists suggest, sometimes resale price
+maintenance can prove harmful; sometimes it can bring benefits. See,
+\\e. g.,\\ Brief for Economists as \\Amici Curiae\\ 16; 8 Areeda &
+Hovenkamp ¶¶ 1631–1632, at 306–328; Pitofsky 1495; Scherer
+706–707. But before concluding that courts should consequently apply
+a rule of reason, I would ask such questions as, how often are harms
+or benefits likely to occur? How easy is it to separate the beneficial
+sheep from the antitrust goats?
+
+  Economic discussion, such as the studies the Court relies upon, can
+\\help\\ provide answers to these questions, and in doing so, economics
+can, and should, inform antitrust law. But antitrust law cannot, and
+should not, precisely replicate @@915@@ economists’ (sometimes
+conflicting) views. That is because law, unlike economics, is an
+administrative system the effects of which depend upon the content of
+rules and precedents only as they are applied by judges and juries
+in courts and by lawyers advising their clients. And that fact means
+that courts will often bring their own administrative judgment to
+bear, sometimes applying rules of \\per se\\ unlawfulness to business
+practices even when those practices sometimes produce benefits. See,
+\\e. g.,\\ F. Scherer & D. Ross, Industrial Market Structure and
+Economic Performance 335–339 (3d ed. 1990) (hereinafter Scherer &
+Ross) (describing some circumstances under which price-fixing agreements
+could be more beneficial than “unfettered competition,” but also
+noting potential costs of moving from a \\per se\\ ban to a rule of
+reasonableness assessment of such agreements).
+
+  I have already described studies and analyses that suggest (though
+they cannot prove) that resale price maintenance can cause harms with
+some regularity—and certainly when dealers are the driving force. But
+what about benefits? How often, for example, will the benefits to which
+the Court points occur in practice? I can find no economic consensus
+on this point. There is a consensus in the literature that “free
+riding” takes place. But “free riding” often takes place in the
+economy without any legal effort to stop it. Many visitors to California
+take free rides on the Pacific Coast Highway. We all benefit freely
+from ideas, such as that of creating the first supermarket. Dealers
+often take a “free ride” on investments that others have made in
+building a product’s name and reputation. The question is how often
+the “free riding” problem is serious enough significantly to deter
+dealer investment.
+
+  To be more specific, one can easily \\imagine\\ a dealer who refuses
+to provide important presale services, say, a detailed explanation of
+how a product works (or who fails to provide a proper atmosphere in
+which to sell expensive perfume or alligator billfolds), lest customers
+use that “free” service (or @@916@@ enjoy the psychological benefit
+arising when a high-priced retailer stocks a particular brand of
+billfold or handbag) and then buy from another dealer at a lower price.
+Sometimes this must happen in reality. But does it happen often? We do,
+after all, live in an economy where firms, despite \\Dr.Miles\\’ \\per
+se\\ rule, still sell complex technical equipment (as well as expensive
+perfume and alligator billfolds) to consumers.
+
+  All this is to say that the ultimate question is not whether, but
+\\how much,\\ “free riding” of this sort takes place. And, after
+reading the briefs, I must answer that question with an uncertain
+“sometimes.” See, \\e. g.,\\ Brief for William S. Comanor et al. as
+\\Amici Curiae\\ 6–7 (noting “skepticism in the economic literature
+about how often [free riding] actually occurs”); Scherer & Ross
+551–555 (explaining the “severe limitations” of the free-rider
+justification for resale price maintenance); Pitofsky, Why \\Dr. Miles\\
+Was Right, 8 Regulation, No. 1, pp. 27, 29–30 (Jan./Feb. 1984)
+(similar analysis).
+
+  How easily can courts identify instances in which the benefits
+are likely to outweigh potential harms? My own answer is, \\not
+very easily.\\ For one thing, it is often difficult to identify
+\\who—\\producer or dealer—is the moving force behind any given
+resale price maintenance agreement. Suppose, for example, several large
+multibrand retailers all sell resale-price-maintained products. Suppose
+further that small producers set retail prices because they fear that,
+otherwise, the large retailers will favor (say, by allocating better
+shelf space) the goods of other producers who practice resale price
+maintenance. Who “initiated” this practice, the retailers hoping for
+considerable insulation from retail competition, or the producers, who
+simply seek to deal best with the circumstances they find? For another
+thing, as I just said, it is difficult to determine just when, and
+where, the “free riding” problem is serious enough to warrant legal
+protection. @@917@@
+
+  I recognize that scholars have sought to develop checklists and
+sets of questions that will help courts separate instances where
+anticompetitive harms are more likely from instances where only benefits
+are likely to be found. See, \\e. g.,\\ 8 Areeda & Hovenkamp ¶¶
+1633c–1633e, at 330–339. See also Brief for William S. Comanor et
+al. as \\Amici Curiae\\ 8–10. But applying these criteria in court is
+often easier said than done. The Court’s invitation to consider the
+existence of “market power,” for example, \\ante,\\ at 898, invites
+lengthy time-consuming argument among competing experts, as they seek to
+apply abstract, highly technical, criteria to often illdefined markets.
+And resale price maintenance cases, unlike a major merger or monopoly
+case, are likely to prove numerous and involve only private parties. One
+cannot fairly expect judges and juries in such cases to apply complex
+economic criteria without making a considerable number of mistakes,
+which themselves may impose serious costs. See, \\e. g.,\\ H. Hovenkamp,
+The Antitrust Enterprise 105 (2005) (litigating a rule of reason case is
+“one of the most costly procedures in antitrust practice”). See also
+Bok, Section 7 of the Clayton Act and the Merging of Law and Economics,
+74 Harv. L. Rev. 226, 238–247 (1960) (describing lengthy FTC efforts
+to apply complex criteria in a merger case).
+
+  Are there special advantages to a bright-line rule? Without such a
+rule, it is often unfair, and consequently impractical, for enforcement
+officials to bring criminal proceedings. And since enforcement resources
+are limited, that loss may tempt some producers or dealers to enter into
+agreements that are, on balance, anticompetitive.
+
+  Given the uncertainties that surround key items in the overall balance
+sheet, particularly in respect to the “administrative” questions,
+I can concede to the majority that the problem is difficult. And,
+if forced to decide now, at most I might agree that the \\per se\\
+rule should be slightly modified to allow an exception for the more
+easily identifiable @@918@@ and temporary condition of “new entry.”
+See Pitofsky 1495. But I am not now forced to decide this question.
+The question before us is not what should be the rule, starting from
+scratch. We here must decide whether to change a clear and simple
+price-related antitrust rule that the courts have applied for nearly a
+century.
+
+# II
+
+  We write, not on a blank slate, but on a slate that begins with \\Dr.
+Miles\\ and goes on to list a century’s worth of similar cases,
+massive amounts of advice that lawyers have provided their clients,
+and untold numbers of business decisions those clients have taken in
+reliance upon that advice. See, \\e. g., United States\\ v. \\Bausch
+& Lomb Optical Co.,\\ 321 U. S. 707, 721 (1944); \\Sylvania,\\ 433
+U. S., at 51, n. 18 (“The \\per se\\ illegality of [vertical] price
+restrictions has been established firmly for many years . . . ”). Indeed,
+a Westlaw search shows that \\Dr. Miles\\ itself has been cited dozens
+of times in this Court and hundreds of times in lower courts. Those who
+wish this Court to change so well-established a legal precedent bear a
+heavy burden of proof. See \\Illinois BrickCo.\\ v. \\Illinois,\\ 431
+U. S. 720, 736 (1977) (noting, in declining to overrule an earlier
+case interpreting § 4 of the Clayton Act, that “considerations of
+\\stare decisis\\ weigh heavily in the area of statutory construction,
+where Congress is free to change this Court’s interpretation of its
+legislation”). I am not aware of any case in which this Court has
+overturned so well-established a statutory precedent. Regardless, I do
+not see how the Court can claim that ordinary criteria for overruling
+an earlier case have been met. See, \\e. g.,Planned Parenthood of
+Southeastern Pa.\\ v. \\Casey,\\ 505 U. S. 833, 854–855 (1992). See
+also \\Federal Election Comm’n\\ v. \\Wisconsin Right to Life, Inc.,
+ante,\\ at 500–503 (<<Scalia,>> J., concurring in part and concurring
+in judgment). @@919@@
+
+## A
+
+  I can find no change in circumstances in the past several decades that
+helps the majority’s position. In fact, there has been one important
+change that argues strongly to the contrary. In 1975, Congress repealed
+the McGuire and Miller- Tydings Acts. See Consumer Goods Pricing Act of
+1975, 89 Stat. 801. And it thereby consciously \\extended Dr. Miles\\’
+\\per se\\ rule. Indeed, at that time the Department of Justice and
+the FTC, then urging application of the \\per se\\ rule, discussed
+virtually every argument presented now to this Court as well as others
+not here presented. And they explained to Congress why Congress should
+reject them. See Hearings on S. 408, at 176–177 (statement of Thomas
+E. Kauper, Assistant Attorney General, Antitrust Division); \\id.,\\
+at 170–172 (testimony of Lewis A. Engman, Chairman of the FTC);
+Hearings on H. R. 2384, at 113–114 (testimony of Keith I. Clearwaters,
+Deputy Assistant Attorney General, Antitrust Division). Congress
+fully understood, and consequently intended, that the result of its
+repeal of McGuire and Miller-Tydings would be to make minimum resale
+price maintenance \\per se\\ unlawful. See, \\e. g.,\\ S. Rep. No.
+94–466, pp. 1–3 (1975) (“Without [the exemptions authorized by the
+Miller-Tydings and McGuire Acts,] the agreements they authorize would
+violate the antitrust laws. . . . [R]epeal of the fair trade laws
+generally will prohibit manufacturers from enforcing resale prices”).
+See also \\Sylvania, supra,\\ at 51, n. 18 (“Congress recently has
+expressed its approval of a \\perse\\ analysis of vertical price
+restrictions by repealing those provisions of the Miller-Tydings and
+McGuire Acts allowing fair-trade pricing at the option of the individual
+States”).
+
+  Congress did not prohibit this Court from reconsidering the \\per se\\
+rule. But enacting major legislation premised upon the existence of
+that rule constitutes important public @@920@@ reliance upon that rule.
+And doing so aware of the relevant arguments constitutes even stronger
+reliance upon the Court’s keeping the rule, at least in the absence of
+some significant change in respect to those arguments.
+
+  Have there been any such changes? There have been a few economic
+studies, described in some of the briefs, that argue, contrary to the
+testimony of the Justice Department and the FTC to Congress in 1975,
+that resale price maintenance is not harmful. One study, relying on
+an analysis of litigated resale price maintenance cases from 1975 to
+1982, concludes that resale price maintenance does not ordinarily
+involve producer or dealer collusion. See Ippolito, Resale Price
+Maintenance: Empirical Evidence from Litigation, 34 J. Law & Econ. 263,
+281–282, 292 (1991). But this study equates the failure of plaintiffs
+to \\allege\\ collusion with the \\absence\\ of collusion—an equation
+that overlooks the superfluous nature of allegations of horizontal
+collusion in a resale price maintenance case and the tacit form that
+such collusion might take. See H. Hovenkamp, Federal Antitrust Policy
+§ 11.3c, p. 464, n. 19 (3d ed. 2005); \\supra,\\ at 911.
+
+  The other study provides a theoretical basis for concluding
+that resale price maintenance “need not lead to higher retail
+prices.” Marvel & McCafferty, The Political Economy of Resale Price
+Maintenance, 94 J. Pol. Econ. 1074, 1075 (1986). But this study
+develops a theoretical model “under the assumption that [resale price
+maintenance] is efficiencyenhancing.” \\Ibid.\\ Its only empirical
+support is a 1940 study that the authors acknowledge is much criticized.
+See \\id.,\\ at 1091. And many other economists take a different view.
+See Brief for William S. Comanor et al. as \\AmiciCuriae\\ 4.
+
+  Regardless, taken together, these studies at most may offer some mild
+support for the majority’s position. But they cannot constitute a
+major change in circumstances.
+
+  Petitioner and some \\amici\\ have also presented us with newer
+studies that show that resale price maintenance some@@921@@times
+brings consumer benefits. Overstreet 119–129 (describing numerous
+case studies). But the proponents of a \\per se\\ rule have always
+conceded as much. What is remarkable about the majority’s arguments
+is that \\nothing\\ in this respect \\is new.\\ See \\supra,\\ at 910,
+919 (citing articles and congressional testimony going back several
+decades). The only new feature of these arguments lies in the fact that
+the most current advocates of overruling \\Dr. Miles\\ have abandoned
+a host of other not-very-persuasive arguments upon which prior resale
+price maintenance proponents used to rely. See, \\e. g.,\\ 8 Areeda ¶
+1631a, at 350–352 (listing “ ‘[t]raditional’ justifications”
+for resale price maintenance).
+
+  The one arguable exception consists of the majority’s claim that
+“even absent free riding,” resale price maintenance “may be
+the most efficient way to expand the manufacturer’s market share
+by inducing the retailer’s performance and allowing it to use its
+own initiative and experience in providing valuable services.”
+\\Ante,\\ at 892. I cannot count this as an exception, however,
+because I do not understand how, in the absence of free riding (and
+assuming competitiveness), an established producer would need resale
+price maintenance. Why, on these assumptions, would a dealer not
+“expand” its “market share” as best that dealer sees fit,
+obtaining appropriate payment from consumers in the process? There may
+be an answer to this question. But I have not seen it. And I do not
+think that we should place significant weight upon justifications that
+the parties do not explain with sufficient clarity for a generalist
+judge to understand.
+
+  No one claims that the American economy has changed in ways that
+might support the majority. Concentration in retailing has increased.
+See, \\e. g.,\\ Brief for Respondent 18 (since minimum resale price
+maintenance was banned nationwide in 1975, the total number of retailers
+has dropped while the growth in sales per store has risen); Brief for
+American Antitrust Institute as \\Amicus Curiae\\ 17, n. 20 (citing
+private study reporting that the combined sales of the 10 largest
+@@922@@ retailers worldwide has grown to nearly 30% of total retail
+sales of top 250 retailers; also quoting 1999 Organisation for Economic
+Co-operation and Development report stating that the “ ‘last
+twenty years have seen momentous changes in retail distribution
+including significant increases in concentration’ ”); Mamen,
+Facing Goliath: Challenging the Impacts of Supermarket Consolidation
+on our Local Economies, Communities, and Food Security, The Oakland
+Institute, 1 Policy Brief, No. 3, pp. 1, 2 (Spring 2007), http://www.
+oaklandinstitute.org/pdfs/facing_goliath.pdf (as visited June 25, 2007,
+and available in Clerk of Court’s case file) (noting that “[f]or
+many decades, the top five food retail firms in the U. S. controlled
+less than 20 percent of the market”; from 1997 to 2000, “the top
+five firms increased their market share from 24 to 42 percent of all
+retail sales”; and “[b]y 2003, they controlled over half of all
+grocery sales”). That change, other things being equal, may enable
+(and motivate) more retailers, accounting for a greater percentage of
+total retail sales volume, to seek resale price maintenance, thereby
+making it more difficult for price-cutting competitors (perhaps internet
+retailers) to obtain market share.
+
+  Nor has anyone argued that concentration among manufacturers that
+might use resale price maintenance has diminished significantly.
+And as far as I can tell, it has not. Consider household electrical
+appliances, which a study from the late 1950’s suggests constituted
+a significant portion of those products subject to resale price
+maintenance at that time. See Hollander, United States of America, in
+Resale Price Maintenance 67, 80–81 (B. Yamey ed. 1966). Although it
+is somewhat difficult to compare census data from 2002 with that from
+several decades ago (because of changes in the classification system),
+it is clear that at least some subsets of the household electrical
+appliance industry are \\more\\ concentrated, in terms of manufacturer
+market power, now than they were then. For instance, the top eight
+domestic manufacturers of household cooking appliances accounted for
+68% @@923@@ of the domestic market (measured by value of shipments) in
+1963 (the earliest date for which I was able to find data), compared
+with 77% in 2002. See Dept. of Commerce, Bureau of Census, 1972
+Census of Manufactures, Special Report Series, Concentration Ratios
+in Manufacturing, No. MC72(SR)–2, p. SR2–38 (1975) (hereinafter
+1972 Census); Dept. of Commerce, Bureau of Census, 2002 Economic
+Census, Concentration Ratios: 2002, No. EC02–31SR–1, p. 55 (2006)
+(hereinafter 2002 Census). The top eight domestic manufacturers of
+household laundry equipment accounted for 95% of the domestic market in
+1963 (90% in 1958), compared with 99% in 2002. 1972 Census, at SR2–38;
+2002 Census, at 55. And the top eight domestic manufacturers of
+household refrigerators and freezers accounted for 91% of the domestic
+market in 1963, compared with 95% in 2002. 1972 Census, at SR2–38;
+2002 Census, at 55. Increased concentration among manufacturers
+increases the likelihood that producer-originated resale price
+maintenance will prove more prevalent today than in years past, and more
+harmful. At the very least, the majority has not explained how these, or
+other changes in the economy, could help support its position.
+
+  In sum, there is no relevant change. And without some such change,
+there is no ground for abandoning a wellestablished antitrust rule.
+
+## B
+
+  With the preceding discussion in mind, I would consult the list of
+factors that our case law indicates are relevant when we consider
+overruling an earlier case. <<Justice Scalia,>> writing separately
+in another of our cases this Term, well summarizes that law. See
+\\Wisconsin Right to Life, Inc.,ante,\\ at 500–503 (opinion concurring
+in part and concurring in judgment). And every relevant factor he
+mentions argues against overruling \\Dr. Miles\\ here.
+
+  First, the Court applies \\stare decisis\\ more “rigidly” in
+statutory than in constitutional cases. See \\Glidden Co.\\ v. @@924@@
+\\Zdanok,\\ 370 U. S. 530, 543 (1962); \\Illinois Brick Co.,\\ 431 U.
+S., at 736. This is a statutory case.
+
+  Second, the Court does sometimes overrule cases that it decided
+wrongly only a reasonably short time ago. As <<Justice Scalia>>
+put it, “[o]verruling a \\constitutional\\ case decided just a few
+years earlier is far from unprecedented.” \\Wisconsin Right to Life,
+ante,\\ at 501 (emphasis added). We here overrule one \\statutory\\
+case, \\Dr. Miles,\\ decided 100 years ago, and we overrule the cases
+that reaffirmed its \\perse\\ rule in the intervening years. See, \\e.
+g., Trenton Potteries,\\ 273 U. S., at 399–401; \\Bausch & Lomb,\\ 321
+U. S., at 721; \\United States\\ v. \\Parke, Davis & Co.,\\ 362 U. S.
+29, 45–47 (1960); \\Simpson\\ v. \\Union Oil Co. of Cal.,\\ 377 U. S.
+13, 16–17 (1964).
+
+  Third, the fact that a decision creates an “unworkable” legal
+regime argues in favor of overruling. See \\Payne\\ v. \\Tennessee,\\
+501 U. S. 808, 827–828 (1991); \\Swift&Co.\\ v. \\Wickham,\\ 382
+U. S. 111, 116 (1965). Implementation of the \\perse\\ rule, even
+with the complications attendant the exception allowed for in \\United
+States\\ v. \\Colgate & Co.,\\ 250 U. S. 300 (1919), has proved
+practical over the course of the last century, particularly when
+compared with the many complexities of litigating a case under the
+“rule of reason” regime. No one has shown how moving from the
+\\Dr. Miles\\ regime to “rule of reason” analysis would make
+the legal regime governing minimum resale price maintenance more
+“administrable,” \\Wisconsin Right to Life, ante,\\ at 501 (opinion
+of <<Scalia, J.>>), particularly since \\Colgate\\ would remain good law
+with respect to \\unreasonable\\ price maintenance.
+
+  Fourth, the fact that a decision “unsettles” the law may argue in
+favor of overruling. See \\Sylvania,\\ 433 U. S., at 47; \\Wisconsin
+Right to Life, ante,\\ at 502 (opinion of <<Scalia, J.>>). The \\per
+se\\ rule is well-settled law, as the Court itself has previously
+recognized. \\Sylvania, supra,\\ at51,n.18. Itis the majority’s change
+here that will unsettle the law. @@925@@
+
+  Fifth, the fact that a case involves property rights or contract
+rights, where reliance interests are involved, argues against
+overruling. \\Payne, supra,\\ at 828. This case involves contract rights
+and perhaps property rights (consider shopping malls). And there has
+been considerable reliance upon the \\per se\\ rule. As I have said,
+Congress relied upon the continued vitality of \\Dr. Miles\\ when it
+repealed Miller- Tydings and McGuire. \\Supra,\\ at 919–920. The
+Executive Branch argued for repeal on the assumption that \\Dr. Miles\\
+stated the law. \\Supra,\\ at 919–920. Moreover, whole sectors of
+the economy have come to rely upon the \\per se\\ rule. A factory
+outlet store tells us that the rule “form[s] an essential part of the
+regulatory background against which [that firm] and many other discount
+retailers have financed, structured, and operated their businesses.”
+Brief for Burlington Coat Factory Warehouse Corp. as \\Amicus Curiae\\
+5. The Consumer Federation of America tells us that large lowprice
+retailers would not exist without \\Dr. Miles;\\ minimum resale price
+maintenance, “by stabilizing price levels and preventing low-price
+competition, erects a potentially insurmountable barrier to entry for
+such low-price innovators.” Brief for Consumer Federation of America
+as \\Amicus Curiae\\ 5, 7–9 (discussing, \\inter alia,\\ comments by
+Wal-Mart’s founder 25 years ago that relaxation of the \\per se\\ ban
+on minimum resale price maintenance would be a “ ‘great danger’
+” to Wal-Mart’s then-relatively-nascent business). See also Brief
+for American Antitrust Institute as \\Amicus Curiae\\ 14–15, and
+sources cited therein (making the same point). New distributors,
+including internet distributors, have similarly invested time, money,
+and labor in an effort to bring yet lower cost goods to Americans.
+
+  This Court’s overruling of the \\per se\\ rule jeopardizes this
+reliance, and more. What about malls built on the assumption that a
+discount distributor will remain an anchor tenant? What about home
+buyers who have taken a home’s distance @@926@@ from such a mall
+into account? What about Americans, producers, distributors, and
+consumers, who have understandably assumed, at least for the last 30
+years, that price competition is a legally guaranteed way of life? The
+majority denies none of this. It simply says that these “reliance
+interests . . . , like the reliance interests in [\\State Oil Co.\\
+v.] \\Khan,\\ [522 U. S. 3 (1997),] cannot justify an inefficient
+rule.” \\Ante,\\ at 906.
+
+  The Court minimizes the importance of this reliance, adding that
+it “is also of note” that at the time resale price maintenance
+contracts were lawful “ ‘no more than a tiny fraction of
+manufacturers ever employed’ ” the practice. \\Ante,\\ at 907
+(quoting Overstreet 6). By “tiny” the Court means manufacturers that
+accounted for up to “ ‘ten percent of consumer goods purchases’
+” annually. \\Ante,\\ at 907. That figure in today’s economy equals
+just over $300 billion. See Dept. of Commerce, Bureau of Census,
+Statistical Abstract of the United States: 2007, p. 649 (126th ed.)
+(over $3 trillion in U. S. retail sales in 2002). Putting the Court’s
+estimate together with the Justice Department’s early 1970’s study
+translates a legal regime that permits all resale price maintenance
+into retail bills that are higher by an average of roughly $750 to
+$1,000 annually for an American family of four. Just how much higher
+retail bills will be after the Court’s decision today, of course,
+depends upon what is now unknown, namely, how courts will decide future
+cases under a “rule of reason.” But these figures indicate that
+the amounts involved are important to American families and cannot be
+dismissed as “tiny.”
+
+  Sixth, the fact that a rule of law has become “embedded” in our
+“national culture” argues strongly against overruling. \\Dickerson\\
+v. \\United States,\\ 530 U. S. 428, 443–444 (2000). The \\per
+se\\ rule forbidding minimum resale price maintenance agreements has
+long been “embedded” in the law of antitrust. It involves price,
+the economy’s “ ‘central nervous system.’ ” \\National
+Soc. of Professional Engineers,\\ 435 @@927@@ U. S., at 692 (quoting
+\\Socony-Vacuum Oil,\\ 310 U. S., at 226, n. 59). It reflects a basic
+antitrust assumption (that consumers often prefer lower prices to
+more service). It embodies a basic antitrust objective (providing
+consumers with a free choice about such matters). And it creates an
+easily administered and enforceable bright line, “Do not agree about
+price,” that businesses as well as lawyers have long understood.
+
+  The only contrary \\stare decisis\\ factor that the majority mentions
+consists of its claim that this Court has “[f]rom the beginning . . . 
+treated the Sherman Act as a common-law statute,” and has previously
+overruled antitrust precedent. \\Ante,\\ at 899, 900–902. It points
+in support to \\State Oil Co.\\ v. \\Khan\\, 522 U. S. 3 (1997),
+overruling \\Albrecht\\ v. \\Herald Co.,\\ 390 U. S. 145 (1968), in
+which this Court had held that \\maximum\\ resale price agreements were
+unlawful \\per se,\\ and to \\Sylvania,\\ overruling \\United States\\
+v. \\Arnold, Schwinn &Co.,\\ 388 U. S. 365 (1967), in which this Court
+had held that producer-imposed territorial limits were unlawful \\per
+se.\\
+
+  The Court decided \\Khan,\\ however, 29 years after
+\\Albrecht\\—still a significant period, but nowhere close to the
+century \\Dr. Miles\\ has stood. The Court specifically noted the
+\\lack\\ of any significant reliance upon \\Albrecht.\\ 522 U. S., at
+18–19 (\\Albrecht\\ has had “little or no relevance to ongoing
+enforcement of the Sherman Act”). \\Albrecht\\ had far less support
+in traditional antitrust principles than did \\Dr. Miles.\\ Compare,
+\\e. g.,\\ 8 Areeda & Hovenkamp ¶ 1632, at 316–328 (analyzing
+potential harms of minimum resale price maintenance), with \\id.,\\ ¶
+1637, at 352–361 (analyzing potential harms of maximum resale price
+maintenance). See also, \\e. g.,\\ Pitofsky 1490, n. 17. And Congress
+had nowhere expressed support for \\Albrecht’\\s rule. \\Khan,
+supra,\\ at 19.
+
+  In \\Sylvania,\\ the Court, in overruling \\Schwinn,\\ explicitly
+distinguished \\Dr. Miles\\ on the ground that while Congress had
+“recently . . . expressed its approval of a \\per se\\ analysis of
+vertical price restrictions” by repealing the Miller@@928@@Tydings and
+McGuire Acts, “[n]o similar expression of congressional intent exists
+for nonprice restrictions.” 433 U. S., at 51, n. 18. Moreover, the
+Court decided \\Sylvania\\ only a decade after \\Schwinn.\\ And it based
+its overruling on a generally perceived need to avoid “confusion” in
+the law, 433 U. S., at 47–49, a factor totally absent here.
+
+  The Court suggests that it is following “the common-law
+tradition.” \\Ante\\, at 905. But the common law would not have
+permitted overruling \\Dr. Miles\\ in these circumstances. Common-law
+courts rarely overruled well-established earlier rules outright. Rather,
+they would over time issue decisions that gradually eroded the scope
+and effect of the rule in question, which might eventually lead the
+courts to put the rule to rest. One can argue that modifying the \\per
+se\\ rule to make an exception, say, for new entry, see Pitofsky 1495,
+could prove consistent with this approach. To swallow up a century-old
+precedent, potentially affecting many billions of dollars of sales, is
+not. The reader should compare today’s “common-law” decision with
+Justice Cardozo’s decision in \\Allegheny College\\ v. \\National
+Chautauqua Cty.Bank of Jamestown,\\ 246 N. Y. 369, 159 N. E. 173 (1927),
+and note a gradualism that does not characterize today’s decision.
+
+  Moreover, a Court that rests its decision upon economists’ views of
+the economic merits should also take account of legal scholars’ views
+about common-law overruling. Professors Hart and Sacks list 12 factors
+(similar to those I have mentioned) that support judicial “adherence
+to prior holdings.” They all support adherence to \\Dr. Miles\\ here.
+See H. Hart & A. Sacks, The Legal Process 568–569 (W. Eskridge & P.
+Frickey eds. 1994). Karl Llewellyn has written that the common-law
+judge’s “conscious reshaping” of prior law “must so move as
+to hold the degree of movement down to the degree to which need truly
+presses.” The Bramble Bush 156 (1960). Where here is the pressing
+need? The Court notes that the FTC argues here in favor of a rule of
+reason. See \\ante,\\ at 900. But both Congress and the FTC, @@929@@
+unlike courts, are well equipped to gather empirical evidence outside
+the context of a single case. As neither has done so, we cannot conclude
+with confidence that the gains from eliminating the \\per se\\ rule will
+outweigh the costs.
+
+  In sum, every \\stare decisis\\ concern this Court has ever mentioned
+counsels against overruling here. It is difficult for me to understand
+how one can believe both that (1) satisfying a set of \\stare decisis\\
+concerns justifies overruling a recent constitutional decision,
+\\Wisconsin Right toLife, Inc., ante,\\ at 500–503 (<<Scalia,>>
+J., joined by <<Kennedy>> and <<Thomas,>> JJ., concurring in part
+and concurring in judgment), but (2) failing to satisfy any of those
+same concerns nonetheless permits overruling a longstanding statutory
+decision. Either those concerns are relevant or they are not.
+
+* * *
+
+  The only safe predictions to make about today’s decision are that it
+will likely raise the price of goods at retail and that it will create
+considerable legal turbulence as lower courts seek to develop workable
+principles. I do not believe that the majority has shown new or changed
+conditions sufficient to warrant overruling a decision of such long
+standing. All ordinary \\stare decisis\\ considerations indicate the
+contrary. For these reasons, with respect, I dissent.
