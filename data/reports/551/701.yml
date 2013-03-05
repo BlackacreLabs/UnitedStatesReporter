@@ -1,6 +1,15 @@
 ---
+style: Parents Involved in Community Schools v. Seattle School Dist. No. 1 et al.
 abbreviated: Parents Involved in Community Schools v. Seattle School Dist. No. 1
 year: 2007
+posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+number: 05-908
+argued: 2006-12-04
+decided: 2007-06-28
+with:
+- number: 05-925
+  style: Meredith, Custodial Parent and Next Friend of McDonald v. Jefferson County Board of Education et al.
+  posture: Certiorari to the United States Court of Appeals for the Sixth Circuit
 reports:
 - reporter: United States Reports
   abbreviation: U. S.

@@ -1,5 +1,14 @@
 ---
+style: Federal Election Commission v. Wisconsin Right to Life, Inc.
 abbreviated: Federal Election Comm’n v. Wisconsin Right to Life, Inc.
+posture: Appeal from the United States Court of Appeals for the District of Columbia
+number: 06-969
+argued: 2007-04-25
+decided: 2007-06-25
+with:
+- number: 06-970
+  style: McCain, United States Senator, et al. v. Wisconsin Right to Life, Inc.
+  posture: Appeal from the United States Court of Appeals for the District of Columbia
 year: 2007
 reports:
 - reporter: United States Reports

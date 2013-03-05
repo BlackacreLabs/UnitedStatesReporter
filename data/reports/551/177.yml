@@ -1,5 +1,14 @@
 ---
+style: Davenport et al. v. Washington Education Association
 abbreviated: Davenport v. Washington Ed. Assn.
+number: 05-1589
+argued: 2007-01-10
+decided: 2007-06-14
+posture: Certiorari to the Supreme Court of Washington
+with:
+- number: 05-1657
+  style: Washington v. Washington Education Association
+  posture: Certiorari to the Supreme Court of Washington
 year: 2007
 reports:
 - reporter: United States Reports
