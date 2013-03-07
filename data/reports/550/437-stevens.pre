@@ -1,0 +1,21 @@
+Type: Dissenting
+Author: Stevens
+Page: 462
+
+  <<Justice Stevens,>> dissenting. 
+
+  As the Court acknowledges, “[p]lausible arguments can be made for and against extending §271(f) to the conduct charged in this case as infringing AT&T’s patent.” \\Ante,\\ at 442. Strong policy considerations, buttressed by the presumption against the application of domestic patent law in foreign markets, support Microsoft Corporation’s position. I am, however, persuaded that an affirmance of the Court of Appeals’ judgment is more faithful to the intent of the Congress that enacted §271(f) than a reversal. @@463@@
+
+  The provision was a response to our decision in \\Deepsouth\\ \\Packing Co.\\ v. \\Laitram Corp.,\\ 406 U. S. 518 (1972), holding that a patent on a shrimp deveining machine had not been infringed by the export of components for assembly abroad. Paragraph (1) of §271(f) would have been sufficient on its own to overrule \\Deepsouth,\\* but it is paragraph (2) that best supports AT&T’s position here. It provides: 
+
+    “Whoever without authority supplies or causes to be supplied in or from the United States any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.” §271(f)(2). 
+
+Under this provision, the export of a specially designed knife that has no use other than as a part of a patented deveining machine would constitute infringement. It follows that §271(f)(2) would cover the export of an inventory of such knives to be warehoused until used to complete the assembly of an infringing machine. 
+
+  The relevant component in this case is not a physical item like a knife. Both Microsoft and the Court think that means it cannot be a “component.” See \\ante,\\ at 449. But if a disk @@464@@ with software inscribed on it is a “component,” I find it difficult to understand why the most important ingredient of that component is not also a component. Indeed, the master disk is the functional equivalent of a warehouse of components— components that Microsoft fully expects to be incorporated into foreign-manufactured computers. Put somewhat differently: On the Court’s view, Microsoft could be liable under §271(f) only if it sends individual copies of its software directly from the United States with the intent that each copy would be incorporated into a separate infringing computer. But it seems to me that an indirect transmission via a master disk warehouse is likewise covered by §271(f). 
+
+^* “Whoever without authority supplies or causes to be supplied in or from the United States all or a substantial portion of the components of a patented invention, where such components are uncombined in whole or in part, in such manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.” 35 U. S. C. §271(f)(1). 
+
+  I disagree with the Court’s suggestion that because software is analogous to an abstract set of instructions, it cannot be regarded as a “component” within the meaning of §271(f). See \\ante,\\ at 449–450. Whether attached or detached from any medium, software plainly satisfies the dictionary definition of that word. See \\ante,\\ at 449, n. 11 (observing that “ ‘[c]omponent’ is commonly defined as ‘a constituent part,’ ‘element,’ or ‘ingredient’ ”). And unlike a blueprint that merely instructs a user how to do something, software actually causes infringing conduct to occur. It is more like a roller that causes a player piano to produce sound than sheet music that tells a pianist what to do. Moreover, it is surely not “a staple article or commodity of commerce suitable for substantial noninfringing use” as that term is used in §271(f)(2). On the contrary, its sole intended use is an infringing use. 
+
+  I would therefore affirm the judgment of the Court of Appeals. 
