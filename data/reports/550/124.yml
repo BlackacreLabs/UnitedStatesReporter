@@ -1,6 +1,15 @@
 ---
+style: Gonzales, Attorney General v. Carhart et al.
 abbreviated: Gonzales v. Carhart
+argued: 2006-11-08
+decided: 2007-04-18
+posture: on certiorari to the United States Court of Appeals for the Eighth Circuit
 year: 2007
+number: 05-380
+with:
+- style: Gonazales, Attorney General v. Planned Parenthood Federal of America, Inc., et al.
+  posture: on certiorari to the United States Court of Appeals for the Ninth Circuit
+  number: 05-1382
 reports:
 - reporter: United States Reports
   abbreviation: U. S.
