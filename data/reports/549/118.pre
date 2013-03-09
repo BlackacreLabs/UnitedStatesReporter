@@ -2,85 +2,627 @@ Type: Court
 Author: Scalia
 Page: 120
 
-  <<Justice Scalia>> delivered the opinion of the Court. 
+  <<Justice Scalia>> delivered the opinion of the Court.
 
-  We must decide whether Article III’s limitation of federal courts’ jurisdiction to “Cases” and “Controversies,” reflected in the “actual controversy” requirement of the Declaratory Judgment Act, 28 U. S. C. § 2201(a), requires a patent li@@121@@censee to terminate or be in breach of its license agreement before it can seek a declaratory judgment that the underlying patent is invalid, unenforceable, or not infringed. 
+  We must decide whether Article III’s limitation of federal courts’
+jurisdiction to “Cases” and “Controversies,” reflected in
+the “actual controversy” requirement of the Declaratory Judgment
+Act, 28 U. S. C. § 2201(a), requires a patent li@@121@@censee
+to terminate or be in breach of its license agreement before it can
+seek a declaratory judgment that the underlying patent is invalid,
+unenforceable, or not infringed.
 
 # I
 
-  Because the declaratory-judgment claims in this case were disposed of at the motion-to-dismiss stage, we take the following facts from the allegations in petitioner’s amended complaint and the unopposed declarations that petitioner submitted in response to the motion to dismiss. Petitioner MedImmune, Inc., manufactures Synagis, a drug used to prevent respiratory tract disease in infants and young children. In 1997, petitioner entered into a patent license agreement with respondent Genentech, Inc. (which acted on behalf of itself as patent assignee and on behalf of the coassignee, respondent City of Hope). The license covered an existing patent relating to the production of “chimeric antibodies” and a then-pending patent application relating to “the coexpression of immunoglobulin chains in recombinant host cells.” Petitioner agreed to pay royalties on sales of “Licensed Products,” and respondents granted petitioner the right to make, use, and sell them. The agreement defined “Licensed Products” as a specified antibody, “the manufacture, use or sale of which . . . would, if not licensed under th[e] Agreement, infringe one or more claims of either or both of [the covered patents,] which have neither expired nor been held invalid by a court or other body of competent jurisdiction from which no appeal has been or may be taken.” App. 399. The license agreement gave petitioner the right to terminate upon six months’ written notice. 
+  Because the declaratory-judgment claims in this case were disposed
+of at the motion-to-dismiss stage, we take the following facts from
+the allegations in petitioner’s amended complaint and the unopposed
+declarations that petitioner submitted in response to the motion to
+dismiss. Petitioner MedImmune, Inc., manufactures Synagis, a drug used
+to prevent respiratory tract disease in infants and young children. In
+1997, petitioner entered into a patent license agreement with respondent
+Genentech, Inc. (which acted on behalf of itself as patent assignee
+and on behalf of the coassignee, respondent City of Hope). The license
+covered an existing patent relating to the production of “chimeric
+antibodies” and a then-pending patent application relating to “the
+coexpression of immunoglobulin chains in recombinant host cells.”
+Petitioner agreed to pay royalties on sales of “Licensed Products,”
+and respondents granted petitioner the right to make, use, and sell
+them. The agreement defined “Licensed Products” as a specified
+antibody, “the manufacture, use or sale of which . . . would, if not
+licensed under th[e] Agreement, infringe one or more claims of either or
+both of [the covered patents,] which have neither expired nor been held
+invalid by a court or other body of competent jurisdiction from which no
+appeal has been or may be taken.” App. 399. The license agreement gave
+petitioner the right to terminate upon six months’ written notice.
 
-  In December 2001, the “coexpression” application covered by the 1997 license agreement matured into the “Cabilly II” patent. Soon thereafter, respondent Genentech delivered petitioner a letter expressing its belief that Synagis was covered by the Cabilly II patent and its expectation that petitioner would pay royalties beginning March 1, 2002. Petitioner did not think royalties were owing, believing that the @@122@@ Cabilly II patent was invalid and unenforceable,and that its claims were in any event not infringed by Synagis. Nevertheless, petitioner considered the letter to be a clear threat to enforce the Cabilly II patent, terminate the 1997 license agreement, and sue for patent infringement if petitioner did not make royalty payments as demanded. If respondents were to prevail in a patent infringement action, petitioner could be ordered to pay treble damages and attorney’s fees, and could be enjoined from selling Synagis, a product that has accounted for more than 80 percent of its revenue from sales since 1999. Unwilling to risk such serious consequences, petitioner paid the demanded royalties “under protest and with reservation of all of [its] rights.” \\Id.,\\ at 426. This declaratory-judgment action followed. 
+  In December 2001, the “coexpression” application covered by
+the 1997 license agreement matured into the “Cabilly II” patent.
+Soon thereafter, respondent Genentech delivered petitioner a letter
+expressing its belief that Synagis was covered by the Cabilly II
+patent and its expectation that petitioner would pay royalties
+beginning March 1, 2002. Petitioner did not think royalties were
+owing, believing that the @@122@@ Cabilly II patent was invalid and
+unenforceable,[[1]] and that its claims were in any event not infringed
+by Synagis. Nevertheless, petitioner considered the letter to be a
+clear threat to enforce the Cabilly II patent, terminate the 1997
+license agreement, and sue for patent infringement if petitioner did
+not make royalty payments as demanded. If respondents were to prevail
+in a patent infringement action, petitioner could be ordered to pay
+treble damages and attorney’s fees, and could be enjoined from
+selling Synagis, a product that has accounted for more than 80 percent
+of its revenue from sales since 1999. Unwilling to risk such serious
+consequences, petitioner paid the demanded royalties “under protest
+and with reservation of all of [its] rights.” \\Id.,\\ at 426. This
+declaratory-judgment action followed.
 
-  Petitioner sought the declaratory relief discussed in detail in Part II below. Petitioner also requested damages and an injunction with respect to other federal and state claims not relevant here. The District Court granted respondents’ motion to dismiss the declaratory-judgment claims for lack of subject-matter jurisdiction, relying on the decision of the United States Court of Appeals for the Federal Circuit in \\Gen-Probe Inc.\\ v. \\Vysis, Inc.,\\ 359 F. 3d 1376 (2004). \\Gen- Probe\\ had held that a patent licensee in good standing cannot establish an Article III case or controversy with regard to validity, enforceability, or scope of the patent because the license agreement “obliterate[s] any reasonable apprehension” that the licensee will be sued for infringement. \\Id.,\\ at 1381. The Federal Circuit affirmed the District Court, also relying on \\Gen-Probe.\\ 427 F. 3d 958 (2005). We granted certiorari. 546 U. S. 1169 (2006). @@123@@
+  Petitioner sought the declaratory relief discussed in detail in
+Part II below. Petitioner also requested damages and an injunction
+with respect to other federal and state claims not relevant here.
+The District Court granted respondents’ motion to dismiss the
+declaratory-judgment claims for lack of subject-matter jurisdiction,
+relying on the decision of the United States Court of Appeals for the
+Federal Circuit in \\Gen-Probe Inc.\\ v. \\Vysis, Inc.,\\ 359 F. 3d
+1376 (2004). \\Gen- Probe\\ had held that a patent licensee in good
+standing cannot establish an Article III case or controversy with regard
+to validity, enforceability, or scope of the patent because the license
+agreement “obliterate[s] any reasonable apprehension” that the
+licensee will be sued for infringement. \\Id.,\\ at 1381. The Federal
+Circuit affirmed the District Court, also relying on \\Gen-Probe.\\ 427
+F. 3d 958 (2005). We granted certiorari. 546 U. S. 1169 (2006). @@123@@
 
-^1 Hereinafter, invalidity and unenforceability will be referred to simply as invalidity, with similar abbreviation of positive (validity and enforceability) and adjectival (valid and invalid, enforceable and unenforceable) forms. 
+^1 Hereinafter, invalidity and unenforceability will be referred to
+simply as invalidity, with similar abbreviation of positive (validity
+and enforceability) and adjectival (valid and invalid, enforceable and
+unenforceable) forms.
 
 # II
 
-  At the outset, we address a disagreement concerning the nature of the dispute at issue here—whether it involves only a freestanding claim of patent invalidity or rather a claim that, both because of patent invalidity and because of noninfringement, no royalties are owing under the license agreement.[[2]] That probably makes no difference to the ultimate issue of subject-matter jurisdiction, but it is well to be clear about the nature of the case before us. 
+  At the outset, we address a disagreement concerning the nature of the
+dispute at issue here—whether it involves only a freestanding claim
+of patent invalidity or rather a claim that, both because of patent
+invalidity and because of noninfringement, no royalties are owing under
+the license agreement.[[2]] That probably makes no difference to the
+ultimate issue of subject-matter jurisdiction, but it is well to be
+clear about the nature of the case before us.
 
-  Respondents contend that petitioner “is not seeking an interpretation of its present contractual obligations.” Brief for Respondent Genentech 37; see also Brief for Respondent City of Hope 48–49. They claim this for two reasons: (1) because there is no dispute that Synagis infringes the Cabilly II patent, thereby making royalties payable; and (2) because while there is a dispute over patent validity, the contract calls for royalties on an infringing product whether or not the underlying patent is valid. See Brief for Respondent Genentech 7, 37. The first point simply does not comport with the allegations of petitioner’s amended complaint. The very first count requested a \\“DECLARATORY JUDG- MENT ON CONTRACTUAL RIGHTS AND OBLIGA- TIONS,”\\ and stated that petitioner “disputes its obligation to make payments under the 1997 License Agreement because [petitioner’s] sale of its Synagis� product does not infringe any valid claim of the [Cabilly II] Patent.” App. 136. These contentions were repeated throughout the complaint. @@124@@ \\Id.,\\ at 104, 105, 108, 147.And the phrase “does not infringe any \\valid\\ claim” (emphasis added) cannot be thought to be no more than a challenge to the patent’s validity, since elsewhere the amended complaint states with unmistakable clarity that “the patent is . . . not infringed by [petitioner’s] Synagis® product and that [petitioner] owes no payments under license agreements with [respondents].” \\Id.,\\ at 104.[[4]] 
+  Respondents contend that petitioner “is not seeking an
+interpretation of its present contractual obligations.” Brief for
+Respondent Genentech 37; see also Brief for Respondent City of Hope
+48–49. They claim this for two reasons: (1) because there is no
+dispute that Synagis infringes the Cabilly II patent, thereby making
+royalties payable; and (2) because while there is a dispute over
+patent validity, the contract calls for royalties on an infringing
+product whether or not the underlying patent is valid. See Brief for
+Respondent Genentech 7, 37. The first point simply does not comport with
+the allegations of petitioner’s amended complaint. The very first
+count requested a \\“DECLARATORY JUDG- MENT ON CONTRACTUAL RIGHTS
+AND OBLIGATIONS,”\\ and stated that petitioner “disputes its
+obligation to make payments under the 1997 License Agreement because
+[petitioner’s] sale of its Synagis® product does not infringe any
+valid claim of the [Cabilly II] Patent.” App. 136. These contentions
+were repeated throughout the complaint. @@124@@ \\Id.,\\ at 104, 105,
+108, 147.[[3]] And the phrase “does not infringe any \\valid\\ claim”
+(emphasis added) cannot be thought to be no more than a challenge to
+the patent’s validity, since elsewhere the amended complaint states
+with unmistakable clarity that “the patent is . . . not infringed
+by [petitioner’s] Synagis® product and that [petitioner] owes no
+payments under license agreements with [respondents].” \\Id.,\\ at
+104.[[4]]
 
 
-^2 The dissent contends that the question on which we granted certiorari does not reach the contract claim. \\Post,\\ at 140–141 (opinion of <<Thomas,>> J.). We think otherwise. The question specifically refers to the “license agreement” and to the contention that the patent is “not infringed.” Pet. for Cert. (i). The unmistakable meaning is that royalties are not owing under the contract. 
+^2 The dissent contends that the question on which we granted certiorari
+does not reach the contract claim. \\Post,\\ at 140–141 (opinion of
+<<Thomas,>> J.). We think otherwise. The question specifically refers
+to the “license agreement” and to the contention that the patent is
+“not infringed.” Pet. for Cert. (i). The unmistakable meaning is
+that royalties are not owing under the contract.
 
-  As to the second point, petitioner assuredly did contend that it had no obligation under the license to pay royalties on an invalid patent. \\Id.,\\ at 104, 136, 147. Nor is that contention frivolous. True, the license requires petitioner to pay royalties \\until\\ a patent claim has been held invalid by a competent body, and the Cabilly II patent has not. But the license at issue in \\Lear, Inc.\\ v. \\Adkins,\\ 395 U. S. 653, 673 (1969), similarly provided that “royalties are to be paid until such time as the ‘patent . . . is held invalid,’” and we rejected the argument that a repudiating licensee must comply with its contract and pay royalties until its claim is vindicated in court. We express no opinion on whether a \\nonrepudiating licensee\\ is similarly relieved of its contract obligation during a successful challenge to a patent’s validity—that is, on the applicability of licensee estoppel under these circumstances. Cf. \\Studiengesellschaft Kohle, m. b. H.\\ v. \\Shell Oil Co.,\\ 112 F. 3d 1561, 1568 (CA Fed. 1997) (“[A] licensee . . . cannot @@125@@ invoke the protection of the \\Lear\\ doctrine until it (i) actually ceases payment of royalties, and (ii) provides notice to the licensor that the reason for ceasing payment of royalties is because it has deemed the relevant claims to be invalid”). All we need determine is whether petitioner has alleged a contractual dispute. It has done so. 
+  As to the second point, petitioner assuredly did contend that it had
+no obligation under the license to pay royalties on an invalid patent.
+\\Id.,\\ at 104, 136, 147. Nor is that contention frivolous. True, the
+license requires petitioner to pay royalties \\until\\ a patent claim
+has been held invalid by a competent body, and the Cabilly II patent
+has not. But the license at issue in \\Lear, Inc.\\ v. \\Adkins,\\ 395
+U. S. 653, 673 (1969), similarly provided that “royalties are to be
+paid until such time as the ‘patent . . . is held invalid,’”
+and we rejected the argument that a repudiating licensee must comply
+with its contract and pay royalties until its claim is vindicated in
+court. We express no opinion on whether a \\nonrepudiating licensee\\
+is similarly relieved of its contract obligation during a successful
+challenge to a patent’s validity—that is, on the applicability of
+licensee estoppel under these circumstances. Cf. \\Studiengesellschaft
+Kohle, m. b. H.\\ v. \\Shell Oil Co.,\\ 112 F. 3d 1561, 1568 (CA Fed.
+1997) (“[A] licensee . . . cannot @@125@@ invoke the protection of
+the \\Lear\\ doctrine until it (i) actually ceases payment of royalties,
+and (ii) provides notice to the licensor that the reason for ceasing
+payment of royalties is because it has deemed the relevant claims to be
+invalid”). All we need determine is whether petitioner has alleged a
+contractual dispute. It has done so.
 
-^3 In addition to agreeing with respondents that (despite the face of the complaint) this case does not involve a contract claim, \\post,\\ at 140–141, the dissent evidently thinks the contract claim is weak. That, however, goes to the merits of the claim, not to its existence or the courts’ jurisdiction over it. Nor is the alleged “lack of specificity in the complaint,” \\post,\\ at 140, a jurisdictional matter. 
+^3 In addition to agreeing with respondents that (despite the face of
+the complaint) this case does not involve a contract claim, \\post,\\
+at 140–141, the dissent evidently thinks the contract claim is weak.
+That, however, goes to the merits of the claim, not to its existence
+or the courts’ jurisdiction over it. Nor is the alleged “lack of
+specificity in the complaint,” \\post,\\ at 140, a jurisdictional
+matter.
 
-^4 The dissent observes that the District Court assumed that Synagis was “‘covered by the patents at issue.’” \\Post,\\ at 141 (quoting App. 349–350). But the quoted statement is taken from the District Court’s separate opinion granting summary judgment \\on petitioner’s antitrust claims.\\ For purposes of that earlier ruling, whether Synagis infringed the patent was irrelevant, and there was no harm in accepting respondents’ contention on the point. This tells us nothing, however, about petitioner’s contract claim or the District Court’s later jurisdictional holding with respect to it. 
+^4 The dissent observes that the District Court assumed that Synagis was
+“‘covered by the patents at issue.’” \\Post,\\ at 141 (quoting
+App. 349–350). But the quoted statement is taken from the District
+Court’s separate opinion granting summary judgment \\on petitioner’s
+antitrust claims.\\ For purposes of that earlier ruling, whether Synagis
+infringed the patent was irrelevant, and there was no harm in accepting
+respondents’ contention on the point. This tells us nothing, however,
+about petitioner’s contract claim or the District Court’s later
+jurisdictional holding with respect to it.
 
-  Respondents further argue that petitioner waived its contract claim by failing to argue it below. Brief for Respondent Genentech 10–11; Tr. of Oral Arg. 30–31. The record reveals, however, that petitioner raised the contract point before the Federal Circuit. See Brief for Plantiff-Appellant MedImmune, Inc., in Nos. 04–1300, 04–1384 (CA Fed.), p. 38 (“Here, MedImmune is seeking to define its rights and obligations under its contract with Genentech—precisely the type of action the Declaratory Judgment Act contemplates”). That petitioner limited its contract argument to a few pages of its appellate brief does not suggest a waiver; it merely reflects counsel’s sound assessment that the argument would be futile. The Federal Circuit’s \\Gen-Probe\\ precedent precluded jurisdiction over petitioner’s contract claims, and the panel below had no authority to overrule \\Gen-Probe.\\[[5]] Having determined that petitioner has raised and preserved a contract claim,[[6]] we turn to the jurisdictional question. @@126@@
+  Respondents further argue that petitioner waived its contract claim
+by failing to argue it below. Brief for Respondent Genentech 10–11;
+Tr. of Oral Arg. 30–31. The record reveals, however, that petitioner
+raised the contract point before the Federal Circuit. See Brief for
+Plantiff-Appellant MedImmune, Inc., in Nos. 04–1300, 04–1384 (CA
+Fed.), p. 38 (“Here, MedImmune is seeking to define its rights and
+obligations under its contract with Genentech—precisely the type of
+action the Declaratory Judgment Act contemplates”). That petitioner
+limited its contract argument to a few pages of its appellate brief does
+not suggest a waiver; it merely reflects counsel’s sound assessment
+that the argument would be futile. The Federal Circuit’s \\Gen-Probe\\
+precedent precluded jurisdiction over petitioner’s contract claims,
+and the panel below had no authority to overrule \\Gen-Probe.\\[[5]]
+Having determined that petitioner has raised and preserved a contract
+claim,[[6]] we turn to the jurisdictional question. @@126@@
 
-^5 Respondents obviously agree. They said in the District Court: “The facts of this case are, for purposes of this motion, identical to the facts in \\Gen-Probe.\\ . . . Like Gen-Probe, MedImmune filed an action seeking a declaratory judgment that: (a) it owes nothing under its license agreement with Genentech because its sales of Synagis� allegedly do not infringe any valid claim of the [Cabilly II] patent; (b) the [Cabilly II] patent is invalid; (c) the [Cabilly II] patent is unenforceable; and (d) Synagis� does not infringe the [Cabilly II] patent.” App. in Nos. 04–1300, 04–1384 (CA Fed.), p. A2829 (record citations omitted). 
+^5 Respondents obviously agree. They said in the District Court: “The
+facts of this case are, for purposes of this motion, identical to
+the facts in \\Gen-Probe.\\ . . . Like Gen-Probe, MedImmune filed an
+action seeking a declaratory judgment that: (a) it owes nothing under
+its license agreement with Genentech because its sales of Synagis®
+allegedly do not infringe any valid claim of the [Cabilly II] patent;
+(b) the [Cabilly II] patent is invalid; (c) the [Cabilly II] patent is
+unenforceable; and (d) Synagis® does not infringe the [Cabilly II]
+patent.” App. in Nos. 04–1300, 04–1384 (CA Fed.), p. A2829 (record
+citations omitted).
 
-^6 The dissent asserts that petitioner did not allege a contract claim in its opening brief or at oral argument. \\Post,\\ at 141. This is demonstrably false. See, \\e. g.,\\ Brief for Petitioner 8 (the Cabilly II patent was “not infringed by Synagis�, so that royalties were not due under the license”); \\id.,\\ at 12 (Summary of Argument: “[The purpose] of the Declaratory Judgment Act . . . was to allow contracting parties to resolve their disputes in court without breach and without risking economic destruction and multi@@126@@plying damages. . . . The holding [below] . . . would . . . disrupt the law of licenses and contracts throughout the economy, essentially undoing the achievement of the reformers of 1934”); Tr. of Oral Arg. 15 (“We’re saying this is a contract dispute”); \\id.,\\ at 16 (“[T]he purpose of [the Declaratory Judgment Act] is so that contracts can be resolved without breach”); \\id.,\\ at 57 (“The contract claim is clear in the record. It’s at page 136 of the joint appendix. I don’t think more needs to be said about it”). 
+^6 The dissent asserts that petitioner did not allege a contract claim
+in its opening brief or at oral argument. \\Post,\\ at 141. This is
+demonstrably false. See, \\e. g.,\\ Brief for Petitioner 8 (the Cabilly
+II patent was “not infringed by Synagis®, so that royalties were
+not due under the license”); \\id.,\\ at 12 (Summary of Argument:
+“[The purpose] of the Declaratory Judgment Act . . . was to allow
+contracting parties to resolve their disputes in court without breach
+and without risking economic destruction and multi@@126@@plying damages.
+. . . The holding [below] . . . would . . . disrupt the law of
+licenses and contracts throughout the economy, essentially undoing
+the achievement of the reformers of 1934”); Tr. of Oral Arg. 15
+(“We’re saying this is a contract dispute”); \\id.,\\ at 16
+(“[T]he purpose of [the Declaratory Judgment Act] is so that contracts
+can be resolved without breach”); \\id.,\\ at 57 (“The contract
+claim is clear in the record. It’s at page 136 of the joint appendix.
+I don’t think more needs to be said about it”).
 
-^ The dissent also asserts that the validity of the contract claim “hinges entirely upon a determination of the patent’s validity,” since “‘the license requires [MedImmune] to pay royalties \\until\\ a patent claim has been held invalid by a competent body,’ ” \\post,\\ at 141, quoting \\supra,\\ at 124. This would be true only if the license required royalties on all products under the sun, and not just those that practice the patent. Of course it does not. 
+^ The dissent also asserts that the validity of the contract claim
+“hinges entirely upon a determination of the patent’s validity,”
+since “‘the license requires [MedImmune] to pay royalties \\until\\
+a patent claim has been held invalid by a competent body,’ ”
+\\post,\\ at 141, quoting \\supra,\\ at 124. This would be true only if
+the license required royalties on all products under the sun, and not
+just those that practice the patent. Of course it does not.
 
 # III
 
-  The Declaratory Judgment Act provides that, “[i]n a case of actual controversy within its jurisdiction . . . any court of the United States . . . may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought.” 28 U. S. C. § 2201(a). There was a time when this Court harbored doubts about the compatibility of declaratory-judgment actions with Article III’s case-or-controversy requirement. See \\Willing\\ v. \\Chicago Auditorium Assn.,\\ 277 U. S. 274, 289 (1928); \\Liberty Warehouse Co.\\ v. \\Grannis,\\ 273 U. S. 70 (1927); see also \\Gordon\\ v. \\United States,\\ 117 U. S. Appx. 697, 702 (1864) (the last opinion of Taney, C. J., published posthumously) (“The award of execution is . . . an essential part of every judgment passed by a court exercising judicial power”). We dispelled those doubts, however, in \\Nashville, C. & St. L. R. Co.\\ v. \\Wallace,\\ 288 U. S. 249 (1933), holding (in a case involving a declaratory judgment rendered in state court) that an appropriate action for declaratory relief \\can\\ be a case or controversy under Article III. The federal Declaratory Judgment Act was signed into law the following year, and we upheld its constitutionality in \\Aetna Life Ins. Co.\\ v. \\Haworth,\\ 300 U. S. 227 (1937). Our opinion @@127@@ explained that the phrase “case of actual controversy” in the Act refers to the type of “Cases” and “Controversies” that are justiciable under Article III. \\Id.,\\ at 240. 
+  The Declaratory Judgment Act provides that, “[i]n a case of actual
+controversy within its jurisdiction . . . any court of the United
+States . . . may declare the rights and other legal relations of
+any interested party seeking such declaration, whether or not further
+relief is or could be sought.” 28 U. S. C. § 2201(a). There was
+a time when this Court harbored doubts about the compatibility of
+declaratory-judgment actions with Article III’s case-or-controversy
+requirement. See \\Willing\\ v. \\Chicago Auditorium Assn.,\\ 277
+U. S. 274, 289 (1928); \\Liberty Warehouse Co.\\ v. \\Grannis,\\ 273
+U. S. 70 (1927); see also \\Gordon\\ v. \\United States,\\ 117 U. S.
+Appx. 697, 702 (1864) (the last opinion of Taney, C. J., published
+posthumously) (“The award of execution is . . . an essential part
+of every judgment passed by a court exercising judicial power”). We
+dispelled those doubts, however, in \\Nashville, C. & St. L. R. Co.\\
+v. \\Wallace,\\ 288 U. S. 249 (1933), holding (in a case involving
+a declaratory judgment rendered in state court) that an appropriate
+action for declaratory relief \\can\\ be a case or controversy under
+Article III. The federal Declaratory Judgment Act was signed into law
+the following year, and we upheld its constitutionality in \\Aetna Life
+Ins. Co.\\ v. \\Haworth,\\ 300 U. S. 227 (1937). Our opinion @@127@@
+explained that the phrase “case of actual controversy” in the Act
+refers to the type of “Cases” and “Controversies” that are
+justiciable under Article III. \\Id.,\\ at 240.
 
-  \\Aetna\\ and the cases following it do not draw the brightest of lines between those declaratory-judgment actions that satisfy the case-or-controversy requirement and those that do not. Our decisions have required that the dispute be “definite and concrete, touching the legal relations of parties having adverse legal interests”; and that it be “real and substantial” and “admi[t] of specific relief through a decree of a conclusive character, as distinguished from an opinion advising what the law would be upon a hypothetical state of facts.” \\Id.,\\ at 240–241. In \\Maryland Casualty Co.\\ v. \\Pacific Coal & Oil Co.,\\ 312 U. S. 270, 273 (1941), we summarized as follows: “Basically, the question in each case is whether the facts alleged, under all the circumstances, show that there is a substantial controversy, between parties having adverse legal interests, of sufficient immediacy and reality to warrant the issuance of a declaratory judgment.”[[7]] @@128@@
+  \\Aetna\\ and the cases following it do not draw the brightest of
+lines between those declaratory-judgment actions that satisfy the
+case-or-controversy requirement and those that do not. Our decisions
+have required that the dispute be “definite and concrete, touching
+the legal relations of parties having adverse legal interests”; and
+that it be “real and substantial” and “admi[t] of specific relief
+through a decree of a conclusive character, as distinguished from
+an opinion advising what the law would be upon a hypothetical state
+of facts.” \\Id.,\\ at 240–241. In \\Maryland Casualty Co.\\ v.
+\\Pacific Coal & Oil Co.,\\ 312 U. S. 270, 273 (1941), we summarized
+as follows: “Basically, the question in each case is whether the
+facts alleged, under all the circumstances, show that there is a
+substantial controversy, between parties having adverse legal interests,
+of sufficient immediacy and reality to warrant the issuance of a
+declaratory judgment.”[[7]] @@128@@
 
-^7 The dissent asserts, \\post,\\ at 137, that “the declaratory judgment procedure cannot be used to obtain advanced rulings on matters that would be addressed in a future case of actual controversy.” As our preceding discussion shows, that is not so. If the dissent’s point is simply that a defense cannot be raised by means of a declaratory-judgment action where there is no “actual controversy” or where it would be “premature,” phrasing that argument as the dissent has done begs the question: whether this is an actual, ripe controversy. 
+^7 The dissent asserts, \\post,\\ at 137, that “the declaratory
+judgment procedure cannot be used to obtain advanced rulings on matters
+that would be addressed in a future case of actual controversy.” As
+our preceding discussion shows, that is not so. If the dissent’s
+point is simply that a defense cannot be raised by means of a
+declaratory-judgment action where there is no “actual controversy”
+or where it would be “premature,” phrasing that argument as the
+dissent has done begs the question: whether this is an actual, ripe
+controversy.
 
-^ \\Coffman\\ v. \\Breeze Corps.,\\ 323 U. S. 316, 323–324 (1945), cited \\post,\\ at 139, does not support the dissent’s view (which is why none of the parties cited it). There, a patent owner sued to enjoin his licensee from paying accrued royalties to the Government under the Royalty Adjustment Act of 1942, and sought to attack the constitutionality of the Act. The Court held the request for declaratory judgment and injunction nonjusticiable because the patent owner asserted no right to recover the royalties and there was no indication that the licensee would even raise the Act as a defense to suit for the royalties. The other case the dissent cites for the point, \\Calderon\\ v. \\Ashmus,\\ 523 U. S. 740, 749 (1998), simply holds that a @@128@@ litigant may not use a declaratory-judgment action to obtain piecemeal adjudication of defenses that \\would not finally and conclusively resolve\\ the underlying controversy. That is, of course, not the case here. ^8 The justiciability problem that arises, when the party seeking declaratory relief is himself preventing the complained-of injury from occurring, can be described in terms of standing (whether plaintiff is threatened with “imminent” injury in fact “ ‘fairly . . . trace[able] to the challenged action of the defendant,’ ” \\Lujan\\ v. \\Defenders of Wildlife,\\ 504 U. S. 555, 560 (1992)), or in terms of ripeness (whether there is sufficient “hardship to the parties [in] withholding court consideration” until there is enforcement action, \\Abbott Laboratories\\ v. \\Gardner,\\ 387 U. S. 136, 149 (1967)). As respondents acknowledge, standing and ripeness boil down to the same question in this case. Brief for Respondent Genentech 24; Brief for Respondent City of Hope 30–31. 
+^ \\Coffman\\ v. \\Breeze Corps.,\\ 323 U. S. 316, 323–324 (1945),
+cited \\post,\\ at 139, does not support the dissent’s view (which
+is why none of the parties cited it). There, a patent owner sued to
+enjoin his licensee from paying accrued royalties to the Government
+under the Royalty Adjustment Act of 1942, and sought to attack the
+constitutionality of the Act. The Court held the request for declaratory
+judgment and injunction nonjusticiable because the patent owner asserted
+no right to recover the royalties and there was no indication that
+the licensee would even raise the Act as a defense to suit for the
+royalties. The other case the dissent cites for the point, \\Calderon\\
+v. \\Ashmus,\\ 523 U. S. 740, 749 (1998), simply holds that a @@128@@
+litigant may not use a declaratory-judgment action to obtain piecemeal
+adjudication of defenses that \\would not finally and conclusively
+resolve\\ the underlying controversy. That is, of course, not the case
+here.
 
-  There is no dispute that these standards would have been satisfied if petitioner had taken the final step of refusing to make royalty payments under the 1997 license agreement. Respondents claim a right to royalties under the licensing agreement. Petitioner asserts that no royalties are owing because the Cabilly II patent is invalid and not infringed; and alleges (without contradiction) a threat by respondents to enjoin sales if royalties are not forthcoming. The factual and legal dimensions of the dispute are well defined and, but for petitioner’s continuing to make royalty payments, nothing about the dispute would render it unfit for judicial resolution. Assuming (without deciding) that respondents here could not claim an anticipatory breach and repudiate the license, the continuation of royalty payments makes what would otherwise be an imminent threat at least remote, if not nonexistent. As long as those payments are made, there is no risk that respondents will seek to enjoin petitioner’s sales. Petitioner’s own acts, in other words, eliminate the imminent threat of harm.[[8]] The question before us is whether this causes the dispute no longer to be a case or controversy within the meaning of Article III. 
+^8 The justiciability problem that arises, when the party seeking
+declaratory relief is himself preventing the complained-of injury from
+occurring, can be described in terms of standing (whether plaintiff is
+threatened with “imminent” injury in fact “ ‘fairly . . .
+trace[able] to the challenged action of the defendant,’ ” \\Lujan\\
+v. \\Defenders of Wildlife,\\ 504 U. S. 555, 560 (1992)), or in terms
+of ripeness (whether there is sufficient “hardship to the parties [in]
+withholding court consideration” until there is enforcement action,
+\\Abbott Laboratories\\ v. \\Gardner,\\ 387 U. S. 136, 149 (1967)). As
+respondents acknowledge, standing and ripeness boil down to the same
+question in this case. Brief for Respondent Genentech 24; Brief for
+Respondent City of Hope 30–31.
 
-  Our analysis must begin with the recognition that, where threatened action by \\government\\ is concerned, we do not @@129@@ require a plaintiff to expose himself to liability before bringing suit to challenge the basis for the threat—for example, the constitutionality of a law threatened to be enforced. The plaintiff’s own action (or inaction) in failing to violate the law eliminates the imminent threat of prosecution, but nonetheless does not eliminate Article III jurisdiction. For example, in \\Terrace\\ v. \\Thompson,\\ 263 U. S. 197 (1923), the State threatened the plaintiff with forfeiture of his farm, fines, and penalties if he entered into a lease with an alien in violation of the State’s anti-alien land law. Given this genuine threat of enforcement, we did not require, as a prerequisite to testing the validity of the law in a suit for injunction, that the plaintiff bet the farm, so to speak, by taking the violative action. \\Id.,\\ at 216. See also, \\e. g., Village of Euclid\\ v. \\Ambler Realty Co.,\\ 272 U. S. 365 (1926); \\Ex parte Young,\\ 209 U. S. 123 (1908). Likewise, in \\Steffel\\ v. \\Thompson,\\ 415 U. S. 452 (1974), we did not require the plaintiff to proceed to distribute handbills and risk actual prosecution before he could seek a declaratory judgment regarding the constitutionality of a state statute prohibiting such distribution. \\Id.,\\ at 458–460. As then-Justice Rehnquist put it in his concurrence, “the declaratory judgment procedure is an alternative to pursuit of the arguably illegal activity.” \\Id.,\\ at 480. In each of these cases, the plaintiff had eliminated the imminent threat of harm by simply not doing what he claimed the right to do (enter into a lease, or distribute handbills at the shopping center). That did not preclude subject-matter jurisdiction because the threat-eliminating behavior was effectively coerced. See \\Terrace, supra,\\ at 215–216; \\Steffel, supra,\\ at 459. The dilemma posed by that coercion—putting the challenger to the choice between abandoning his rights or risking prosecution—is “a dilemma that it was the very purpose of the Declaratory Judgment Act to ameliorate.” \\Abbott Laboratories\\ v. \\Gardner,\\ 387 U. S. 136, 152 (1967). @@130@@
+  There is no dispute that these standards would have been satisfied if
+petitioner had taken the final step of refusing to make royalty payments
+under the 1997 license agreement. Respondents claim a right to royalties
+under the licensing agreement. Petitioner asserts that no royalties are
+owing because the Cabilly II patent is invalid and not infringed; and
+alleges (without contradiction) a threat by respondents to enjoin sales
+if royalties are not forthcoming. The factual and legal dimensions of
+the dispute are well defined and, but for petitioner’s continuing to
+make royalty payments, nothing about the dispute would render it unfit
+for judicial resolution. Assuming (without deciding) that respondents
+here could not claim an anticipatory breach and repudiate the license,
+the continuation of royalty payments makes what would otherwise be an
+imminent threat at least remote, if not nonexistent. As long as those
+payments are made, there is no risk that respondents will seek to enjoin
+petitioner’s sales. Petitioner’s own acts, in other words, eliminate
+the imminent threat of harm.[[8]] The question before us is whether this
+causes the dispute no longer to be a case or controversy within the
+meaning of Article III.
 
-  Supreme Court jurisprudence is more rare regarding application of the Declaratory Judgment Act to situations in which the plaintiff’s self-avoidance of imminent injury is coerced by threatened enforcement action of \\a private party\\ rather than the government. Lower federal courts, however (and state courts interpreting declaratory-judgment acts requiring “actual controversy”), have long accepted jurisdiction in such cases. See, \\e. g., Keener Oil & Gas Co.\\ v. \\Consolidated Gas Utils. Corp.,\\ 190 F. 2d 985, 989 (CA10 1951); \\American Machine & Metals, Inc.\\ v. \\De Bothezat Impeller Co.,\\ 166 F. 2d 535 (CA2 1948); \\Hess\\ v. \\Country Club Park,\\ 213 Cal. 613, 614, 2 P. 2d 782, 783 (1931); \\Washington- Detroit Theater Co.\\ v. \\Moore,\\ 249 Mich. 673, 675, 229 N. W. 618, 618–619 (1930); see also Advisory Committee’s Note on Fed. Rule Civ. Proc. 57, 28 U. S. C. App., p. 790.[[9]] 
+  Our analysis must begin with the recognition that, where threatened
+action by \\government\\ is concerned, we do not @@129@@ require a
+plaintiff to expose himself to liability before bringing suit to
+challenge the basis for the threat—for example, the constitutionality
+of a law threatened to be enforced. The plaintiff’s own action
+(or inaction) in failing to violate the law eliminates the imminent
+threat of prosecution, but nonetheless does not eliminate Article III
+jurisdiction. For example, in \\Terrace\\ v. \\Thompson,\\ 263 U. S.
+197 (1923), the State threatened the plaintiff with forfeiture of his
+farm, fines, and penalties if he entered into a lease with an alien
+in violation of the State’s anti-alien land law. Given this genuine
+threat of enforcement, we did not require, as a prerequisite to testing
+the validity of the law in a suit for injunction, that the plaintiff
+bet the farm, so to speak, by taking the violative action. \\Id.,\\ at
+216. See also, \\e. g., Village of Euclid\\ v. \\Ambler Realty Co.,\\
+272 U. S. 365 (1926); \\Ex parte Young,\\ 209 U. S. 123 (1908).
+Likewise, in \\Steffel\\ v. \\Thompson,\\ 415 U. S. 452 (1974), we
+did not require the plaintiff to proceed to distribute handbills and
+risk actual prosecution before he could seek a declaratory judgment
+regarding the constitutionality of a state statute prohibiting such
+distribution. \\Id.,\\ at 458–460. As then-Justice Rehnquist put it in
+his concurrence, “the declaratory judgment procedure is an alternative
+to pursuit of the arguably illegal activity.” \\Id.,\\ at 480. In
+each of these cases, the plaintiff had eliminated the imminent threat
+of harm by simply not doing what he claimed the right to do (enter into
+a lease, or distribute handbills at the shopping center). That did not
+preclude subject-matter jurisdiction because the threat-eliminating
+behavior was effectively coerced. See \\Terrace, supra,\\ at 215–216;
+\\Steffel, supra,\\ at 459. The dilemma posed by that coercion—putting
+the challenger to the choice between abandoning his rights or risking
+prosecution—is “a dilemma that it was the very purpose of the
+Declaratory Judgment Act to ameliorate.” \\Abbott Laboratories\\ v.
+\\Gardner,\\ 387 U. S. 136, 152 (1967). @@130@@
 
-  The only Supreme Court decision in point is, fortuitously, close on its facts to the case before us. \\Altvater\\ v. \\Freeman,\\ 319 U. S. 359 (1943), held that a licensee’s failure to cease its payment of royalties did not render nonjusticiable a dispute over the validity of the patent. In that litigation, several patentees had sued their licensees to enforce territorial restrictions in the license. The licensees filed a counterclaim for declaratory judgment that the underlying patents were invalid, in the meantime paying “under protest” royalties required by an injunction the patentees had obtained in an earlier case. The patentees argued that “so long as [licensees] continue to pay royalties, there is only an academic, not a real controversy, between the parties.” \\Id.,\\ at 364. We @@131@@ rejected that argument and held that the declaratory-judgment claim presented a justiciable case or controversy: “The fact that royalties were being paid did not make this a ‘difference or dispute of a hypothetical or abstract character.’ ” \\Ibid.\\ (quoting \\Aetna,\\ 300 U. S., at 240). The royalties “were being paid under protest and under the compulsion of an injunction decree,” and “[u]nless the injunction decree were modified, the only other course [of action] was to defy it, and to risk not only actual but treble damages in infringement suits.” 319 U. S., at 365. We concluded that “the requirements of [a] case or controversy are met where payment of a claim is demanded as of right and where payment is made, but where the involuntary or coercive nature of the exaction preserves the right to recover the sums paid or to challenge the legality of the claim.” \\Ibid.\\[[10]] @@132@@
+  Supreme Court jurisprudence is more rare regarding application of
+the Declaratory Judgment Act to situations in which the plaintiff’s
+self-avoidance of imminent injury is coerced by threatened enforcement
+action of \\a private party\\ rather than the government. Lower federal
+courts, however (and state courts interpreting declaratory-judgment acts
+requiring “actual controversy”), have long accepted jurisdiction
+in such cases. See, \\e. g., Keener Oil & Gas Co.\\ v. \\Consolidated
+Gas Utils. Corp.,\\ 190 F. 2d 985, 989 (CA10 1951); \\American Machine
+& Metals, Inc.\\ v. \\De Bothezat Impeller Co.,\\ 166 F. 2d 535 (CA2
+1948); \\Hess\\ v. \\Country Club Park,\\ 213 Cal. 613, 614, 2 P. 2d
+782, 783 (1931); \\Washington- Detroit Theater Co.\\ v. \\Moore,\\ 249
+Mich. 673, 675, 229 N. W. 618, 618–619 (1930); see also Advisory
+Committee’s Note on Fed. Rule Civ. Proc. 57, 28 U. S. C. App., p.
+790.[[9]]
 
-^9 The dissent claims the cited cases do not “rely on the coercion inherent in making contractual payments.” \\Post,\\ at 145, n. 3. That is true; they relied on (to put the matter as the dissent puts it) the coercion inherent in complying with \\other\\ claimed contractual obligations. The dissent fails to explain why a contractual obligation of payment is magically different. It obviously is not. In our view, of course, the relevant coercion is not compliance with the claimed contractual obligation, but rather the consequences of failure to do so. 
+  The only Supreme Court decision in point is, fortuitously, close
+on its facts to the case before us. \\Altvater\\ v. \\Freeman,\\ 319
+U. S. 359 (1943), held that a licensee’s failure to cease its
+payment of royalties did not render nonjusticiable a dispute over
+the validity of the patent. In that litigation, several patentees
+had sued their licensees to enforce territorial restrictions in the
+license. The licensees filed a counterclaim for declaratory judgment
+that the underlying patents were invalid, in the meantime paying
+“under protest” royalties required by an injunction the patentees
+had obtained in an earlier case. The patentees argued that “so long
+as [licensees] continue to pay royalties, there is only an academic,
+not a real controversy, between the parties.” \\Id.,\\ at 364. We
+@@131@@ rejected that argument and held that the declaratory-judgment
+claim presented a justiciable case or controversy: “The fact that
+royalties were being paid did not make this a ‘difference or dispute
+of a hypothetical or abstract character.’ ” \\Ibid.\\ (quoting
+\\Aetna,\\ 300 U. S., at 240). The royalties “were being paid under
+protest and under the compulsion of an injunction decree,” and
+“[u]nless the injunction decree were modified, the only other course
+[of action] was to defy it, and to risk not only actual but treble
+damages in infringement suits.” 319 U. S., at 365. We concluded that
+“the requirements of [a] case or controversy are met where payment of
+a claim is demanded as of right and where payment is made, but where
+the involuntary or coercive nature of the exaction preserves the right
+to recover the sums paid or to challenge the legality of the claim.”
+\\Ibid.\\[[10]] @@132@@
 
-^10 The dissent incorrectly asserts that \\Altvater\\ required actual infringement, quoting wildly out of context (and twice, for emphasis) \\Altvater\\’s statement that “ ‘[t]o hold a patent valid if it is not infringed is to decide a hypothetical case.’ ” \\Post,\\ at 139, 143 (quoting 319 U. S., at 363). In the passage from which the quotation was plucked, the \\Altvater\\ Court was distinguishing the Court’s earlier decision in \\Electrical Fittings Corp.\\ v. \\Thomas & Betts Co.,\\ 307 U. S. 241 (1939), which involved an affirmative defense of patent invalidity that had become moot in light of a finding of no infringement. Here is the full quotation: 
+^9 The dissent claims the cited cases do not “rely on the coercion
+inherent in making contractual payments.” \\Post,\\ at 145, n. 3.
+That is true; they relied on (to put the matter as the dissent puts it)
+the coercion inherent in complying with \\other\\ claimed contractual
+obligations. The dissent fails to explain why a contractual obligation
+of payment is magically different. It obviously is not. In our view,
+of course, the relevant coercion is not compliance with the claimed
+contractual obligation, but rather the consequences of failure to do so.
 
-^ “The District Court [in \\Electrical Fittings\\] adjudged a claim of a patent valid although it dismissed the bill for failure to prove infringement. We held that the finding of validity was immaterial to the disposition of the cause and that the winning party might appeal to obtain a reformation of the decree. To hold a patent valid if it is not infringed is to decide a hypothetical case. But the situation in the present case is quite different. We have here not only bill and answer but a counterclaim. Though the decision of non-infringement disposes of the bill and answer, it does not dispose of the counterclaim which raises the question of validity.” \\Altvater, supra,\\ at 363 (footnote omitted). As the full quotation makes clear, the snippet quoted by the dissent has nothing to do with whether infringement must be actual or merely threatened. Indeed, it makes clear that in appropriate cases to hold a noninfringed patent valid is \\not\\ to decide a hypothetical case. ^ Though the dissent acknowledges the central lesson of \\Altvater, post,\\ at 144—that payment of royalties under “coercive” circumstances does not @@132@@ eliminate jurisdiction—it attempts to limit that rationale to the particular facts of \\Altvater.\\ But none of \\Altvater\\’s “unique facts,” \\post,\\ at 144, suggests that a different test applies to the royalty payments here. Other than a conclusory assertion that the payments here were “voluntarily made,” \\post,\\ at 146, the dissent never explains why the threat of treble damages and the loss of 80 percent of petitioner’s business does not fall within \\Altvater\\’s coercion rationale. ^11 Even if \\Altvater\\ could be distinguished as an “injunction” case, it would still contradict the Federal Circuit’s “reasonable apprehension of suit” test (or, in its evolved form, the “reasonable apprehension of \\imminent\\ suit” test, \\Teva Pharm. USA, Inc.\\ v. \\Pfizer, Inc.,\\ 395 F. 3d 1324, 1333 (2005)). A licensee who pays royalties under compulsion of an injunction @@133@@ has no more apprehension of imminent harm than a licensee who pays royalties for fear of treble damages and an injunction fatal to his business. The reasonable-apprehension-of-suit test also conflicts with our decisions in \\Maryland Casualty Co.\\ v. \\Pacific Coal & Oil Co.,\\ 312 U. S. 270, 273 (1941), where jurisdiction obtained even though the collision-victim defendant could not have sued the declaratory-judgment plaintiff-insurer without first obtaining a judgment against the insured; and \\Aetna Life Ins. Co.\\ v. \\Haworth,\\ 300 U. S. 227, 239 (1937), where jurisdiction obtained even though the very reason the insurer sought declaratory relief was that the insured had given no indication that he would file suit. It is also in tension with \\Cardinal Chemical Co.\\ v. \\Morton Int’l, Inc.,\\ 508 U. S. 83, 98 (1993), which held that appellate affirmance of a judgment of noninfringement, eliminating any apprehension of suit, does not moot a declaratory judgment counterclaim of patent invalidity. 
+^10 The dissent incorrectly asserts that \\Altvater\\ required actual
+infringement, quoting wildly out of context (and twice, for emphasis)
+\\Altvater\\’s statement that “ ‘[t]o hold a patent valid if it
+is not infringed is to decide a hypothetical case.’ ” \\Post,\\ at
+139, 143 (quoting 319 U. S., at 363). In the passage from which the
+quotation was plucked, the \\Altvater\\ Court was distinguishing the
+Court’s earlier decision in \\Electrical Fittings Corp.\\ v. \\Thomas
+& Betts Co.,\\ 307 U. S. 241 (1939), which involved an affirmative
+defense of patent invalidity that had become moot in light of a finding
+of no infringement. Here is the full quotation:
 
-  The Federal Circuit’s \\Gen-Probe\\ decision distinguished \\Altvater\\ on the ground that it involved the compulsion of an injunction. But \\Altvater\\ cannot be so readily dismissed. Never mind that the injunction had been privately obtained and was ultimately within the control of the patentees, who could permit its modification. More fundamentally, and contrary to the Federal Circuit’s conclusion, \\Altvater\\ did not say that the coercion dispositive of the case was governmental, but suggested just the opposite. The opinion acknowledged that the licensees had the option of stopping payments in defiance of the injunction, but explained that the \\consequence\\ of doing so would be to risk “actual [and] treble damages in infringement suits” by the patentees. 319 U. S., at 365. It significantly did not mention the threat of prosecution for contempt, or any other sort of governmental sanction. Moreover, it cited approvingly a treatise which said that an “actual or threatened serious injury to business or employment” by a private party can be as coercive as other forms of coercion supporting restitution actions at common law; and that “[t]o imperil a man’s livelihood, his business enterprises, or his solvency, [was] ordinarily quite as coercive” as, for example, “detaining his property.” F. Woodward, The Law of Quasi Contracts § 218 (1913), cited in \\Altvater, supra,\\ at 365.[[11]] @@133@@
+^ “The District Court [in \\Electrical Fittings\\] adjudged a claim
+of a patent valid although it dismissed the bill for failure to prove
+infringement. We held that the finding of validity was immaterial to
+the disposition of the cause and that the winning party might appeal
+to obtain a reformation of the decree. To hold a patent valid if it is
+not infringed is to decide a hypothetical case. But the situation in
+the present case is quite different. We have here not only bill and
+answer but a counterclaim. Though the decision of non-infringement
+disposes of the bill and answer, it does not dispose of the counterclaim
+which raises the question of validity.” \\Altvater, supra,\\ at 363
+(footnote omitted). As the full quotation makes clear, the snippet
+quoted by the dissent has nothing to do with whether infringement
+must be actual or merely threatened. Indeed, it makes clear that in
+appropriate cases to hold a noninfringed patent valid is \\not\\ to
+decide a hypothetical case.
 
-  Jurisdiction over the present case is not contradicted by \\Willing\\ v. \\Chicago Auditorium Assn.,\\ 277 U. S. 274. There a ground lessee wanted to demolish an antiquated auditorium and replace it with a modern commercial building. The lessee believed it had the right to do this without the lessors’ consent, but was unwilling to drop the wrecking ball first and test its belief later. Because there was no declaratory-judgment act at the time under federal or applicable state law, the lessee filed an action to remove a “cloud” on its lease. This Court held that an Article III case or controversy had not arisen because “[n]o defendant ha[d] wronged the plaintiff or ha[d] threatened to do so.” \\Id.,\\ at 288, 290. It was true that one of the colessors had disagreed with the lessee’s interpretation of the lease, but that happened in an “informal, friendly, private conversation,” \\id.,\\ at 286, a year before the lawsuit was filed; and the lessee never even bothered to approach the other colessors. The Court went on to remark that “[w]hat the plaintiff seeks is simply a declaratory judgment,” and “[t]o grant that relief is beyond the power conferred upon the federal judiciary.” \\Id.,\\ at 289. Had \\Willing\\ been decided after the enactment (and our upholding) of the Declaratory Judgment Act, and had the legal disagree@@134@@ment between the parties been as lively as this one, we are confident a different result would have obtained. The rule that a plaintiff must destroy a large building, bet the farm, or (as here) risk treble damages and the loss of 80 percent of its business before seeking a declaration of its actively contested legal rights finds no support in Article III.[[12]] 
+  ^ Though the dissent acknowledges the central lesson of \\Altvater,
+post,\\ at 144—that payment of royalties under “coercive”
+circumstances does not @@132@@ eliminate jurisdiction—it attempts to
+limit that rationale to the particular facts of \\Altvater.\\ But none
+of \\Altvater\\’s “unique facts,” \\post,\\ at 144, suggests that
+a different test applies to the royalty payments here. Other than a
+conclusory assertion that the payments here were “voluntarily made,”
+\\post,\\ at 146, the dissent never explains why the threat of treble
+damages and the loss of 80 percent of petitioner’s business does not
+fall within \\Altvater\\’s coercion rationale.
 
-  Respondents assert that the parties in effect settled this dispute when they entered into the 1997 license agreement. When a licensee enters such an agreement, they contend, it essentially purchases an insurance policy, immunizing it from suits for infringement so long as it continues to pay royalties and does not challenge the covered patents. Permitting it @@135@@ to challenge the validity of the patent without terminating or breaking the agreement alters the deal, allowing the licensee to continue enjoying its immunity while bringing a suit, the elimination of which was part of the patentee’s \\quid pro quo.\\ Of course even if it were valid, this argument would have no force with regard to petitioner’s claim that the agreement does not call for royalties because their product does not infringe the patent. But even as to the patent invalidity claim, the point seems to us mistaken. To begin with, it is not clear where the prohibition against challenging the validity of the patents is to be found. It can hardly be implied from the mere promise to pay royalties on patents “which have neither expired nor been held invalid by a court or other body of competent jurisdiction from which no appeal has been or may be taken,” App. 399. Promising to pay royalties on patents that have not been held invalid does not amount to a promise \\not to seek\\ a holding of their invalidity. 
+^11 Even if \\Altvater\\ could be distinguished as an “injunction”
+case, it would still contradict the Federal Circuit’s “reasonable
+apprehension of suit” test (or, in its evolved form, the “reasonable
+apprehension of \\imminent\\ suit” test, \\Teva Pharm. USA, Inc.\\
+v. \\Pfizer, Inc.,\\ 395 F. 3d 1324, 1333 (2005)). A licensee who
+pays royalties under compulsion of an injunction @@133@@ has no more
+apprehension of imminent harm than a licensee who pays royalties
+for fear of treble damages and an injunction fatal to his business.
+The reasonable-apprehension-of-suit test also conflicts with our
+decisions in \\Maryland Casualty Co.\\ v. \\Pacific Coal & Oil Co.,\\
+312 U. S. 270, 273 (1941), where jurisdiction obtained even though the
+collision-victim defendant could not have sued the declaratory-judgment
+plaintiff-insurer without first obtaining a judgment against the
+insured; and \\Aetna Life Ins. Co.\\ v. \\Haworth,\\ 300 U. S. 227,
+239 (1937), where jurisdiction obtained even though the very reason
+the insurer sought declaratory relief was that the insured had given
+no indication that he would file suit. It is also in tension with
+\\Cardinal Chemical Co.\\ v. \\Morton Int’l, Inc.,\\ 508 U. S.
+83, 98 (1993), which held that appellate affirmance of a judgment of
+noninfringement, eliminating any apprehension of suit, does not moot a
+declaratory judgment counterclaim of patent invalidity.
 
-^12 The dissent objects to our supposed “extension of \\Steffel\\ [v. \\Thompson\\] . . . to apply to voluntarily accepted contractual obligations between private parties.\\” Post,\\ at 145. The criticism is misdirected in several respects. The coercion principle upon which we rely today did not originate with \\Steffel\\ v. \\Thompson,\\ 415 U. S. 452 (1974), see \\supra,\\ at 128–129, and we have no opportunity to \\extend\\ it to private litigation, because \\Altvater\\ v. \\Freeman,\\ 319 U. S. 359 (1943), already did so, see \\supra,\\ at 132. Moreover, even if today’s decision could be described as an “extension of \\Steffel\\” to private litigation, the dissent identifies no principled reason why that extension is not appropriate. Article III does not favor litigants challenging threatened \\government\\ enforcement action over litigants challenging threatened \\private\\ enforcement action. Indeed, the latter is perhaps the easier category of cases, for it presents none of the difficult issues of federalism and comity with which we wrestled in \\Steffel.\\ See 415 U. S., at 460–475\\.\\ 
+  The Federal Circuit’s \\Gen-Probe\\ decision distinguished
+\\Altvater\\ on the ground that it involved the compulsion of an
+injunction. But \\Altvater\\ cannot be so readily dismissed. Never mind
+that the injunction had been privately obtained and was ultimately
+within the control of the patentees, who could permit its modification.
+More fundamentally, and contrary to the Federal Circuit’s conclusion,
+\\Altvater\\ did not say that the coercion dispositive of the case was
+governmental, but suggested just the opposite. The opinion acknowledged
+that the licensees had the option of stopping payments in defiance of
+the injunction, but explained that the \\consequence\\ of doing so would
+be to risk “actual [and] treble damages in infringement suits” by
+the patentees. 319 U. S., at 365. It significantly did not mention the
+threat of prosecution for contempt, or any other sort of governmental
+sanction. Moreover, it cited approvingly a treatise which said that an
+“actual or threatened serious injury to business or employment” by a
+private party can be as coercive as other forms of coercion supporting
+restitution actions at common law; and that “[t]o imperil a man’s
+livelihood, his business enterprises, or his solvency, [was] ordinarily
+quite as coercive” as, for example, “detaining his property.”
+F. Woodward, The Law of Quasi Contracts § 218 (1913), cited in
+\\Altvater, supra,\\ at 365.[[11]] @@133@@
 
-^ The dissent accuses the Court of misapplying \\Steffel\\’s rationale. \\Post,\\ at 146. It contends that \\Steffel\\ would apply here only if respondents had threatened petitioner with a patent infringement suit \\in the absence of a license agreement,\\ because only then would petitioner be put to the choice of selling its product or facing suit. \\Post,\\ at 145–146. Here, the dissent argues, the license payments are “voluntarily made.” \\Post,\\ at 146. If one uses the word “voluntarily” so loosely, it could be applied with equal justification (or lack thereof) to the \\Steffel\\ plaintiff’s “voluntary” refusal to distribute handbills. We find the threat of treble damages and loss of 80 percent of petitioner’s business every bit as coercive as the modest penalties for misdemeanor trespass threatened in \\Steffel.\\ Only by ignoring the consequences of the threatened action in this case can the dissent claim that today’s opinion “contains no limiting principle whatsoever,” \\post,\\ at 146. 
+  Jurisdiction over the present case is not contradicted by \\Willing\\
+v. \\Chicago Auditorium Assn.,\\ 277 U. S. 274. There a ground lessee
+wanted to demolish an antiquated auditorium and replace it with a
+modern commercial building. The lessee believed it had the right to
+do this without the lessors’ consent, but was unwilling to drop
+the wrecking ball first and test its belief later. Because there was
+no declaratory-judgment act at the time under federal or applicable
+state law, the lessee filed an action to remove a “cloud” on its
+lease. This Court held that an Article III case or controversy had
+not arisen because “[n]o defendant ha[d] wronged the plaintiff or
+ha[d] threatened to do so.” \\Id.,\\ at 288, 290. It was true that
+one of the colessors had disagreed with the lessee’s interpretation
+of the lease, but that happened in an “informal, friendly, private
+conversation,” \\id.,\\ at 286, a year before the lawsuit was filed;
+and the lessee never even bothered to approach the other colessors. The
+Court went on to remark that “[w]hat the plaintiff seeks is simply a
+declaratory judgment,” and “[t]o grant that relief is beyond the
+power conferred upon the federal judiciary.” \\Id.,\\ at 289. Had
+\\Willing\\ been decided after the enactment (and our upholding) of the
+Declaratory Judgment Act, and had the legal disagree@@134@@ment between
+the parties been as lively as this one, we are confident a different
+result would have obtained. The rule that a plaintiff must destroy a
+large building, bet the farm, or (as here) risk treble damages and the
+loss of 80 percent of its business before seeking a declaration of its
+actively contested legal rights finds no support in Article III.[[12]]
 
-  Respondents appeal to the common-law rule that a party to a contract cannot at one and the same time challenge its validity and continue to reap its benefits, citing \\Commodity Credit Corp.\\ v. \\Rosenberg Bros. & Co.,\\ 243 F. 2d 504, 512 (CA9 1957), and \\Kingman & Co.\\ v. \\Stoddard,\\ 85 F. 740, 745 (CA7 1898)\\. Lear,\\ they contend, did not suspend that rule for patent licensing agreements, since the plaintiff in that case had already repudiated the contract. Even if \\Lear’\\s repudiation of the doctrine of licensee estoppel was so limited (a point on which, as we have said earlier, we do not opine), it is hard to see how the common-law rule has any application here. Petitioner is not repudiating or impugning the contract while continuing to reap its benefits. Rather, it is asserting that the contract, properly interpreted, does not prevent it from challenging the patents, and does not require the payment of royalties because the patents do not cover its products and are invalid. Of course even if respondents were correct that the licensing agreement or the common-law rule precludes this suit, the consequence would be that @@136@@ respondents win this case \\on the merits\\—\\not\\ that the very genuine contract dispute disappears, so that Article III jurisdiction is somehow defeated. In short, Article III jurisdiction has nothing to do with this “insurance-policy” contention. 
+  Respondents assert that the parties in effect settled this dispute
+when they entered into the 1997 license agreement. When a licensee
+enters such an agreement, they contend, it essentially purchases an
+insurance policy, immunizing it from suits for infringement so long
+as it continues to pay royalties and does not challenge the covered
+patents. Permitting it @@135@@ to challenge the validity of the patent
+without terminating or breaking the agreement alters the deal, allowing
+the licensee to continue enjoying its immunity while bringing a suit,
+the elimination of which was part of the patentee’s \\quid pro quo.\\
+Of course even if it were valid, this argument would have no force with
+regard to petitioner’s claim that the agreement does not call for
+royalties because their product does not infringe the patent. But even
+as to the patent invalidity claim, the point seems to us mistaken. To
+begin with, it is not clear where the prohibition against challenging
+the validity of the patents is to be found. It can hardly be implied
+from the mere promise to pay royalties on patents “which have neither
+expired nor been held invalid by a court or other body of competent
+jurisdiction from which no appeal has been or may be taken,” App.
+399. Promising to pay royalties on patents that have not been held
+invalid does not amount to a promise \\not to seek\\ a holding of their
+invalidity.
 
-  Lastly, respondents urge us to affirm the dismissal of the declaratory-judgment claims on discretionary grounds. The Declaratory Judgment Act provides that a court “\\may\\ declare the rights and other legal relations of any interested party,” 28 U. S. C. § 2201(a) (emphasis added), not that it \\must\\ do so. This text has long been understood “to confer on federal courts unique and substantial discretion in deciding whether to declare the rights of litigants.” \\Wilton\\ v. \\Seven Falls Co.,\\ 515 U. S. 277, 286 (1995); see also \\Cardinal Chemical Co.\\ v. \\Morton Int’l, Inc.,\\ 508 U. S. 83, 95, n. 17 (1993); \\Brillhart\\ v. \\Excess Ins. Co. of America,\\ 316 U. S. 491, 494–496 (1942). We have found it “more consistent with the statute,” however, “to vest district courts with discretion in the first instance, because facts bearing on the usefulness of the declaratory judgment remedy, and the fitness of the case for resolution, are peculiarly within their grasp.” \\Wilton, supra,\\ at 289. The District Court here gave no consideration to discretionary dismissal, since, despite its “serious misgivings” about the Federal Circuit’s rule, it considered itself bound to dismiss by \\Gen-Probe.\\ App. to Pet. for Cert. 31a. Discretionary dismissal was irrelevant to the Federal Circuit for the same reason. Respondents have raised the issue for the first time before this Court, exchanging competing accusations of inequitable conduct with petitioner. See, \\e. g.,\\ Brief for Respondent Genentech 42–44; Reply Brief for Petitioner 17, and n. 15. Under these circumstances, it would be imprudent for us to decide whether the District Court should, or must, decline to issue the requested declaratory relief. We leave the equitable, prudential, and policy arguments in favor of such a discretionary dismissal for the lower courts’ consideration on remand. Similarly available @@137@@ for consideration on remand are any merits-based arguments for denial of declaratory relief. 
+^12 The dissent objects to our supposed “extension of \\Steffel\\
+[v. \\Thompson\\] . . . to apply to voluntarily accepted contractual
+obligations between private parties.\\” Post,\\ at 145. The criticism
+is misdirected in several respects. The coercion principle upon which
+we rely today did not originate with \\Steffel\\ v. \\Thompson,\\
+415 U. S. 452 (1974), see \\supra,\\ at 128–129, and we have no
+opportunity to \\extend\\ it to private litigation, because \\Altvater\\
+v. \\Freeman,\\ 319 U. S. 359 (1943), already did so, see \\supra,\\
+at 132. Moreover, even if today’s decision could be described
+as an “extension of \\Steffel\\” to private litigation, the
+dissent identifies no principled reason why that extension is not
+appropriate. Article III does not favor litigants challenging threatened
+\\government\\ enforcement action over litigants challenging threatened
+\\private\\ enforcement action. Indeed, the latter is perhaps the easier
+category of cases, for it presents none of the difficult issues of
+federalism and comity with which we wrestled in \\Steffel.\\ See 415
+U. S., at 460–475\\.\\
+
+^ The dissent accuses the Court of misapplying \\Steffel\\’s
+rationale. \\Post,\\ at 146. It contends that \\Steffel\\ would apply
+here only if respondents had threatened petitioner with a patent
+infringement suit \\in the absence of a license agreement,\\ because
+only then would petitioner be put to the choice of selling its product
+or facing suit. \\Post,\\ at 145–146. Here, the dissent argues, the
+license payments are “voluntarily made.” \\Post,\\ at 146. If one
+uses the word “voluntarily” so loosely, it could be applied with
+equal justification (or lack thereof) to the \\Steffel\\ plaintiff’s
+“voluntary” refusal to distribute handbills. We find the threat
+of treble damages and loss of 80 percent of petitioner’s business
+every bit as coercive as the modest penalties for misdemeanor trespass
+threatened in \\Steffel.\\ Only by ignoring the consequences of the
+threatened action in this case can the dissent claim that today’s
+opinion “contains no limiting principle whatsoever,” \\post,\\ at
+146.
+
+  Respondents appeal to the common-law rule that a party to a contract
+cannot at one and the same time challenge its validity and continue to
+reap its benefits, citing \\Commodity Credit Corp.\\ v. \\Rosenberg
+Bros. & Co.,\\ 243 F. 2d 504, 512 (CA9 1957), and \\Kingman & Co.\\ v.
+\\Stoddard,\\ 85 F. 740, 745 (CA7 1898)\\. Lear,\\ they contend, did not
+suspend that rule for patent licensing agreements, since the plaintiff
+in that case had already repudiated the contract. Even if \\Lear’\\s
+repudiation of the doctrine of licensee estoppel was so limited (a
+point on which, as we have said earlier, we do not opine), it is hard
+to see how the common-law rule has any application here. Petitioner
+is not repudiating or impugning the contract while continuing to reap
+its benefits. Rather, it is asserting that the contract, properly
+interpreted, does not prevent it from challenging the patents, and does
+not require the payment of royalties because the patents do not cover
+its products and are invalid. Of course even if respondents were correct
+that the licensing agreement or the common-law rule precludes this suit,
+the consequence would be that @@136@@ respondents win this case \\on the
+merits\\—\\not\\ that the very genuine contract dispute disappears,
+so that Article III jurisdiction is somehow defeated. In short, Article
+III jurisdiction has nothing to do with this “insurance-policy”
+contention.
+
+  Lastly, respondents urge us to affirm the dismissal of the
+declaratory-judgment claims on discretionary grounds. The Declaratory
+Judgment Act provides that a court “\\may\\ declare the rights
+and other legal relations of any interested party,” 28 U. S. C.
+§ 2201(a) (emphasis added), not that it \\must\\ do so. This text
+has long been understood “to confer on federal courts unique and
+substantial discretion in deciding whether to declare the rights of
+litigants.” \\Wilton\\ v. \\Seven Falls Co.,\\ 515 U. S. 277, 286
+(1995); see also \\Cardinal Chemical Co.\\ v. \\Morton Int’l, Inc.,\\
+508 U. S. 83, 95, n. 17 (1993); \\Brillhart\\ v. \\Excess Ins. Co. of
+America,\\ 316 U. S. 491, 494–496 (1942). We have found it “more
+consistent with the statute,” however, “to vest district courts
+with discretion in the first instance, because facts bearing on the
+usefulness of the declaratory judgment remedy, and the fitness of the
+case for resolution, are peculiarly within their grasp.” \\Wilton,
+supra,\\ at 289. The District Court here gave no consideration to
+discretionary dismissal, since, despite its “serious misgivings”
+about the Federal Circuit’s rule, it considered itself bound to
+dismiss by \\Gen-Probe.\\ App. to Pet. for Cert. 31a. Discretionary
+dismissal was irrelevant to the Federal Circuit for the same reason.
+Respondents have raised the issue for the first time before this
+Court, exchanging competing accusations of inequitable conduct with
+petitioner. See, \\e. g.,\\ Brief for Respondent Genentech 42–44;
+Reply Brief for Petitioner 17, and n. 15. Under these circumstances,
+it would be imprudent for us to decide whether the District Court
+should, or must, decline to issue the requested declaratory relief.
+We leave the equitable, prudential, and policy arguments in favor of
+such a discretionary dismissal for the lower courts’ consideration on
+remand. Similarly available @@137@@ for consideration on remand are any
+merits-based arguments for denial of declaratory relief.
 
 * * *
 
-  We hold that petitioner was not required, insofar as Article III is concerned, to break or terminate its 1997 license agreement before seeking a declaratory judgment in federal court that the underlying patent is invalid, unenforceable, or not infringed. The Court of Appeals erred in affirming the dismissal of this action for lack of subject-matter jurisdiction. 
+  We hold that petitioner was not required, insofar as Article III is
+concerned, to break or terminate its 1997 license agreement before
+seeking a declaratory judgment in federal court that the underlying
+patent is invalid, unenforceable, or not infringed. The Court of
+Appeals erred in affirming the dismissal of this action for lack of
+subject-matter jurisdiction.
 
-  The judgment of the Court of Appeals is reversed, and the cause is remanded for proceedings consistent with this opinion. 
+  The judgment of the Court of Appeals is reversed, and the cause is
+remanded for proceedings consistent with this opinion.
 
-        \\It is so ordered.\\ 
+        \\It is so ordered.\\
