@@ -3,36 +3,121 @@ Author: Alito
 Joined: Thomas, Breyer
 Page: 459
 
-  <<Justice Alito,>> with whom <<Justice Thomas>> and <<Justice>> <<Breyer>> join, concurring as to all but footnote 14. 
+  <<Justice Alito,>> with whom <<Justice Thomas>> and <<Justice>>
+<<Breyer>> join, concurring as to all but footnote 14.
 
-  I agree with the Court that no “component[s]” of the foreign-made computers involved in this case were “supplie[d]” by Microsoft “from the United States.” 35 U. S. C. §271(f)(1). I write separately because I reach this conclusion through somewhat different reasoning. 
+  I agree with the Court that no “component[s]” of the foreign-made
+computers involved in this case were “supplie[d]” by Microsoft
+“from the United States.” 35 U. S. C. §271(f)(1). I write
+separately because I reach this conclusion through somewhat different
+reasoning.
 
 # I
 
-  Computer programmers typically write programs in a “human readable” programming language. This “ ‘source code’ ” is then generally converted by the computer into a “machine readable code” or “machine language” expressed in a binary format. Brief for Respondent 5, n. 1 (citing R. White, How Computers Work 87, 94 (8th ed. 2006)); E. Walters, Essential Guide to Computing 204–205 (2001). During the Windows writing process, the program exists in the form of machine readable code on the magnetic tape fields of Microsoft’s computers’ hard drives. White, \\supra,\\ at 144–145; Walters, \\supra,\\ at 54–55. 
+  Computer programmers typically write programs in a “human
+readable” programming language. This “ ‘source code’ ” is
+then generally converted by the computer into a “machine readable
+code” or “machine language” expressed in a binary format. Brief
+for Respondent 5, n. 1 (citing R. White, How Computers Work 87, 94 (8th
+ed. 2006)); E. Walters, Essential Guide to Computing 204–205 (2001).
+During the Windows writing process, the program exists in the form of
+machine readable code on the magnetic tape fields of Microsoft’s
+computers’ hard drives. White, \\supra,\\ at 144–145; Walters,
+\\supra,\\ at 54–55.
 
-  When Microsoft finishes writing its Windows program in the United States, it encodes Windows onto CD–ROMs known as “ ‘golden master[s]’ ” in the form of machine read@@460@@able code. App. 31, ¶ 4. This is done by engraving each disk in a specific way such that another computer can read the engravings, understand what they mean, and write the code onto the magnetic fields of its hard drive. \\Ibid.;\\ Brief for Petitioner 4, n. 2. 
+  When Microsoft finishes writing its Windows program in the United
+States, it encodes Windows onto CD–ROMs known as “ ‘golden
+master[s]’ ” in the form of machine read@@460@@able code. App. 31,
+¶ 4. This is done by engraving each disk in a specific way such that
+another computer can read the engravings, understand what they mean, and
+write the code onto the magnetic fields of its hard drive. \\Ibid.;\\
+Brief for Petitioner 4, n. 2.
 
-  Microsoft ships these disks (or sends the code via electronic transmission) abroad, where the code is copied onto other disks that are then placed into foreign-made computers for purposes of installing the Windows program. App. 31– 32, ¶¶ 5–8. No physical aspect of a Windows CD–ROM— original disk or copy—is ever incorporated into the computer itself. See \\Stenograph L. L. C.\\ v. \\Bossard Assocs., Inc.,\\ 144 F. 3d 96, 100 (CADC 1998) (noting that, within the context of the Copyright Act, “installation of software onto a computer results in ‘copying’”); White, \\supra,\\ at 144–145, 172–173. The intact CD–ROM is then removed and may be discarded without affecting the computer’s implementation of the code.* The parties agree for purposes of this litigation that a foreign-made computer containing the Windows code would violate AT&T’s patent if present in the United States. App. to Pet. for Cert. 42a, ¶ 5. 
+  Microsoft ships these disks (or sends the code via electronic
+transmission) abroad, where the code is copied onto other disks that
+are then placed into foreign-made computers for purposes of installing
+the Windows program. App. 31– 32, ¶¶ 5–8. No physical aspect of a
+Windows CD–ROM— original disk or copy—is ever incorporated into
+the computer itself. See \\Stenograph L. L. C.\\ v. \\Bossard Assocs.,
+Inc.,\\ 144 F. 3d 96, 100 (CADC 1998) (noting that, within the context
+of the Copyright Act, “installation of software onto a computer
+results in ‘copying’”); White, \\supra,\\ at 144–145, 172–173.
+The intact CD–ROM is then removed and may be discarded without
+affecting the computer’s implementation of the code.* The parties
+agree for purposes of this litigation that a foreign-made computer
+containing the Windows code would violate AT&T’s patent if present in
+the United States. App. to Pet. for Cert. 42a, ¶ 5.
 
 # II
 
 ## A
 
-  I agree with the Court that a component of a machine, whether a shrimp deveiner or a personal computer, must be something physical. \\Ante,\\ at 449–452. This is because the word “component,” when concerning a physical device, is most naturally read to mean a physical part of the device. See Webster’s Third New International Dictionary 466 (1976) (component is “constituent part: <<ingredient>>”); Random House Dictionary of the English Language 301 (1967) @@461@@ (component is “a component part; constituent”). Furthermore, §271(f) requires that the component be “combined” with other components to form the infringing device, meaning that the component must remain a part of the device. Webster’s, \\supra,\\ at 452 (combine means “to join in physical or chemical union”; “to become one”; “to unite into a chemical compound”); Random House, \\supra,\\ at 293 (combine means “to bring or join into a close union or whole”). For these reasons, I agree with the Court that a set of instructions on how to build an infringing device, or even a template of the device, does not qualify as a component. \\Ante,\\ at 449–450. 
+  I agree with the Court that a component of a machine, whether a shrimp
+deveiner or a personal computer, must be something physical. \\Ante,\\
+at 449–452. This is because the word “component,” when concerning
+a physical device, is most naturally read to mean a physical part of the
+device. See Webster’s Third New International Dictionary 466 (1976)
+(component is “constituent part: <<ingredient>>”); Random House
+Dictionary of the English Language 301 (1967) @@461@@ (component is
+“a component part; constituent”). Furthermore, §271(f) requires
+that the component be “combined” with other components to form the
+infringing device, meaning that the component must remain a part of the
+device. Webster’s, \\supra,\\ at 452 (combine means “to join in
+physical or chemical union”; “to become one”; “to unite into a
+chemical compound”); Random House, \\supra,\\ at 293 (combine means
+“to bring or join into a close union or whole”). For these reasons,
+I agree with the Court that a set of instructions on how to build an
+infringing device, or even a template of the device, does not qualify as
+a component. \\Ante,\\ at 449–450.
 
-^* In a sense, the whole process is akin to an author living prior to the existence of the printing press, who created a story in his mind, wrote a manuscript, and sent it to a scrivener, who in turn copied the story by hand into a blank book. 
+^* In a sense, the whole process is akin to an author living prior to
+the existence of the printing press, who created a story in his mind,
+wrote a manuscript, and sent it to a scrivener, who in turn copied the
+story by hand into a blank book.
 
 ## B
 
-  As the parties agree, an inventor can patent a machine that carries out a certain process, and a computer may constitute such a machine when it executes commands—given to it by code—that allow it to carry out that process. Such a computer would not become an infringing device until enough of the code is installed on the computer to allow it to execute the process in question. The computer would not be an infringing device prior to the installation, or even during the installation. And the computer remains an infringing device after the installation process because, even though the original installation device (such as a CD–ROM) has been removed from the computer, the code remains on the hard drive. 
+  As the parties agree, an inventor can patent a machine that carries
+out a certain process, and a computer may constitute such a machine when
+it executes commands—given to it by code—that allow it to carry out
+that process. Such a computer would not become an infringing device
+until enough of the code is installed on the computer to allow it to
+execute the process in question. The computer would not be an infringing
+device prior to the installation, or even during the installation.
+And the computer remains an infringing device after the installation
+process because, even though the original installation device (such as
+a CD–ROM) has been removed from the computer, the code remains on the
+hard drive.
 
 # III
 
-  Here, Windows software originating in the United States was sent abroad, whether on a master disk or by means of an electronic transmission, and eventually copied onto the hard drives of the foreign-made computers. Once the copying process was completed, the Windows program was recorded in a physical form, \\i. e.,\\ in magnetic fields on the computers’ hard drives. See Brief for Respondent 5. The physical form of the Windows program on the master disk, \\i. e.,\\ the engravings on the CD–ROM, remained on the disk @@462@@ in a form unchanged by the copying process. See Brief for Petitioner 4, n. 2 (citing White, How Computers Work, at 144–145, 172–173). There is nothing in the record to suggest that any physical part of the disk became a physical part of the foreign-made computer, and such an occurrence would be contrary to the general workings of computers. 
+  Here, Windows software originating in the United States was sent
+abroad, whether on a master disk or by means of an electronic
+transmission, and eventually copied onto the hard drives of the
+foreign-made computers. Once the copying process was completed, the
+Windows program was recorded in a physical form, \\i. e.,\\ in magnetic
+fields on the computers’ hard drives. See Brief for Respondent 5.
+The physical form of the Windows program on the master disk, \\i.
+e.,\\ the engravings on the CD–ROM, remained on the disk @@462@@
+in a form unchanged by the copying process. See Brief for Petitioner
+4, n. 2 (citing White, How Computers Work, at 144–145, 172–173).
+There is nothing in the record to suggest that any physical part of the
+disk became a physical part of the foreign-made computer, and such an
+occurrence would be contrary to the general workings of computers.
 
-  Because no physical object originating in the United States was combined with these computers, there was no violation of §271(f). Accordingly, it is irrelevant that the Windows software was not copied onto the foreign-made computers \\directly\\ from the master disk or from an electronic transmission that originated in the United States. To be sure, if these computers could not run Windows without inserting and keeping a CD–ROM in the appropriate drive, then the CD–ROMs might be components of the computer. But that is not the case here. 
+  Because no physical object originating in the United States was
+combined with these computers, there was no violation of §271(f).
+Accordingly, it is irrelevant that the Windows software was not copied
+onto the foreign-made computers \\directly\\ from the master disk or
+from an electronic transmission that originated in the United States. To
+be sure, if these computers could not run Windows without inserting and
+keeping a CD–ROM in the appropriate drive, then the CD–ROMs might be
+components of the computer. But that is not the case here.
 
 * * *
 
-  Because the physical incarnation of code on the Windows CD–ROM supplied from the United States is not a “component” of an infringing device under §271(f), it logically follows that a copy of such a CD–ROM also is not a component. For this reason, I join the Court’s opinion, except for footnote 14. 
+  Because the physical incarnation of code on the Windows CD–ROM
+supplied from the United States is not a “component” of an
+infringing device under §271(f), it logically follows that a copy of
+such a CD–ROM also is not a component. For this reason, I join the
+Court’s opinion, except for footnote 14.
