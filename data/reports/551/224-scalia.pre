@@ -5,11 +5,11 @@ Page: 226
   <<Justice Scalia>> delivered the opinion of the Court.
 
   We granted certiorari to decide whether, under the Foreign Sovereign
-Immunities Act of 1976 (FSIA), petitioner is an “organ of a foreign
-state or political subdivision thereof.” 28 U. S. C. § 1603(b)(2).
-When we granted certiorari, however, we asked the parties also to
-address whether the Ninth Circuit had appellate jurisdiction in light of
-28 U. S. C. § 1447(d).
+Immunities Act of 1976 (FSIA), petitioner is an “organ of a
+foreign state or political subdivision thereof.” {{28 U. S. C.
+§ 1603(b)(2).}} When we granted certiorari, however, we asked the
+parties also to address whether the Ninth Circuit had appellate
+jurisdiction in light of 28 U. S. C. § 1447(d).
 
 # I
 
@@ -27,9 +27,10 @@ Administration (WAPA), the British Columbia Hydro and Power Authority
 these entities collectively as the cross-defendants.) BPA and WAPA
 are agencies of the United States Government. BC Hydro is a crown
 corporation of the Canadian Province of British Columbia that is
-wholly owned by the Province and that all parties agree constitutes a
-“foreign state” for purposes of the FSIA. See § 1603. Petitioner,
-also a Canadian corporation, is a wholly owned subsidiary of BC Hydro.
+wholly owned by the Province and that all parties agree constitutes
+a “foreign state” for purposes of the FSIA. {{See § 1603.}}
+Petitioner, also a Canadian corporation, is a wholly owned subsidiary of
+BC Hydro.
 
   The cross-defendants removed the entire case to federal court.
 BC Hydro and petitioner both relied on § 1441(d), which permits
@@ -45,18 +46,18 @@ immunity entitled them to be dismissed from the action outright.
 
   The District Court initially concluded (we assume correctly) that
 § 1442(a) entitled BPA and WAPA to remove the \\entire\\ case and that
-BC Hydro was similarly entitled under § 1441(d). App. to Pet. for
-Cert. 20a. It thus believed that whether the case should be remanded
+BC Hydro was similarly entitled under § 1441(d). {{App. to Pet. for
+Cert. 20a.}} It thus believed that whether the case should be remanded
 “hinge[d on its] jurisdictional authority to hear the removed claims,
 not whether the actions were properly removed in the first instance.”
-\\Ibid.\\ The District Court held that petitioner did not qualify as
-a foreign sovereign under the FSIA. \\Id.,\\ at 33a–38a. It @@228@@
-also decided that BC Hydro enjoyed sovereign immunity under the FSIA.
-\\Id.,\\ at 21a–33a. And it concluded that BPA and WAPA were immune
-from suit in state court, which the court believed deprived it of
-jurisdiction over the claims against those agencies. \\Id.,\\ at
-38a–44a. Having reached these conclusions, the District Court remanded
-the entire case. \\Id.,\\ at 44a.
+{{\\Ibid.\\}} The District Court held that petitioner did not qualify
+as a foreign sovereign under the FSIA. {{\\Id.,\\ at 33a–38a.}} It
+@@228@@ also decided that BC Hydro enjoyed sovereign immunity under the
+FSIA. {{\\Id.,\\ at 21a–33a.}} And it concluded that BPA and WAPA
+were immune from suit in state court, which the court believed deprived
+it of jurisdiction over the claims against those agencies. {{\\Id.,\\
+at 38a–44a.}} Having reached these conclusions, the District Court
+remanded the entire case. {{\\Id.,\\ at 44a.}}
 
   Petitioner appealed to the Court of Appeals for the Ninth Circuit,
 arguing that it was a foreign sovereign under the FSIA. BPA and WAPA
@@ -64,26 +65,26 @@ arguing that it was a foreign sovereign under the FSIA. BPA and WAPA
 before remanding the case, should have dismissed them from the action
 in light of their sovereign immunity. Plaintiffs-respondents, for
 their part, rejoined that both appeals were jurisdictionally barred by
-§ 1447(d) and that the District Court had not erred in any event. The
-Ninth Circuit rejected the invocation of § 1447(d), holding that that
-provision did not preclude it from reviewing substantive issues of law
-that preceded the remand order. \\California\\ v. \\NRG Energy Inc.,\\
-391 F. 3d 1011, 1022–1023 (2004). It also found that the District
-Court had jurisdiction over the case because BPA, WAPA, and BC Hydro
-properly removed the entire action. \\Id.,\\ at 1023. Turning to the
-merits, the Ninth Circuit affirmed the holding that petitioner was not a
-“foreign state” for purposes of the FSIA. \\Id.,\\ at 1025–1026.
-It also upheld the District Court’s conclusion that BPA, WAPA, and BC
-Hydro retained sovereign immunity, \\id.,\\ at 1023–1025, but reversed
-its decision not to dismiss BPA and WAPA before remanding, \\id.,\\ at
-1026–1027.
+§ 1447(d) and that the District Court had not erred in any event.
+The Ninth Circuit rejected the invocation of § 1447(d), holding that
+that provision did not preclude it from reviewing substantive issues of
+law that preceded the remand order. {{\\California\\ v. \\NRG Energy
+Inc.,\\ 391 F. 3d 1011, 1022–1023 (2004).}} It also found that the
+District Court had jurisdiction over the case because BPA, WAPA, and BC
+Hydro properly removed the entire action. {{\\Id.,\\ at 1023.}} Turning
+to the merits, the Ninth Circuit affirmed the holding that petitioner
+was not a “foreign state” for purposes of the FSIA. {{\\Id.,\\ at
+1025–1026.}} It also upheld the District Court’s conclusion that
+BPA, WAPA, and BC Hydro retained sovereign immunity, {{\\id.,\\ at
+1023–1025}}, but reversed its decision not to dismiss BPA and WAPA
+before remanding, {{\\id.,\\ at 1026–1027}}.
 
   Petitioner sought certiorari review of the Ninth Circuit’s
 determination that it was not an “organ of a foreign state or
 political subdivision thereof” under §1603(b)(2). We granted
 certiorari on this question, but asked the parties to address in
 addition whether the Ninth Circuit had jurisdiction over petitioner’s
-appeal notwithstanding § 1447(d). 549 U. S. 1178 (2007). @@229@@
+appeal notwithstanding § 1447(d). {{549 U. S. 1178 (2007).}} @@229@@
 
 # II
 
@@ -95,28 +96,28 @@ to the State court from which it was removed is not reviewable on
 appeal or otherwise.” Determining whether the Ninth Circuit was
 permitted to review the District Court’s remand is, alas, not as
 easy as one would expect from a mere reading of this text, for we have
-interpreted § 1447(d) to cover less than its words alone suggest.
-In \\Thermtron Products, Inc.\\ v. \\Hermansdorfer,\\ 423 U. S. 336,
-345–346 (1976), we held that § 1447(d) should be read \\inpari
+interpreted § 1447(d) to cover less than its words alone suggest. In
+\\Thermtron Products, Inc.\\ v. \\Hermansdorfer,\\ {{423 U. S. 336,
+345–346 (1976)}}, we held that § 1447(d) should be read \\inpari
 materia\\ with § 1447(c), so that only remands based on the grounds
 specified in the latter are shielded by the bar on review mandated by
 the former. At the time of \\Thermtron,\\ § 1447(c) stated in relevant
 part: “ ‘If at any time before final judgment it appears that the
 case was removed improvidently and without jurisdiction, the district
-court shall remand the case.’ ” \\Id.,\\ at 342. Consequently,
+court shall remand the case.’ ” {{\\Id.,\\ at 342.}} Consequently,
 \\Thermtron\\ limited § 1447(d)’s application to such remands.
-\\Id.,\\ at 346. In 1988, Congress amended § 1447(c) in relevant part
-as follows: “A motion to remand the case on the basis of any defect
-in removal procedure must be made within 30 days after the filing of
-the notice of removal under [28 U. S. C. §] 1446(a). If at any time
-before final judgment it appears that the district court lacks subject
-matter jurisdiction, the case shall be remanded.” § 1016(c)(1), 102
-Stat. 4670. When that version of § 1447(c) was in effect, we thus
-interpreted § 1447(d) to preclude review only of remands for lack of
-subject-matter jurisdiction and for defects in removal pro@@230@@cedure.
-See \\Quackenbush\\ v. \\Allstate Ins. Co.,\\ 517 U. S. 706, 711–712
-(1996); \\Things Remembered, Inc.\\ v. \\Petrarca,\\ 516 U. S. 124,
-127–128 (1995).
+{{\\Id.,\\ at 346.}} In 1988, Congress amended § 1447(c) in relevant
+part as follows: “A motion to remand the case on the basis of any
+defect in removal procedure must be made within 30 days after the
+filing of the notice of removal under [28 U. S. C. §] 1446(a). If
+at any time before final judgment it appears that the district court
+lacks subject matter jurisdiction, the case shall be remanded.”
+{{§ 1016(c)(1), 102 Stat. 4670.}} When that version of § 1447(c)
+was in effect, we thus interpreted § 1447(d) to preclude review only
+of remands for lack of subject-matter jurisdiction and for defects in
+removal pro@@230@@cedure. {{See \\Quackenbush\\ v. \\Allstate Ins.
+Co.,\\ 517 U. S. 706, 711–712 (1996); \\Things Remembered, Inc.\\ v.
+\\Petrarca,\\ 516 U. S. 124, 127–128 (1995).}}
 
   Although § 1447(c) was amended yet again in 1996, 110 Stat. 3022,
 we will assume for purposes of this case that the amendment was
@@ -134,14 +135,14 @@ that the District Court’s remand order was not based on a lack of
 “subject matter jurisdiction” within the meaning of § 1447(c)
 because that term is properly interpreted to cover \\only\\ “a defect
 in subject matter jurisdiction \\at the time of removal\\ that rendered
-\\the removal itself\\ jurisdictionally improper.” Brief for United
+\\the removal itself\\ jurisdictionally improper.” {{Brief for United
 States as \\AmicusCuriae\\ 8; see also \\id.,\\ at 8–11; Brief for
-Petitioner 42–45. Under this interpretation, the District Court’s
+Petitioner 42–45.}} Under this interpretation, the District Court’s
 remand order was not based on a defect in subject-matter jurisdiction
 for purposes of § 1447(c), since the cross-defendants other than
 petitioner were statutorily authorized to remove the whole case in light
 of their sovereign status. The Ninth Circuit appears to have relied, at
-least in part, on this rationale. See 391 F. 3d, at 1023.
+least in part, on this rationale. {{See 391 F. 3d, at 1023.}}
 
   We reject this narrowing construction of §1447(c)’s unqualified
 authorization of remands for lack of “subject matter jurisdiction.”
@@ -152,9 +153,9 @@ Solicitor General do not seriously dispute the absence of an explicit
 textual @@231@@ limitation. Instead, relying on the statutory history
 of § 1447(c), they make a three-step argument why the provision is
 implicitly limited in this manner. First, they note that the pre-1988
-version of § 1447(c) mandated remand “[i]f at any time before
-final judgment it appear[ed] that the case was removed improvidently
-and without jurisdiction,” 28 U. S. C. § 1447(c) (1982 ed.).
+version of § 1447(c) mandated remand “[i]f at any time before final
+judgment it appear[ed] that the case was removed improvidently and
+without jurisdiction,” {{28 U. S. C. § 1447(c) (1982 ed.)}}.
 That version, obviously, authorized remand only for cases that were
 \\removed\\ improperly. Second, they contend that the purpose of the
 1988 amendment was to impose a time limit for raising nonjurisdictional
@@ -165,7 +166,8 @@ of the structure of the amended provision:
     procedure must be made within 30 days after the filing of the notice
     of removal under section 1446(a). If at any time before final
     judgment it appears that the district court lacks subject matter
-    jurisdiction, the case shall be remanded.” § 1447(c) (1988 ed.).
+    jurisdiction, the case shall be remanded.” {{§ 1447(c) (1988
+    ed.).}}
 
 Finally, they conclude that since the purpose of the amendment was
 to alter the timing rules, there is no reason to think that Congress
@@ -178,8 +180,8 @@ at the outset.
   But the very statutory history upon which this creative argument
 relies conclusively refutes it. The same section of the public law
 that amended § 1447(c) to include the phrase “subject matter
-jurisdiction” also created a new § 1447(e). See § 1016(c), 102
-Stat. 4670. Section 1447(e), which remains on the books, states: “If
+jurisdiction” also created a new § 1447(e). {{See § 1016(c), 102
+Stat. 4670.}} Section 1447(e), which remains on the books, states: “If
 after removal the plaintiff seeks to join additional defendants whose
 joinder would destroy subject matter @@232@@ jurisdiction, the court
 may deny joinder, or permit joinder and remand the action to the State
@@ -187,16 +189,16 @@ court.” This unambiguously demonstrates that a case can be properly
 removed and yet suffer from a failing in \\subject-matterjurisdiction\\
 that requires remand. A standard principle of statutory construction
 provides that identical words and phrases within the same statute
-should normally be given the same meaning. See, \\e. g., IBP, Inc.\\ v.
-\\Alvarez,\\ 546 U. S. 21, 34 (2005). That maxim is doubly appropriate
-here, since the phrase “subject matter jurisdiction” was inserted
-into § 1447(c) and § 1447(e) at the same time. There is no reason to
-believe that the new language in the former provision, unlike the new
-language simultaneously inserted two subsections later, covers \\only\\
-cases in which removal itself was jurisdictionally improper. We hold
-that when a district court remands a properly removed case because it
-nonetheless lacks subject-matter jurisdiction, the remand is covered by
-§ 1447(c) and thus shielded from review by § 1447(d).[[1]]
+should normally be given the same meaning. {{See, \\e. g., IBP, Inc.\\
+v. \\Alvarez,\\ 546 U. S. 21, 34 (2005).}} That maxim is doubly
+appropriate here, since the phrase “subject matter jurisdiction” was
+inserted into § 1447(c) and § 1447(e) at the same time. There is no
+reason to believe that the new language in the former provision, unlike
+the new language simultaneously inserted two subsections later, covers
+\\only\\ cases in which removal itself was jurisdictionally improper. We
+hold that when a district court remands a properly removed case because
+it nonetheless lacks subject-matter jurisdiction, the remand is covered
+by § 1447(c) and thus shielded from review by § 1447(d).[[1]]
 
 ## B
 
@@ -205,20 +207,21 @@ District Court’s remand in the present case was lack of subject-matter
 jurisdiction. As an initial matter, it is quite clear that the District
 Court was \\purporting\\ to remand on that ground. The heading of
 the discussion section of the remand order is entitled “Subject
-Matter Jurisdiction Over the Removed Actions.” App. to Pet. for Cert.
-20a. And @@233@@ the District Court explicitly stated that the remand
-“issue hinges . . . on the Court’s jurisdictional authority to hear the
-removed claims.” \\Ibid.\\ Were any doubt remaining, it is surely
-eliminated by the District Court’s order denying a stay of the remand,
-which repeatedly stated that a lack of subject-matter jurisdiction
-required remand pursuant to § 1447(c). See App. 281–286.
+Matter Jurisdiction Over the Removed Actions.” {{App. to Pet. for
+Cert. 20a.}} And @@233@@ the District Court explicitly stated that
+the remand “issue hinges . . . on the Court’s jurisdictional
+authority to hear the removed claims.” {{\\Ibid.\\}} Were any doubt
+remaining, it is surely eliminated by the District Court’s order
+denying a stay of the remand, which repeatedly stated that a lack of
+subject-matter jurisdiction required remand pursuant to § 1447(c).
+{{See App. 281–286.}}
 
 ^1 To be clear, we do not suggest that the question whether removal is
 proper is \\always\\ different from the question whether the district
 court has subject-matter jurisdiction, for the two are often identical
 in light of the general rule that postremoval events do not deprive
-federal courts of subject-matter jurisdiction. See, \\e. g., Wisconsin
-Dept. of Corrections\\ v. \\Schacht,\\ 524 U. S. 381, 391 (1998).
+federal courts of subject-matter jurisdiction. {{See, \\e. g., Wisconsin
+Dept. of Corrections\\ v. \\Schacht,\\ 524 U. S. 381, 391 (1998).}}
 We merely hold that when there is a divergence, such that a district
 court lacks subject-matter jurisdiction to hear a claim that was
 properly removed, the consequent remand is authorized by § 1447(c) and
@@ -226,24 +229,24 @@ appellate review is barred by § 1447(d).
 
   For some Members of this Court, the foregoing conclusion that
 the District Court purported to remand for lack of subject-matter
-jurisdiction is alone enough to bar review under § 1447(d). See
+jurisdiction is alone enough to bar review under § 1447(d). {{See
 \\Osborn\\ v. \\Haley,\\ 549 U. S. 225, 264 (2007) (<<Scalia,>> J.,
-joined by <<Thomas, J.,>> dissenting). Even assuming, however, that
+joined by <<Thomas, J.,>> dissenting).}} Even assuming, however, that
 § 1447(d) permits appellate courts to look behind the district
-court’s characterization, see \\Kircher\\ v. \\Putnam Funds Trust,\\
-547 U. S. 633, 641, n. 9 (2006) (reserving the question), we conclude
+court’s characterization, {{see \\Kircher\\ v. \\Putnam Funds Trust,\\
+547 U. S. 633, 641, n. 9 (2006) (reserving the question)}}, we conclude
 that appellate review is barred in this case.[[2]] There is only one
 \\plausible\\ explanation of what legal ground the District Court
 actually relied upon for its remand in the present case. As contended
 by plaintiffs-respondents, it was the court’s lack of \\power\\ to
 adjudicate the claims against petitioner once it concluded both that
 petitioner was not a foreign state capable of independently removing
-and that the claims against the other removing cross-defendants
-were barred by sovereign immunity. Brief for Plaintiffs-Respondents
-17–21, 25–26. Though we have not passed on the question whether,
+and that the claims against the other removing cross-defendants were
+barred by sovereign immunity. {{Brief for Plaintiffs-Respondents
+17–21, 25–26.}} Though we have not passed on the question whether,
 when sovereign immunity bars the claims against the only parties
-capable of removing the case, subject-matter jurisdiction exists
-to entertain the remaining claims, cf. n. 3, \\infra,\\ the point
+capable of removing the case, subject-matter jurisdiction exists to
+entertain the remaining claims, {{cf. n. 3, \\infra,\\}} the point
 is @@234@@ certainly debatable. And we conclude that review of the
 District Court’s characterization of its remand as resting upon
 lack of subject-matter jurisdiction, to the extent it is permissible
@@ -251,26 +254,27 @@ at all, should be limited to confirming that that characterization
 was colorable. Lengthy appellate disputes about whether an arguable
 jurisdictional ground invoked by the district court was properly such
 would frustrate the purpose of § 1447(d) quite as much as determining
-whether the factfinding underlying that invocation was correct. See
+whether the factfinding underlying that invocation was correct. {{See
 \\Kircher, supra,\\ at 649–650 (<<Scalia,>> J., concurring in part and
-concurring in judgment). Moreover, the line between misclassifying a
+concurring in judgment).}} Moreover, the line between misclassifying a
 ground as subject-matter jurisdiction and misapplying a proper ground of
 subject-matter jurisdiction is sometimes elusively thin. To decide the
 present case, we need not pass on whether § 1447(d) permits appellate
 review of a district-court remand order that dresses in jurisdictional
 clothing a patently nonjurisdictional ground (such as the docket
-congestion invoked by the District Court in \\Thermtron,\\ 423 U. S.,
-at 344). We hold that when, as here, the District Court relied upon a
+congestion invoked by the District Court in \\Thermtron,\\ {{423 U. S.,
+at 344)}}. We hold that when, as here, the District Court relied upon a
 ground that is colorably characterized as subject-matter jurisdiction,
 appellate review is barred by § 1447(d).
 
-^2 The Court’s opinion in \\Osborn\\ v. \\Haley,\\ 549 U. S. 225
-(2007), had nothing to say about the scope of review that is permissible
-under § 1447(d), since it held that § 1447(d) was displaced in its
-entirety by 28 U. S. C. § 2679(d)(2). See 549 U. S., at 243–244
-(reasoning that, of the two forumdetermining provisions—§ 1447(d),
-the generally applicable section, and § 2679(d)(2), a special
-prescription governing Westfall Act cases—“only one can prevail”).
+^2 The Court’s opinion in \\Osborn\\ v. \\Haley,\\ {{549 U. S.
+225 (2007)}}, had nothing to say about the scope of review that is
+permissible under § 1447(d), since it held that § 1447(d) was
+displaced in its entirety by 28 U. S. C. § 2679(d)(2). {{See 549
+U. S., at 243–244 (reasoning that, of the two forumdetermining
+provisions—§ 1447(d), the generally applicable section, and
+§ 2679(d)(2), a special prescription governing Westfall Act
+cases—“only one can prevail”).}}
 
   Petitioner puts forward another explanation for the remand, which we
 find implausible. Petitioner claims that, because the entire case was
@@ -278,21 +282,21 @@ properly removed, the District Court had the discretion to invoke a form
 of \\supplementaljurisdiction\\ to hear the claims against it, and that
 its remand rested upon the decision not to exercise that discretion.
 In short, petitioner contends that the District Court was actually
-relying on \\Carnegie-Mellon Univ.\\ v. \\Cohill,\\ 484 U. S. 343,
-357 (1988), which authorized district courts to remand removed state
+relying on \\Carnegie-Mellon Univ.\\ v. \\Cohill,\\ {{484 U. S. 343,
+357 (1988)}}, which authorized district courts to remand removed state
 claims when they decide not to exercise supplemental jurisdiction.
-Brief for Petitioner 45–48; Reply Brief for Petitioner 16–20. It
-is far from clear, to begin with, (1) that supplemental jurisdiction
-was even available @@235@@ in the circumstances of this case;[[3]] and
-(2) that when discretionary supplemental jurisdiction is declined the
-remand is not based on lack of subject-matter jurisdiction for purposes
-of § 1447(c) and § 1447(d).[[4]] Assuming those points, however,
-there is no reason to believe that the District Court’s remand was
-actually based on this unexplained discretionary decision. The District
-Court itself \\never mentioned\\ the possibility of supplemental
-jurisdiction, neither in its original decision, see App. to Pet. for
-Cert. 20a–44a, nor in its order denying petitioner’s motion to stay
-the remand pending appeal, App. 281–286. To the contrary, as described
+{{Brief for Petitioner 45–48; Reply Brief for Petitioner 16–20.}} It
+is far from clear, to begin with, (1) that supplemental jurisdiction was
+even available @@235@@ in the circumstances of this case;[[3]] and (2)
+that when discretionary supplemental jurisdiction is declined the remand
+is not based on lack of subject-matter jurisdiction for purposes of
+§ 1447(c) and § 1447(d).[[4]] Assuming those points, however, there
+is no reason to believe that the District Court’s remand was actually
+based on this unexplained discretionary decision. The District Court
+itself \\never mentioned\\ the possibility of supplemental jurisdiction,
+neither in its original decision, see App. to Pet. for Cert. 20a–44a,
+nor in its order denying petitioner’s motion to stay the remand
+pending appeal, {{App. 281–286}}. To the contrary, as described
 above, it relied upon lack of subject-matter jurisdiction—which,
 in petitioner’s view of things (but see n. 4, this page) would not
 include a \\Cohill\\ remand. Moreover, it does not appear from the
@@ -306,13 +310,13 @@ nonexercise of \\Cohill\\ discretion was the basis for the remand.
   Part of the reason why the Ninth Circuit concluded it had appellate
 jurisdiction is a legal theory quite different from those discussed and
 rejected above. Petitioner, along with the other appellants, convinced
-the court to apply Circuit precedent holding that § 1447(d) does not
-preclude review of a district court’s merits determinations that
-precede the re@@236@@mand. See 391 F. 3d, at 1023 (citing, \\inter
-alia, PelleportInvestors, Inc.\\ v. \\Budco Quality Theatres, Inc.,\\
-741 F. 2d 273, 276–277 (CA9 1984)). Petitioner has not completely
-abandoned this argument before us, see Brief for Petitioner 50, and
-it is in any event desirable to address this aspect of the Ninth
+the court to apply Circuit precedent holding that § 1447(d) does
+not preclude review of a district court’s merits determinations
+that precede the re@@236@@mand. {{See 391 F. 3d, at 1023 (citing,
+\\inter alia, PelleportInvestors, Inc.\\ v. \\Budco Quality Theatres,
+Inc.,\\ 741 F. 2d 273, 276–277 (CA9 1984)).}} Petitioner has not
+completely abandoned this argument before us, see Brief for Petitioner
+50, and it is in any event desirable to address this aspect of the Ninth
 Circuit’s judgment.
 
 ^3 Petitioner provides no authority from this Court supporting the
@@ -323,27 +327,27 @@ parties authorized to remove are barred by \\sovereign immunity.\\
 
 ^4 We have never passed on whether \\Cohill\\ remands are subject-matter
 jurisdictional for purposes of post-1988 versions of § 1447(c) and
-§ 1447(d). See \\Things Remembered, Inc.\\ v. \\Petrarca,\\ 516 U. S.
-124, 129–130 (1995) (<<Kennedy,>> J., concurring) (noting that the
-question is open); cf. \\Cohill,\\ 484 U. S., at 355, n. 11 (discussing
-the pre-1988 version of § 1447(c)).
+§ 1447(d). {{See \\Things Remembered, Inc.\\ v. \\Petrarca,\\ 516
+U. S. 124, 129–130 (1995) (<<Kennedy,>> J., concurring) (noting
+that the question is open); cf. \\Cohill,\\ 484 U. S., at 355, n. 11
+(discussing the pre-1988 version of § 1447(c)).}}
 
-  The line of Ninth Circuit jurisprudence upon which petitioner
-relied appears to be invoking our decision in \\Waco\\ v. \\United
-States Fidelity & Guaranty Co.,\\ 293 U. S. 140 (1934). There the
+  The line of Ninth Circuit jurisprudence upon which petitioner relied
+appears to be invoking our decision in \\Waco\\ v. \\United States
+Fidelity & Guaranty Co.,\\ {{293 U. S. 140 (1934)}}. There the
 District Court, in a single decree, had entered one order dismissing a
 cross-complaint against one party, and another order remanding because
 there was no diversity of citizenship in light of the dismissal.
 \\Id.,\\ at 142. We held that appellate jurisdiction existed to review
 the order of dismissal, although we repeatedly cautioned that the
-remand order itself could not be set aside. \\Id.,\\ at 143–144. The
-Ninth Circuit’s application of \\Waco\\ to petitioner’s appeal was
-mistaken. As we reiterated in \\Kircher,\\ see 547 U. S., at 645–646,
-n. 13, \\Waco\\ does not permit an appeal when there is no \\order\\
-separate from the unreviewable remand order. Here petitioner can
-point to no District Court order, separate from the remand, to which
-it objects and to which the issue of its foreign sovereign status is
-material. Thus, petitioner’s invocation of \\Waco\\ amounts to a
+remand order itself could not be set aside. {{\\Id.,\\ at 143–144.}}
+The Ninth Circuit’s application of \\Waco\\ to petitioner’s appeal
+was mistaken. As we reiterated in \\Kircher,\\ {{see 547 U. S., at
+645–646, n. 13}}, \\Waco\\ does not permit an appeal when there is no
+\\order\\ separate from the unreviewable remand order. Here petitioner
+can point to no District Court order, separate from the remand, to
+which it objects and to which the issue of its foreign sovereign status
+is material. Thus, petitioner’s invocation of \\Waco\\ amounts to a
 request for one of two impermissible outcomes: an advisory opinion as to
 its FSIA status that will not affect any order of the District Court,
 or a reversal of the remand order. \\Waco\\ did not, and could not,
@@ -355,29 +359,29 @@ authorize either form of judicial relief.
 § 1447(d) is simply inapplicable to a suit removed under the FSIA.
 It asserts that “§ 1447(d) must yield because Congress could not
 have intended to grant district judges irrevocable authority to decide
-questions with such sensitive foreign-relations implications.” Brief
-for Petitioner 49. @@237@@ We will not ignore a clear jurisdictional
-statute in reliance upon supposition of what Congress \\really\\ wanted.
-See \\Connecticut Nat. Bank\\ v. \\Germain,\\ 503 U. S. 249, 253–254
-(1992). Petitioner’s divination of congressional intent is flatly
-refuted by longstanding precedent:
+questions with such sensitive foreign-relations implications.” {{Brief
+for Petitioner 49.}} @@237@@ We will not ignore a clear jurisdictional
+statute in reliance upon supposition of what Congress \\really\\
+wanted. {{See \\Connecticut Nat. Bank\\ v. \\Germain,\\ 503 U. S. 249,
+253–254 (1992).}} Petitioner’s divination of congressional intent is
+flatly refuted by longstanding precedent:
 
     “Section 1447(d) applies ‘not only to remand orders made in
     suits removed under [the general removal statute], but to orders of
     remand made in cases removed under any other statutes, as well.’
     . . . Absent a clear statutory command to the contrary, we assume
     that Congress is ‘aware of the universality of th[e] practice’
-    of denying appellate review of remand orders when Congress creates a
-    new ground for removal.” \\Things Remembered,\\ 516 U. S., at 128
-    (quoting \\United States\\ v. \\Rice,\\ 327 U. S. 742, 752 (1946);
-    emphasis deleted and alterations in original).
+    of denying appellate review of remand orders when Congress creates
+    a new ground for removal.” {{\\Things Remembered,\\ 516 U. S.,
+    at 128 (quoting \\United States\\ v. \\Rice,\\ 327 U. S. 742, 752
+    (1946); emphasis deleted and alterations in original).}}
 
 Congress has repeatedly demonstrated its readiness to exempt particular
 classes of remand orders from § 1447(d) when it wishes—both within
 the text of § 1447(d) itself (which exempts civil rights cases removed
-pursuant to 28 U. S. C. § 1443), and in separate statutes, see,
+pursuant to 28 U. S. C. § 1443), and in separate statutes, {{see,
 \\e. g.,\\ 12 U. S. C. § 1441a(\\l\\)(3)(C), § 1819(b)(2)(C); 25
-U. S. C. § 487(d).
+U. S. C. § 487(d)}}.
 
   We are well aware that § 1447(d)’s immunization of erroneous
 remands has undesirable consequences in the FSIA context. A foreign
@@ -396,51 +400,51 @@ what it ought to have done.[[5]]
 
 * * *
 
-  Section 1447(d) reflects Congress’s longstanding “policy of not
-permitting interruption of the litigation of the merits of a removed
-case by prolonged litigation of questions of jurisdiction of the
-district court to which the cause is removed.” \\Rice, supra,\\
-at 751. Appellate courts must take that jurisdictional prescription
-seriously, however pressing the merits @@239@@ of the appeal might seem.
-We hold that § 1447(d) bars appellate consideration of petitioner’s
-claim that it is a foreign state for purposes of the FSIA. We therefore
-vacate in part the judgment of the Ninth Circuit and remand the
-case with instructions to dismiss petitioner’s appeal for want of
-jurisdiction.
+  Section 1447(d) reflects Congress’s longstanding “policy of
+not permitting interruption of the litigation of the merits of a
+removed case by prolonged litigation of questions of jurisdiction
+of the district court to which the cause is removed.” {{\\Rice,
+supra,\\ at 751.}} Appellate courts must take that jurisdictional
+prescription seriously, however pressing the merits @@239@@ of the
+appeal might seem. We hold that § 1447(d) bars appellate consideration
+of petitioner’s claim that it is a foreign state for purposes of the
+FSIA. We therefore vacate in part the judgment of the Ninth Circuit and
+remand the case with instructions to dismiss petitioner’s appeal for
+want of jurisdiction.
 
 ^5 The dissent’s belief that there is an implicit FSIA exception
-to § 1447(d), see \\post,\\ at 239–244 (opinion of <<Breyer,>>
-J.), rests almost exclusively on our recent decision in \\Osborn.\\
+to § 1447(d), {{see \\post,\\ at 239–244 (opinion of <<Breyer,>>
+J.)}}, rests almost exclusively on our recent decision in \\Osborn.\\
 The dissent reads \\Osborn\\ to stand for the proposition that any
 “conflict” between a specific, laterenacted statute and § 1447(d)
-should be resolved in favor of the former. \\Post,\\ at 240–241. The
-reason why the dissent is forced to the parenthetical admission that
-“\\Osborn\\ did not say as much,” \\post,\\ at 240, is because
+should be resolved in favor of the former. {{\\Post,\\ at 240–241.}}
+The reason why the dissent is forced to the parenthetical admission that
+“\\Osborn\\ did not say as much,” {{\\post,\\ at 240}}, is because
 the dissent drastically overreads the case. \\Osborn\\ held only that
 § 1447(d) was trumped by the Westfall Act’s explicit provision that
 removal was conclusive upon the Attorney General’s certification: As
 between “the two antishuttling commands,” the Court said, “only
-one can prevail.” 549 U. S., at 244. The opinion was quite clear
+one can prevail.” {{549 U. S., at 244.}} The opinion was quite clear
 that the \\only\\ statutory rivalry with which it was concerned was
 dueling “antishuttling commands”: “Only in the extraordinary case
 in which Congress has ordered the intercourt shuttle to travel just
 one way—from state to federal court—does today’s decision hold
 sway.” \\Ibid.\\ That is why \\Osborn\\ repeatedly emphasized that
-Westfall Act certification is “ ‘conclusiv[e] . . .  \\for purposes of
-removal,\\’” \\id.,\\ at 242, 243, an emphasis that the dissent
-essentially ignores, \\post,\\ at 240–241.
+Westfall Act certification is “ ‘conclusiv[e] . . . \\for purposes
+of removal,\\’” {{\\id.,\\ at 242, 243}}, an emphasis that the
+dissent essentially ignores, {{\\post,\\ at 240–241}}.
 
-  ^ \\Osborn\\ is no license for courts to assume the legislative role by
-characterizing the \\consequences\\ of § 1447(d)’s bar on appellate
-review as creating a \\conflict,\\ leaving it to judges to suppress
-that provision when they think Congress undervalued or overlooked those
-consequences. The dissent renders a quintessential policy judgment in
-concluding that appellate “delay is necessary, indeed, crucial,”
-\\post,\\ at 242, when the rights of a foreign sovereign are at stake.
-We have no idea whether this is a wise balancing of the various values
-at issue here. We are confident, however, that the dissent is wrong to
-think that it would improve the “law in this democracy,” \\post,\\
-at 244, for judges to accept the lawmaking power that the dissent
-dangles before them.
+  ^ \\Osborn\\ is no license for courts to assume the legislative
+role by characterizing the \\consequences\\ of § 1447(d)’s bar
+on appellate review as creating a \\conflict,\\ leaving it to judges
+to suppress that provision when they think Congress undervalued or
+overlooked those consequences. The dissent renders a quintessential
+policy judgment in concluding that appellate “delay is necessary,
+indeed, crucial,” {{\\post,\\ at 242}}, when the rights of a foreign
+sovereign are at stake. We have no idea whether this is a wise balancing
+of the various values at issue here. We are confident, however, that
+the dissent is wrong to think that it would improve the “law in this
+democracy,” {{\\post,\\ at 244}}, for judges to accept the lawmaking
+power that the dissent dangles before them.
 
         \\It is so ordered.\\
