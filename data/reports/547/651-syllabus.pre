@@ -1,0 +1,152 @@
+Type: Syllabus
+Author: Reporter of Decisions
+Page: 651
+
+The Bankruptcy Code accords priorities, among unsecured creditors’
+claims, for unpaid “wages, salaries, or commissions,” 11 U. S. C.
+§ 507(a)(4)(A), and for unpaid contributions to “an employee benefit
+plan,” § 507(a)(5). Petitioner Howard Delivery Service, Inc.
+(Howard), was required by each State in which it operated to maintain
+workers’ compensation coverage to secure its employees’ receipt
+of health, disability, and death benefits in the event of on-the-job
+accidents. Howard contracted with respondent Zurich American Insurance
+Co. (Zurich) to provide this insurance for Howard’s operations in ten
+States. After Howard filed a Chapter 11 bankruptcy petition, Zurich
+filed an unsecured creditor’s claim for some $400,000 in premiums,
+asserting that they qualified as “contributions to an employee benefit
+plan” entitled to priority under § 507(a)(5). The Bankruptcy Court
+denied priority status to the claim, reasoning that because overdue
+premiums do not qualify as bargained-for benefits furnished in lieu
+of increased wages, they fall outside § 507(a)(5)’s compass. The
+District Court affirmed, similarly determining that unpaid workers’
+compensation premiums do not share the priority provided for unpaid
+contributions to employee pension and health plans. A Fourth Circuit
+panel reversed without agreeing on a rationale.
+
+\\Held:\\ Insurance carriers’ claims for unpaid workers’
+compensation premiums owed by an employer fall outside the priority
+allowed by § 507(a)(5). Although the question is close, such premiums
+are more appropriately bracketed with liability insurance premiums
+for, \\e. g.,\\ motor vehicle, fire, or theft insurance, than with
+contributions made for fringe benefits that complete a pay package,
+\\e. g.,\\ pension plans and group health, life, and disability
+insurance, which undisputedly are covered by § 507(a)(5).
+
+  \\United States\\ v. \\Embassy Restaurant, Inc.,\\ 359 U. S. 29,
+29–35, and \\Joint Industry Bd. of Elec. Industry\\ v. \\United
+States,\\ 391 U. S. 224, 228–229, held that an employer’s unpaid
+contributions to collectively bargained plans providing, respectively,
+life insurance and annuity benefits to employees did not qualify as
+“wages” entitled to priority status under the prior bankruptcy
+law. Congress thereafter enacted @@652@@ what is now § 507(a)(5)
+in order to provide a priority for the kind of fringe benefits at
+issue in those cases. Notably, Congress did not enlarge the “wages,
+salaries, [and] commissions” priority, § 507(a)(4)(A), to include
+fringe benefits, but instead created a new priority, § 507(a)(5),
+one step lower than the wage priority. The new provision allows a plan
+provider to recover unpaid premiums—albeit only after the employees’
+claims for “wages, salaries, or commissions” have been paid. The
+current Code’s juxtaposition of the wages and employee benefit plan
+priorities manifests Congress’ comprehension that fringe benefits
+generally complement, or substitute for, hourly pay. Congress tightened
+the linkage of § 507(a)(4) and (a)(5) by imposing a combined cap
+on the two priorities, currently set at $10,000 per employee. See
+§ 507(a)(5)(B). Because § 507(a)(4) has a higher priority status,
+all claims for wages are paid first, up to the $10,000 limit; claims
+under § 507(a)(5) for benefit plan contributions can be recovered next
+up to the remainder of the $10,000 ceiling. No other § 507 subsections
+are so joined together.
+
+  Apart from the clues provided by \\Embassy Restaurant, Joint Industry
+Bd.,\\ and the textual ties binding § 507(a)(4) and (5), Congress left
+undefined the § 507(a)(5) terms, “\\contributions\\ to an \\employee
+benefit\\ \\plan\\ . . . arising from \\services rendered.\\”
+(Emphasis added.) Maintaining that § 507(a)(5) covers more than wage
+substitutes like the ones at issue in \\Embassy Restaurant\\ and \\Joint
+Industry Bd.,\\ Zurich urges the Court to borrow the encompassing
+definition of employee benefit plan contained in the Employee Retirement
+Income Security Act of 1974 (ERISA): “[A]ny plan, fund, or program
+[that provides] its participants . . . , through the purchase of
+insurance or otherwise, . . . benefits in the event of sickness,
+accident, disability, [or] death.” 29 U. S. C. § 1002(1). Federal
+courts have questioned whether ERISA is appropriately used to fill
+in blanks in a Bankruptcy Code provision, and the panel below parted
+ways on this issue. In any event, ERISA’s signals are mixed, for
+§ 1003(b)(3) specifically exempts from ERISA’s coverage the genre
+of plan here at issue, \\i. e.,\\ one “maintained solely for the
+purpose of complying with applicable work[ers’] compensation laws.”
+That exemption strengthens the Court’s resistance to Zurich’s
+argument. Rather, the Court follows \\United States\\ v. \\Reorganized
+CF&I Fabricators of\\ \\Utah, Inc.,\\ 518 U. S. 213, 219, in noting
+that “[h]ere and there in the Bankruptcy Code Congress has included
+specific directions that establish the significance for bankruptcy
+law of a term used elsewhere in the federal statutes.” \\Id.,\\ at
+219–220. No such directions are contained in § 507(a)(5), and the
+Court has no warrant to write them into the text.
+
+  This case turns instead on the essential character of workers’
+compensation regimes. Unlike pension plans or group life, health,
+and disability insurance—negotiated or granted to supplement,
+or substitute for, @@653@@ \\wages\\—workers’ compensation
+prescriptions modify, or substitute for, the common-law tort
+\\liability\\ to which employers were exposed for work-related
+\\accidents.\\ Workers’ compensation regimes provide something for
+employees, ensuring limited fixed payments for on-the-job injuries,
+and something for employers, removing the risk of large judgments
+and heavy costs in tort litigation. No such tradeoff is involved in
+employer-sponsored fringe benefit plans. Moreover, employer­ sponsored
+pension and health plans characteristically insure the employee (or
+his survivor) only. In contrast, workers’ compensation insurance
+shields the insured enterprise. When an employer fails to secure
+workers’ compensation coverage, or loses coverage for nonpayment of
+premiums, an affected employee’s remedy would not lie in a suit for
+premiums that should have been paid to a compensation carrier. Instead,
+employees who sustain work-related injuries commonly have recourse to
+a state-maintained fund or are authorized by state law to pursue the
+larger recoveries successful tort litigation ordinarily yields. Further
+distancing workers’ compensation and fringe benefits, nearly all
+States require employers to participate in workers’ compensation, with
+substantial penalties, even criminal liability, for failure to do so.
+It is relevant, although not dispositive, that States overwhelmingly
+prescribe and regulate insurance coverage for on-the-job accidents,
+while commonly leaving fringe benefits to private ordering.
+
+  Zurich’s argument that according its claim a § 507(a)(5) priority
+will give workers’ compensation carriers an incentive to continue
+coverage of a failing enterprise, thus promoting rehabilitation of
+the business, is unpersuasive. Rather than speculating on how such
+insurers might react were they to be granted a § 507(a)(5) priority,
+the Court is guided by the Bankruptcy Code’s objective of securing
+equal distribution among creditors, see, \\e. g., Kothe\\ v. \\R. C.
+Taylor Trust,\\ 280 U. S. 224, 227, and by the corollary principle that
+preference provisions must be tightly construed, see, \\e. g., ibid.\\
+Cases like Zurich’s are illustrative. The Bankruptcy Code caps the
+amount recoverable for contributions to employee benefit plans. Opening
+the § 507(a)(5) priority to workers’ compensation carriers could
+shrink the amount available to cover unpaid contributions to plans
+paradigmatically qualifying as wage surrogates, primarily pension and
+health benefit plans. Pp. 657–668.
+
+403 F. 3d 228, reversed and remanded.
+
+<<Ginsburg,>> J., delivered the opinion of the Court, in which
+<<Roberts,>> C. J., and <<Stevens, Scalia, Thomas,>> and <<Breyer,>>
+JJ., joined. <<Ken­>> <<nedy,>> J., filed a dissenting opinion, in
+which <<Souter>> and <<Alito,>> JJ., joined, \\post,\\ p. 668. @@654@@
+
+  \\Paul F. Strain\\ argued the cause for petitioners. On the briefs
+were \\Richard M. Francis, Heather G. Harlan, Lawrence A. Katz,\\ and
+\\Mitchell Y. Mirviss.\\
+
+  \\Donald B. Verrilli, Jr.,\\ argued the cause for respondent. With him
+on the brief were \\William M. Hohengarten, Elaine\\ \\J. Goldenberg,
+Barbara S. Steiner, Daniel R. Murray,\\ \\Margaret M. Anderson, Hugh S.
+Balsam,\\ and \\Karen Lee\\ \\Turner.\\[[*]]
+
+^* \\Donald J. Capuano\\ and \\John M. McIntire\\ filed a brief for the
+National Coordinating Committee for Multiemployer Plans as \\amicus
+curiae\\ urging reversal.
+
+  ^ \\G. Eric Brunstad, Jr., Rheba Rutkowski,\\ and \\William C. Heuer\\
+filed a brief for the American Home Assurance Co. et al. as \\amici
+curiae\\ urging affirmance.

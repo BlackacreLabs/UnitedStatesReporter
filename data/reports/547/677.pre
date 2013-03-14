@@ -1,0 +1,706 @@
+Type: Court
+Author: Ginsburg
+Page: 682
+
+  <<Justice Ginsburg>> delivered the opinion of the Court.
+
+  The Federal Employees Health Benefits Act of 1959 (FEHBA), 5
+U. S. C. § 8901 \\et seq.\\ (2000 ed. and Supp. III), establishes
+a comprehensive program of health insurance for federal employees. The
+Act authorizes the Office of Personnel Management (OPM) to contract with
+private carriers to offer federal employees an array of health-care
+plans. See § 8902(a) (2000 ed.). Largest of the plans for which OPM
+has contracted, annually since 1960, is the Blue Cross Blue Shield
+Service Benefit Plan (Plan), administered by local Blue Cross Blue
+Shield companies. This case concerns the proper forum for reimbursement
+claims when a Plan beneficiary, injured in an accident, whose medical
+bills have been paid by the Plan administrator, recovers damages
+(unaided by the carrier-administrator) in a state-court tort action
+against a third party alleged to have caused the accident. @@683@@
+
+  FEHBA contains a preemption clause, § 8902(m)(1), displacing
+state law on issues relating to “coverage or benefits” afforded
+by health-care plans. The Act contains no provision addressing the
+subrogation or reimbursement rights of carriers. Successive annual
+contracts between OPM and the Blue Cross Blue Shield Association (BCBSA)
+have obligated the carrier to make “a reasonable effort” to recoup
+amounts paid for medical care. App. 95, 125. The statement of benefits
+distributed by the carrier alerts enrollees that all recoveries they
+receive “must be used to reimburse the Plan for benefits paid.”
+\\Id.,\\ at 132; see also \\id.,\\ at 146, 152.
+
+  The instant case originated when the administrator of a Plan
+beneficiary’s estate pursued tort litigation in state court against
+parties alleged to have caused the beneficiary’s injuries. The
+carrier had notice of the state-court action, but took no part in it.
+When the tort action terminated in a settlement, the carrier filed
+suit in federal court seeking reimbursement of the full amount it had
+paid for the beneficiary’s medical care. The question presented is
+whether 28 U. S. C. § 1331 (authorizing jurisdiction over “civil
+actions arising under the . . . laws . . . ofthe United States”)
+encompasses the carrier’s action. We hold it does not.
+
+  FEHBA itself provides for federal-court jurisdiction only in actions
+against the United States. Congress could decide and provide that
+reimbursement claims of the kind here involved warrant the exercise of
+federal-court jurisdiction. But claims of this genre, seeking recovery
+from the proceeds of state-court litigation, are the sort ordinarily
+resolved in state courts. Federal courts should await a clear signal
+from Congress before treating such auxiliary claims as “arising
+under” the laws of the United States.
+
+# I
+
+  FEHBA assigns to OPM responsibility for negotiating and regulating
+health-benefits plans for federal employees. See @@684@@ 5 U. S. C.
+§ 8902(a). OPM contracts with carriers, FEHBA instructs, “shall
+contain a detailed statement of benefits offered and shall include such
+maximums, limitations, exclusions, and other definitions of benefits
+as [OPM] considers necessary or desirable.” § 8902(d). Pursuant to
+FEHBA, OPM entered into a contract in 1960 with the BCBSA to establish
+a nationwide fee-for-service health plan, the terms of which are
+renegotiated annually. As FEHBA prescribes, the Federal Government pays
+about 75% of the premiums; the enrollee pays the rest. § 8906(b).
+Premiums thus shared are deposited in a special Treasury Fund, the
+Federal Employees Health Benefits Fund, § 8909(a). Carriers draw
+against the Fund to pay for covered health-care benefits. \\Ibid.;\\ see
+also 48 CFR § 1632.170(b) (2005).
+
+  The contract between OPM and the BCBSA provides: “By enrolling or
+accepting services under this contract, [enrollees and their eligible
+dependents] are obligated to all terms, conditions, and provisions of
+this contract.” App. 90. An appended brochure sets out the benefits
+the carrier shall provide, see \\id.,\\ at 89, and the carrier’s
+subrogation and recovery rights, see \\id.,\\ at 100. Each enrollee, as
+FEHBA directs, receives a statement of benefits conveying information
+about the Plan’s coverage and conditions. 5 U. S. C. § 8907(b).
+Concerning reimbursement and subrogation, matters FEHBA itself does not
+address, the BCBSA Plan’s statement of benefits reads in part:
+
+      “If another person or entity . . . causes you to suffer
+    an injury or illness, and if we pay benefits for that injury or
+    illness, you must agree to the following:
+
+      “All recoveries you obtain (whether by lawsuit, settle­ ment,
+    or otherwise), no matter how described or desig­ nated, must be
+    used to reimburse us in full for benefits we paid. Our share of any
+    recovery extends only to the amount of benefits we have paid or
+    will pay to you or, if applicable, to your heirs, administrators,
+    successors, or assignees.
+
+       . . . ..
+
+      @@685@@ “If you do not seek damages for your illness or injury,
+    you must permit us to initiate recovery on your behalf (including
+    the right to bring suit in your name). This is called subrogation.
+
+      “If we pursue a recovery of the benefits we have paid, you
+    must cooperate in doing what is reasonably neces­ sary to assist
+    us. You must not take any action that may prejudice our rights to
+    recover.” App. 165.[[1]]
+
+If the participant does not voluntarily reimburse the Plan, the contract
+requires the carrier to make a “reasonable effort to seek recovery
+of amounts . . . it is entitled to recover in cases . . . brought
+to its attention.” \\Id.,\\ at 95, 125. Pursuant to the OPM–BCBSA
+master contract, reimbursements obtained by the carrier must be returned
+to the Treasury Fund. See \\id.,\\ at 92, 118–119.
+
+  FEHBA contains a preemption provision, which originally provided:
+
+      “The provisions of any contract under this chapter which relate
+    to the nature or extent of coverage or bene­ fits (including
+    payments with respect to benefits) shall supersede and preempt any
+    State or local law, or any regulation issued thereunder, which
+    relates to health insurance or plans to the extent that such law or
+    reg­ ulation is inconsistent with such contractual provisions.” 5
+    U. S. C. § 8902(m)(1) (1994 ed.). @@686@@
+
+To ensure uniform coverage and benefits under plans OPM negotiates
+for federal employees, see H. R. Rep. No. 95–282, p. 1 (1977),
+§ 8902(m)(1) preempted “State laws or regulations which specify
+types of medical care, providers of care, extent of benefits, coverage
+of family members, age limits for family members, or other matters
+relating to health benefits or coverage,” \\id.,\\ at 4–5 (noting
+that some States mandated coverage for services not included in federal
+plans, for example, chiropractic services). In 1998, Congress amended
+§8902(m)(1) by deleting the words “to the extent that such law or
+regulation is inconsistent with such contractual provisions.” Thus,
+under § 8902(m)(1) as it now reads, state law—whether consistent or
+inconsistent with federal plan provisions—is displaced on matters of
+“coverage or benefits.”
+
+^1 The statement of benefits further provides:
+
+  ^ “You must tell us promptly if you have a claim against another
+party for a condition that we have paid or may pay benefits for, and
+you must tell us about any recoveries you obtain, whether in or out of
+court. We may seek a lien on the proceeds of your claim in order to
+reimburse ourselves to the full amount of benefits we have paid or will
+pay.
+
+  ^ “We may request that you assign to us (1) your right to bring an
+action or (2) your right to the proceeds of a claim for your illness or
+injury. We may delay processing of your claims until you provide the
+assignment.
+
+  ^ “\\Note:\\ We will pay the costs of any covered services you
+receive that are in excess of any recoveries made.” App. 165.
+
+  FEHBA contains but one provision addressed to federal­ court
+jurisdiction. That provision vests in federal district courts
+“original jurisdiction, concurrent with the United States Court
+of Federal Claims, of a civil action or claim against the United
+States founded on this chapter.” § 8912. The purpose of this
+provision—evident from its reference to the Court of Federal
+Claims—was to carve out an exception to the statutory rule that claims
+brought against the United States and exceeding $10,000 must originate
+in the Court of Federal Claims. See 28 U. S. C. § 1346(a)(2)
+(establishing district courts’ jurisdiction, concurrent with the
+Court of Federal Claims, over claims against the United States that do
+not exceed $10,000); see also S. Rep. No. 1654, 83d Cong., 2d Sess.,
+4–5 (1954) (commenting, with respect to an identical provision in the
+Federal Employees’ Group Life Insurance Act, 5 U. S. C. § 8715,
+that the provision “would extend the jurisdiction of United States
+district courts above the $10,000 limitation now in effect”).
+
+  Under a 1995 OPM regulation, suits contesting final OPM action
+denying health benefits “must be brought against OPM and not against
+the carrier or carrier’s subcontractors.” 5 CFR § 890.107(c)
+(2005). While this regulation channels @@687@@ disputes over coverage
+or benefits into federal court by designating a United States agency
+(OPM) sole defendant, no law opens federal courts to carriers seeking
+reimbursement from beneficiaries or recovery from tortfeasors. Cf. 29
+U. S. C. § 1132(e)(1) (provision of the Employee Retirement Income
+Security Act (ERISA) vesting in federal district courts “exclusive
+jurisdiction of civil actions under this sub­ chapter”). And
+nothing in FEHBA’s text prescribes a federal rule of decision for a
+carrier’s claim against its insured or an alleged tortfeasor to share
+in the proceeds of a state­ court tort action.
+
+# II
+
+  Petitioner Empire HealthChoice Assurance, Inc., doing business as
+Empire Blue Cross Blue Shield (Empire), is the entity that administers
+the BCBSA Plan as it applies to federal employees in New York State.
+Respondent Denise Finn McVeigh (McVeigh) is the administrator of the
+estate of Joseph E. McVeigh (Decedent), a former enrollee in the Plan.
+The Decedent was injured in an accident in 1997. Plan payments for the
+medical care he received between 1997 and his death in 2001 amounted
+to $157,309. McVeigh, on behalf of herself, the Decedent, and a minor
+child, commenced tort litigation in state court against parties alleged
+to have caused Decedent’s injuries. On learning that the parties to
+the state-court litigation had agreed to settle the tort claims, Empire
+sought to recover the $157,309 it had paid out for the Decedent’s
+medical care.[[2]] Of the $3,175,000 for which the settlement provided,
+McVeigh, in response to Empire’s asserted reimbursement right, agreed
+to place $100,000 in escrow.
+
+  Empire then filed suit in the United States District Court for
+the Southern District of New York, alleging that Mc@@688@@Veigh was
+in breach of the reimbursement provision of the Plan. As relief,
+Empire demanded $157,309, with no offset for attorney’s fees or
+other litigation costs McVeigh incurred in pursuing the state-court
+settlement. McVeigh moved to dismiss on various grounds, among them,
+lack of subject­ matter jurisdiction. See 396 F. 3d 136, 139 (CA2
+2005). Answering McVeigh’s motion, Empire urged that the District
+Court had jurisdiction under 28 U. S. C. § 1331 because federal
+common law governed its reimbursement claim. In the alternative, Empire
+asserted that the Plan itself constituted federal law. See 396 F. 3d, at
+140. The District Court rejected both arguments and granted McVeigh’s
+motion to dismiss for want of subject-matter jurisdiction. \\Ibid.\\
+
+^2 At oral argument, counsel for respondent McVeigh represented that
+“most of the [reimbursement claims] are not of th[is] magnitude”;
+“[m]ost of the cases involve [amounts like] $5,500 and $6,500.” Tr.
+of Oral Arg. 52.
+
+  A divided panel of the Court of Appeals for the Second Circuit
+affirmed, holding that “Empire’s clai[m] arise[s] under state
+law.” \\Id.,\\ at 150. FEHBA’s text, the court observed, contains
+no authorization for carriers “to vindicate [in federal court] their
+rights [against enrollees] under FEHBA­ authorized contracts”;
+therefore, the court concluded, “federal jurisdiction exists over
+this dispute only if federal common law governs Empire’s claims.”
+\\Id.,\\ at 140. Quoting \\Boyle\\ v. \\United Technologies Corp.,\\
+487 U. S. 500, 507, 508 (1988), the appeals court stated that courts
+may create federal common law only when “the operation of state law
+would (1) ‘significant[ly] conflict’ with (2) ‘uniquely federal
+interest[s].’” 396 F. 3d, at 140.
+
+  Empire maintained that its contract-derived claim against McVeigh
+implicated “‘uniquely federal interest[s],’” because (1)
+reimbursement directly affects the United States Treasury and the cost
+of providing health benefits to federal employees; and (2) Congress had
+expressed its interest in maintaining uniformity among the States on
+matters relating to federal health-plan benefits. \\Id.,\\ at 141. The
+court acknowledged that the case involved distinctly federal interests,
+but found that Empire had not identified “specific ways in which the
+operation of state contract law, or indeed of @@689@@ other laws of
+general application, would conflict materially with the federal policies
+underlying FEHBA in the circumstances presented.” \\Id.,\\ at 150
+(Sack, J., concurring); see \\id.,\\ at 142.
+
+  The Court of Appeals next considered and rejected Empire’s argument
+that FEHBA’s preemption provision, 5 U. S. C. § 8902(m)(1),
+independently conferred federal jurisdiction. 396 F. 3d, at 145–149.
+That provision, the court observed, is “a limited preemption clause
+that the instant dispute does not trigger.” \\Id.,\\ at 145. Unlike
+§ 8912, which “authoriz[es] federal jurisdiction over FEHBA-related
+. . . claims ‘ \\against the United States,\\ ’” the court
+noted, § 8902(m)(1) “makes no reference to a federal right of
+action [in] or to federal jurisdiction [over]” the contract-derived
+reimbursement claim here at issue. 396 F. 3d, at 145, and n. 7.
+
+  Judge Raggi dissented. \\Id.,\\ at 151. In her view, FEHBA’s
+preemption provision, § 8902(m)(1), as amended in 1998, both calls for
+the application of uniform federal common law to terms in a FEHBA plan
+and establishes federal jurisdiction over Empire’s complaint.
+
+  We granted certiorari, 546 U. S. 1085 (2005), to resolve a conflict
+among lower federal courts concerning the proper forum for claims of the
+kind Empire asserts. Compare \\Blue\\ \\Cross & Blue Shield of Ill.\\
+v. \\Cruz,\\ 396 F. 3d 793, 799–800 (CA7 2005) (upholding federal
+jurisdiction), \\Caudill\\ v. \\Blue\\ \\Cross & Blue Shield of N. C.,\\
+999 F. 2d 74, 77 (CA4 1993) (same), and \\Medcenters Health Care\\ v.
+\\Ochs,\\ 854 F. Supp. 589, 593, and n. 3 (Minn. 1993) (same), aff’d,
+26 F. 3d 865 (CA8 1994), with \\Goepel\\ v. \\National Postal Mail
+Handlers Union,\\ 36 F. 3d 306, 314–315 (CA3 1994) (rejecting federal
+jurisdiction), and 396 F. 3d, at 139 (decision below) (same).
+
+# III
+
+  Title 28 U. S. C. § 1331 vests in federal district courts
+“original jurisdiction” over “all civil actions arising under the
+Constitution, laws, or treaties of the United States.” A @@690@@ case
+“aris[es] under” federal law within the meaning of § 1331, this
+Court has said, if “a well-pleaded complaint establishes either that
+federal law creates the cause of action or that the plaintiff’s right
+to relief necessarily depends on resolution of a substantial question of
+federal law.” \\Franchise Tax Bd. of Cal.\\ v. \\Construction Laborers
+Vacation\\ \\Trust for Southern Cal.,\\ 463 U. S. 1, 27–28 (1983).
+
+  Empire and the United States, as \\amicus curiae,\\ present two
+principal arguments in support of federal-question jurisdiction.
+Emphasizing our opinion in \\Jackson Transit Authority\\ v. \\Transit
+Union,\\ 457 U. S. 15, 22 (1982), and cases cited therein, they
+urge that Empire’s complaint raises a federal claim because it
+seeks to vindicate a contractual right contemplated by a federal
+statute, a right that Congress intended to be federal in nature.
+See Brief for Petitioner 14–31; Brief for United States 12–23.
+FEHBA’s preemption provision, Empire and the United States contend,
+demonstrates Congress’ intent in this regard. The United States
+argues, alternatively, that there is federal jurisdiction here, as
+demonstrated by our recent decision in \\Grable & Sons\\ \\Metal
+Products, Inc.\\ v. \\Darue Engineering & Mfg.,\\ 545 U. S. 308
+(2005), because “federal law is a necessary element of [Empire’s]
+claim.” Brief for United States 25; accord Brief for Petitioner 41,
+n. 5. We address these arguments in turn. But first, we respond to
+the dissent’s view that Empire and the United States have engaged in
+unnecessary labor, for \\Clearfield Trust Co.\\ v. \\United States,\\
+318 U. S. 363 (1943), provides “a basis for federal jurisdiction”
+in this case. \\Post,\\ at 702.
+
+## A
+
+  \\Clearfield\\ is indeed a pathmarking precedent on the authority
+of federal courts to fashion uniform federal common law on issues of
+national concern. See Friendly, In Praise of \\Erie\\—and of the New
+Federal Common Law, 39 N. Y. U. L. Rev. 383, 409–410 (1964). But
+the dissent is mistaken in supposing that the \\Clearfield\\ doctrine
+covers this case. @@691@@ \\Clearfield\\ was a suit by the United States
+to recover from a bank the amount paid on a Government check on which
+the payee’s name had been forged. 318 U. S., at 365. Because the
+United States was the plaintiff, federal-court jurisdiction was solidly
+grounded. See \\ibid.\\ (“This suit was instituted . . . bythe
+United States . . . ,the jurisdiction of the federal District Court
+being invoked pursuant to the provisions of § 24(1) of the Judicial
+Code, 28 U. S. C. § 41(1),” now contained in 28 U. S. C.
+§§ 1332, 1345, 1359). The case presented a vertical choice-of-law
+issue: Did state law under \\Erie R. Co.\\ v. \\Tompkins,\\ 304 U. S.
+64 (1938), or a court­ fashioned federal rule of decision (federal
+common law) determine the merits of the controversy? The Court held that
+“[t]he rights and duties of the United States on commercial paper
+which it issues are governed by federal rather than [state] law.” 318
+U. S., at 366.
+
+  In post-\\Clearfield\\ decisions, and with the benefit of enlightened
+commentary, see, \\e. g.,\\ Friendly, \\supra,\\ at 410, the Court
+has “made clear that uniform federal law need not be applied to all
+questions in federal government litigation, even in cases involving
+government contracts,” R. Fallon, D. Meltzer, & D. Shapiro, Hart and
+Wechsler’s The Federal Courts and the Federal System 700 (5th ed.
+2003) (hereinafter Hart and Wechsler).[[3]] “[T]he prudent course,”
+we have recognized, is often “to adopt the readymade body of state
+@@692@@ law as the federal rule of decision until Congress strikes a
+different accommodation.” \\United States\\ v. \\Kimbell Foods,\\
+\\Inc.,\\ 440 U. S. 715, 740 (1979).
+
+^3 The United States, in accord with the dissent in this regard, see
+\\post,\\ at 707, several times cites \\United States\\ v. \\County of
+Allegheny,\\ 322 U. S. 174 (1944), see, \\e. g.,\\ Brief as \\Amicus
+Curiae\\ 10, 15, 26, maintaining that the construction of a federal
+contract “necessarily present[s] questions of ‘federal law not
+controlled by the law of any State,’” \\id.,\\ at 26 (quoting 322
+U. S., at 183). \\Allegheny\\ does not stretch as widely as the United
+States suggests. That case concerned whether certain property belonged
+to the United States and, if so, whether the incidence of a state tax
+was on the United States or on a Government contractor. See \\id.,\\ at
+181–183, 186–189. Neither the United States nor any United States
+agency is a party to this case, and the auxiliary matter here involved
+scarcely resembles the controversy in \\Allegheny.\\
+
+  Later, in \\Boyle,\\ the Court telescoped the appropriate inquiry,
+focusing it on the straightforward question whether the relevant
+federal interest warrants displacement of state law. See 487 U. S., at
+507, n. 3. Referring simply to “the displacement of state law,”
+the Court recognized that prior cases had treated discretely (1) the
+competence of federal courts to formulate a federal rule of decision,
+and (2) the appropriateness of declaring a federal rule rather than
+borrowing, incorporating, or adopting state law in point. The Court
+preferred “the more modest terminology,” questioning whether
+“the distinction between displacement of state law and displacement
+of federal law’s incorporation of state law ever makes a practical
+difference.” \\Ibid. Boyle\\ made two further observations here
+significant. First, \\Boyle\\ explained, the involvement of “an area
+of uniquely federal interest . . . establishes a necessary, not a
+sufficient, condition for the displacement of state law.” \\Id.,\\
+at 507. Second, in some cases, an “entire body of state law” may
+conflict with the federal interest and therefore require replacement.
+\\Id.,\\ at 508. But in others, the conflict is confined, and “only
+particular elements of state law are superseded.” \\Ibid.\\
+
+  The dissent describes this case as pervasively federal, \\post,\\
+at 702, and “the provisions . . . here [as] just a few scattered
+islands in a sea of federal contractual provisions,” \\post,\\ at
+709. But there is nothing “scattered” about the provisions on
+reimbursement and subrogation in the OPM– BCBSA master contract.
+See \\supra,\\ at 684–685. Those provisions are linked together and
+depend upon a recovery from a third party under terms and conditions
+ordinarily governed by state law. See \\infra,\\ at 698.[[4]] The Court
+of @@693@@ Appeals, whose decision we review, trained on the matter of
+reimbursement, not, as the dissent does, on FEHBA­ authorized contracts
+at large. So focused, the appeals court determined that Empire has not
+demonstrated a “significant conflict . . . between an identifiable
+federal policy or interest and the operation of state law.” 396 F. 3d,
+at 150 (Sack, J., concurring) (quoting \\Boyle,\\ 487 U. S., at 507);
+see 396 F. 3d, at 140–141. Unless and until that showing is made,
+there is no cause to displace state law, much less to lodge this case in
+federal court.
+
+^4 The dissent nowhere suggests that uniform, court-declared
+federal law would govern the carrier’s subrogation claim against
+the tortfeasor. Nor does the dissent explain why the two linked
+provisions—reimbursement and subrogation—should be decoupled.
+
+## B
+
+  We take up next Empire’s \\Jackson Transit-\\derived argument, which
+is, essentially, a more tailored variation of the theme sounded in the
+dissent. It is undisputed that Congress has not expressly created a
+federal right of action enabling insurance carriers like Empire to sue
+health-care beneficiaries in federal court to enforce reimbursement
+rights under contracts contemplated by FEHBA. Empire and the United
+States nevertheless argue that, under our 1982 opinion in \\Jackson
+Transit,\\ Empire’s claim for reimbursement, arising under the
+contract between OPM and the BCBSA, “states a federal claim” because
+Congress intended all rights and duties stemming from that contract to
+be “federal in nature.” Brief for United States as \\Amicus Curiae\\
+12; see Brief for Petitioner 18–29. We are not persuaded by this
+argument.
+
+  The reliance placed by Empire and the United States on \\Jackson
+Transit\\ is surprising, for that decision held there was no federal
+jurisdiction over the claim in suit. The federal statute there involved,
+§ 13(c) of the Urban Mass Transportation Act of 1964 (UMTA), 78 Stat.
+307 (then codified at 49 U. S. C. § 1609(c) (1976 ed.)), conditioned
+a governmental unit’s receipt of federal funds to acquire a privately
+owned transit company on preservation of collective-bargaining rights
+enjoyed by the acquired company’s employees. 457 U. S., at 17–18.
+The city of Jackson, Tennessee, with federal financial assistance,
+acquired a failing private bus company @@694@@ and turned it into
+a public entity, the Jackson Transit Authority. \\Id.,\\ at 18. To
+satisfy the condition on federal aid, the transit authority entered
+into a “§ 13(c) agreement” with the union that represented the
+private company’s employees, and the Secretary of Labor certified that
+agreement as “fair and equitable.” \\Ibid.\\ (internal quotation
+marks omitted).
+
+  For several years thereafter, the transit authority covered its
+unionized workers in a series of collective-bargaining agreements.
+Eventually, however, the Authority notified the union that it would
+no longer adhere to collective­ bargaining undertakings. \\Id.,\\ at
+19. The union commenced suit in federal court alleging breach of the
+§ 13(c) agreement and of the latest collective-bargaining agreement.
+\\Ibid.\\ This Court determined that the case did not arise under
+federal law, but was instead “governed by state law [to be] applied in
+state cour[t].” \\Id.,\\ at 29.
+
+  The Court acknowledged in \\Jackson Transit\\ that “on several
+occasions [we had] determined that a plaintiff stated a federal
+claim when he sued to vindicate contractual rights \\set\\ \\forth
+by federal statutes,\\ [even though] the relevant statutes lacked
+express provisions creating federal causes of action.” \\Id.,\\ at 22
+(emphasis added) (citing \\Machinists\\ v. \\Central Airlines, Inc.,\\
+372 U. S. 682 (1963) (union had a federal right of action to enforce
+an airline-adjustment-board award included in a collective-bargaining
+contract pursuant to a provision of the Railway Labor Act); \\Norfolk
+& Western R. Co.\\ v. \\Nemitz,\\ 404 U. S. 37 (1971) (railroad’s
+employees stated federal claims when they sought to enforce assurances
+made by the railroad to secure Interstate Commerce Commission approval
+of a consolidation under a provision of the Interstate Commerce Act);
+\\Transamerica Mortgage Advisors, Inc.\\ v. \\Lewis,\\ 444 U. S. 11,
+18–19 (1979) (permitting federal suit for rescission of a contract
+declared void by a provision of the Investment Advisers Act of 1940)).
+But prior decisions, we said, “d[id] not dictate the result in
+[the \\Jackson Transit\\] case,” for in each case, “the critical
+factor” in determining “the scope of @@695@@ rights and remedies
+under a federal statute . . . is the congressional intent behind the
+particular provision at issue.” 457 U. S., at 22.
+
+  “In some ways,” the \\Jackson Transit\\ Court said, the UMTA
+“seem[ed] to make § 13(c) agreements and collective­ bargaining
+contracts creatures of federal law.” \\Id.,\\ at 23. In this regard,
+the Court noted, § 13(c)
+
+    “demand[ed] ‘fair and equitable arrangements’ as pre­
+    requisites for federal aid; it require[d] the approval of the
+    Secretary of Labor for those arrangements; it speci­ fie[d] five
+    different varieties of protective provisions that must be included
+    among the § 13(c) arrangements; and it expressly incorporate[d]
+    the protective arrange­ ments into the grant contract between the
+    recipient and the Federal Government.” \\Ibid.\\ (quoting 49
+    U. S. C. § 1609(c) (1976 ed.)).
+
+  But there were countervailing considerations. The Court observed that
+“labor relations between local governments and their employees are
+the subject of a longstanding statutory exemption from the National
+Labor Relations Act.” 457 U. S., at 23. “Section 13(c),” the
+Court continued, “evince[d] no congressional intent to upset the
+decision in the [NLRA] to permit state law to govern the relationships
+between local governmental entities and the unions representing
+their employees.” \\Id.,\\ at 23–24. Legislative history was
+corroborative. “A consistent theme,” the Court found, “[ran]
+throughout the consideration of § 13(c): Congress intended that
+labor relations between transit workers and local governments would be
+controlled by state law.” \\Id.,\\ at 24. We therefore held that the
+union had come to the wrong forum. Congress had indeed provided for
+§ 13(c) agreements and collective-bargaining contracts stemming from
+them, but in the Court’s judgment, the union’s proper recourse for
+enforcement of those contracts was a suit in state court. @@696@@
+
+  Measured against the Court’s discussion in \\Jackson Transit\\ about
+when a claim arises under federal law, Empire’s contract-derived claim
+for reimbursement is not a “creatur[e] of federal law.” \\Id.,\\
+at 23. True, distinctly federal interests are involved. Principally,
+reimbursements are credited to a federal fund, and the OPM–BCBSA
+master contract could be described as “federal in nature” because it
+is negotiated by a federal agency and concerns federal employees. See
+\\supra,\\ at 683–684. But, as in \\Jackson Transit,\\ countervailing
+considerations control. Among them, the reimbursement right in question,
+predicated on a FEHBA-authorized contract, is not a prescription
+of federal law. See \\supra,\\ at 684. And, of prime importance,
+“Congress considered jurisdictional issues in enacting FEHBA[,]
+. . . confer[ring] federal jurisdiction where it found it necessary to
+do so.” 396 F. 3d, at 145, n. 7.
+
+  FEHBA’s jurisdictional provision, 5 U. S. C. § 8912, opens
+the federal district-court door to civil actions “against the
+United States.” See \\supra,\\ at 686. OPM’s regulation, 5 CFR
+§ 890.107(c) (2005), instructs enrollees who seek to challenge benefit
+denials to proceed in court against OPM “and not against the carrier
+or carrier’s subcontractors.” See \\ibid.\\ Read together, these
+prescriptions “ensur[e] that suits brought by beneficiaries for denial
+of benefits will land in federal court.” 396 F. 3d, at 145, n. 7. Had
+Congress found it necessary or proper to extend federal jurisdiction
+further, in particular, to encompass contract-derived reimbursement
+claims between carriers and insured workers, it would have been easy
+enough for Congress to say so. Cf. 29 U. S. C. § 1132(a)(3)
+(authorizing suit in federal court “by a participant, beneficiary,
+or fiduciary” of a pension or health plan governed by ERISA to gain
+redress for violations of “this subchapter or the terms of the
+plan”). We have no warrant to expand Congress’ jurisdictional grant
+“by judicial decree.” See \\Kokkonen\\ v. \\Guardian Life Ins. Co.
+of America,\\ 511 U. S. 375, 377 (1994). @@697@@
+
+  \\Jackson Transit,\\ Empire points out, referred to decisions
+“demonstrat[ing] that . . . private parties in appropriate cases
+may sue in federal court to enforce contractual rights created by
+federal statutes.” 457 U. S., at 22. See Brief for Petitioner 15.
+This case, however, involves no right created by federal statute. As
+just reiterated, while the OPM–BCBSA master contract provides for
+reimbursement, FEHBA’s text itself contains no provision addressing
+the reimbursement or subrogation rights of carriers.
+
+  Nor do we read 5 U. S. C. § 8902(m)(1), FEHBA’s preemption
+prescription, see \\supra,\\ at 685–686, as a jurisdiction­
+conferring provision. That choice-of-law prescription is unusual in that
+it renders preemptive contract terms in health insurance plans, not
+provisions enacted by Congress. See 396 F. 3d, at 143–145; \\id.,\\
+at 151 (Sack, J., concurring). A prescription of that unusual order
+warrants cautious interpretation.
+
+  Section 8902(m)(1) is a puzzling measure, open to more than one
+construction, and no prior decision seems to us precisely on point.
+Reading the reimbursement clause in the master OPM–BCBSA contract
+as a condition or limitation on “benefits” received by a federal
+employee, the clause could be ranked among “[contract] terms . . .
+relat[ing] to . . . coverage or benefits” and “payments with
+respect to benefits,” thus falling within § 8902(m)(1)’s compass.
+See Brief for United States as \\Amicus Curiae\\ 20; Reply Brief 8–9.
+On the other hand, a claim for reimbursement ordinarily arises long
+after “coverage” and “benefits” questions have been resolved,
+and corresponding “payments with respect to benefits” have been
+made to care providers or the insured. With that consideration in view,
+§ 8902(m)(1)’s words may be read to refer to contract terms relating
+to the \\beneficiary’s\\ entitlement (or lack thereof) to Plan payment
+for certain health­ care services he or she has received, and not to
+terms relating to the carrier’s postpayments right to reimbursement.
+See Brief for Julia Cruz as \\Amicus Curiae\\ 10, 11. @@698@@
+
+  To decide this case, we need not choose between those plausible
+constructions. If contract-based reimbursement claims are not covered
+by FEHBA’s preemption provision, then federal jurisdiction clearly
+does not exist. But even if FEHBA’s preemption provision reaches
+contract-based reimbursement claims, that provision is not sufficiently
+broad to confer federal jurisdiction. If Congress intends a preemption
+instruction completely to displace ordinarily applicable state law,
+and to confer federal jurisdiction thereby, it may be expected to
+make that atypical intention clear. Cf. \\Columbus\\ v. \\Ours Garage
+& Wrecker Service, Inc.,\\ 536 U. S. 424, 432–433 (2002) (citing
+\\Wisconsin Public Intervenor\\ v. \\Mortier,\\ 501 U. S. 597, 605
+(1991)). Congress has not done so here.
+
+  Section 8902(m)(1)’s text does not purport to render inoperative
+\\any and all\\ state laws that in some way bear on federal
+employee-benefit plans. Cf. 29 U. S. C. § 1144(a) (portions of
+ERISA “supersede any and all State laws insofar as they may now
+or hereafter relate to any employee benefit plan”). And, as just
+observed, see \\supra,\\ at 697, given that § 8902(m)(1) declares no
+federal law preemptive, but instead, terms of an OPM–BCBSA negotiated
+contract, a modest reading of the provision is in order. Furthermore,
+a reimbursement right of the kind Empire here asserts stems from a
+personal-injury recovery, and the claim underlying that recovery is
+plainly governed by state law. We are not prepared to say, based on
+the presentations made in this case, that under § 8902(m)(1), an
+OPM–BCBSA contract term would displace every condition state law
+places on that recovery.
+
+  As earlier observed, the BCBSA Plan’s statement of benefits links
+together the carrier’s right to reimbursement from the insured and
+its right to subrogation. See \\supra,\\ at 684– 685. Empire’s
+subrogation right allows the carrier, once it has paid an insured’s
+medical expenses, to recover directly from a third party responsible for
+the insured’s injury or @@699@@ illness. See 16 G. Couch, Cyclopedia
+of Insurance Law § 61:1 (2d ed. 1982). Had Empire taken that course,
+no access to a federal forum could have been predicated on the OPM–
+BCBSA contract right. The tortfeasors’ liability, whether to the
+insured or the insurer, would be governed not by an agreement to which
+the tortfeasors are strangers, but by state law, and § 8902(m)(1)
+would have no sway.
+
+  In sum, the presentations before us fail to establish that
+§ 8902(m)(1) leaves no room for any state law potentially bearing on
+federal employee-benefit plans in general, or carrier-reimbursement
+claims in particular. Accordingly, we extract from § 8902(m)(1) no
+prescription for federal­ court jurisdiction.
+
+## C
+
+  We turn finally to the argument that Empire’s reimbursement claim,
+even if it does not qualify as a “cause of action created by federal
+law,” nevertheless arises under federal law for § 1331 purposes,
+because federal law is “a necessary element of the [carrier’s] claim
+for relief.” Brief for United States as \\Amicus Curiae\\ 25–26
+(quoting \\Grable,\\ 545 U. S., at 312, and \\Jones\\ v. \\R. R.
+Donnelley & Sons Co.,\\ 541 U. S. 369, 376 (2004)). This case, we are
+satisfied, does not fit within the special and small category in which
+the United States would place it. We first describe \\Grable,\\ a recent
+decision that the United States identifies as exemplary,[[5]] and then
+explain why this case does not resemble that one.
+
+  \\Grable\\ involved real property belonging to Grable & Sons Metal
+Products, Inc. (Grable), which the Internal Revenue Service (IRS) seized
+to satisfy a federal tax deficiency. 545 U. S., at 310. Grable received
+notice of the seizure by certified mail before the IRS sold the property
+to Darue Engineering & Manufacturing (Darue). \\Ibid.\\ Five years
+later, @@700@@ Grable sued Darue in state court to quiet title. Grable
+asserted that Darue’s record title was invalid because the IRS had
+conveyed the seizure notice improperly. \\Id.,\\ at 311. The governing
+statute, 26 U. S. C. § 6335(a), provides that “notice in writing
+shall be given . . . to the owner of the property . . . or shall
+be left at his usual place of abode or business . . . .” Grable
+maintained that § 6335(a) required personal service, not service by
+certified mail. 545 U. S., at 311.
+
+^5 As the Court in \\Grable\\ observed, 545 U. S., at 312, the classic
+example of federal-question jurisdiction predicated on the centrality of
+a federal issue is \\Smith\\ v. \\Kansas City Title & Trust Co.,\\ 255
+U. S. 180 (1921).
+
+  Darue removed the case to federal court. Alleging that Grable’s
+claim of title depended on the interpretation of a federal statutory
+provision, \\i. e.,\\ § 6335(a) of the Internal Revenue Code, Darue
+invoked federal-question jurisdiction under 28 U. S. C. § 1331. We
+affirmed lower court determinations that the removal was proper. “The
+meaning of the federal tax provision,” we said, “is an important
+issue of federal law that sensibly belongs in a federal court.”
+545 U. S., at 315. Whether Grable received notice adequate under
+§ 6335(a), we observed, was “an essential element of [Gra­ ble’s]
+quiet title claim”; indeed, “it appear[ed] to be the only . . .
+issue contested in the case.” \\Ibid.\\
+
+  This case is poles apart from \\Grable.\\ Cf. Brief for United States
+as \\Amicus Curiae\\ 27. The dispute there centered on the action of
+a federal agency (IRS) and its compatibility with a federal statute,
+the question qualified as “substantial,” and its resolution was
+both dispositive of the case and would be controlling in numerous
+other cases. See 545 U. S., at 313. Here, the reimbursement claim was
+triggered, not by the action of any federal department, agency, or
+service, but by the settlement of a personal-injury action launched in
+state court, see \\supra,\\ at 687–688, and the bottom-line practical
+issue is the share of that settlement properly payable to Empire.
+
+  \\Grable\\ presented a nearly “pure issue of law,” one “that
+could be settled once and for all and thereafter would govern numerous
+tax sale cases.” Hart and Wechsler 65 (2005 Supp.). In contrast,
+Empire’s reimbursement claim, Mc@@701@@Veigh’s counsel represented
+without contradiction, is fact­ bound and situation-specific. McVeigh
+contends that there were overcharges or duplicative charges by care
+providers, and seeks to determine whether particular services were
+properly attributed to the injuries caused by the 1997 accident and not
+rendered for a reason unrelated to the accident. See Tr. of Oral Arg.
+44, 53.
+
+  The United States observes that a claim for reimbursement may also
+involve as an issue “[the] extent, if any, to which the reimbursement
+should take account of attorney’s fees expended . . . to obtainthe
+tort recovery.” Brief as \\Amicus Curiae\\ 29. Indeed it may. But
+it is hardly apparent why a proper “federal-state balance,” see
+\\id.,\\ at 28, would place such a nonstatutory issue under the complete
+governance of federal law, to be declared in a federal forum. The state
+court in which the personal-injury suit was lodged is competent to
+apply federal law, to the extent it is relevant, and would seem best
+positioned to determine the lawyer’s part in obtaining, and his or her
+fair share in, the tort recovery.
+
+  The United States no doubt “has an overwhelming interest in
+attracting able workers to the federal workforce,” and “in the
+health and welfare of the federal workers upon whom it relies to carry
+out its functions.” \\Id.,\\ at 10. But those interests, we are
+persuaded, do not warrant turning into a discrete and costly “federal
+case” an insurer’s contract­ derived claim to be reimbursed
+from the proceeds of a federal worker’s state-court-initiated tort
+litigation.
+
+  In sum, \\Grable\\ emphasized that it takes more than a federal
+element “to open the ‘arising under’ door.” 545 U. S., at
+313. This case cannot be squeezed into the slim category \\Grable\\
+exemplifies.
+
+* * *
+
+  For the reasons stated, the judgment of the Court of Appeals for the
+Second Circuit is
+
+          \\Affirmed.\\ @@702@@
