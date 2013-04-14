@@ -13,4 +13,5 @@ reports:
   volume: 552
   page: 1
   position: 1
+  last: 2
 paginated: true
