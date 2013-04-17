@@ -1,0 +1,19 @@
+\documentclass[article,oneside,12pt,letterpaper]{memoir}
+
+\setlrmarginsandblock{2in}{*}{*}
+\setulmarginsandblock{2in}{*}{*}
+\checkandfixthelayout
+
+\usepackage{ellipsis}
+\usepackage{stmaryrd}
+\usepackage{bm}
+\usepackage{indentfirst}
+\usepackage{amssymb}
+\setsecnumdepth{none}
+\pagestyle{empty}
+
+\newcommand{\starpage}{%
+	\addtocounter{page}{1}%
+	% \quad\textbf{\arabic{page}}\quad}
+% \quad$[\arabic{page}]$\quad}
+$\llbracket\,\bm{\arabic{page}}\,\rrbracket$}

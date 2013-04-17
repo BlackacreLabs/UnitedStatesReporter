@@ -1,0 +1,820 @@
+---
+- abbreviated: Meegan v. Boyle
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 130
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 130
+    position: 1
+- abbreviated: Willot v. Sandford
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 79
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 79
+    position: 2
+- abbreviated: Dred Scott v. Sandford
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 393
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 393
+    position: 2
+- abbreviated: New York & Virginia S. S. Co. v. Calderwood
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 241
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 241
+    position: 1
+- abbreviated: United States v. City Bank of Columbus
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 385
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 385
+    position: 1
+- abbreviated: Ure v. Coffman
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 56
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 56
+    position: 1
+- abbreviated: Moore v. Greene
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 69
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 69
+    position: 1
+- abbreviated: Bryan v. Forsyth
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 334
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 334
+    position: 1
+- abbreviated: United States v. Stewart
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 79
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 79
+    position: 1
+- abbreviated: Rogers v. Steamer St. Charles
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 108
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 108
+    position: 1
+- abbreviated: Platt v. Jerome
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 384
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 384
+    position: 1
+- abbreviated: Babcock v. Wyman
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 289
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 289
+    position: 1
+- abbreviated: Wolfe v. Lewis
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 280
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 280
+    position: 1
+- abbreviated: Stevens v. Gladding & Proud
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 64
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 64
+    position: 1
+- abbreviated: Lathrop v. Judson
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 66
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 66
+    position: 1
+- abbreviated: Betts v. Lewis
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 72
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 72
+    position: 1
+- abbreviated: Burke v. Gaines
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 388
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 388
+    position: 1
+- abbreviated: Morgan v. Curtenius
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 8
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 8
+    position: 1
+- abbreviated: Field v. Seabury
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 333
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 333
+    position: 1
+- abbreviated: Ex parte Secombe
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 9
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 9
+    position: 1
+- abbreviated: Roberts v. Cooper
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 373
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 373
+    position: 1
+- abbreviated: Mordecai v. Lindsay
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 199
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 199
+    position: 1
+- abbreviated: McRea v. Branch of Bank of Ala. at Mobile
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 376
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 376
+    position: 1
+- abbreviated: Schuchardt v. Babbidge
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 239
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 239
+    position: 1
+- abbreviated: Richardson v. Boston
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 263
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 263
+    position: 1
+- abbreviated: Williams v. Hill, McLane, & Co.
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 246
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 246
+    position: 1
+- abbreviated: Bulkley v. Honold
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 390
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 390
+    position: 1
+- abbreviated: Walton v. Cotton
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 355
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 355
+    position: 1
+- abbreviated: Baker v. Nachtrieb
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 126
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 126
+    position: 1
+- abbreviated: Ballard v. Thomas
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 382
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 382
+    position: 1
+- abbreviated: Field v. Seabury
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 323
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 323
+    position: 1
+- abbreviated: Beebe v. Russell
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 283
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 283
+    position: 1
+- abbreviated: Bell v. Hearne
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 252
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 252
+    position: 1
+- abbreviated: Long v. O’Fallon
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 116
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 116
+    position: 1
+- abbreviated: Commercial Mut. Marine Ins. Co. v. Union Mut. Ins. Co. of N. Y.
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 318
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 318
+    position: 1
+- abbreviated: Seymour v. McCormick
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 96
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 96
+    position: 1
+- abbreviated: Prevost v. Greneaux
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 1
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 1
+    position: 1
+- abbreviated: Slater v. Emerson
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 224
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 224
+    position: 1
+- abbreviated: Post v. Jones
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 150
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 150
+    position: 1
+- abbreviated: McCullough v. Roots
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 349
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 349
+    position: 1
+- abbreviated: Coiron v. Millaudon
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 113
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 113
+    position: 1
+- abbreviated: Fellows v. Blacksmith
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 366
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 366
+    position: 1
+- abbreviated: United States v. Le Baron
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 73
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 73
+    position: 1
+- abbreviated: Garrison v. Memphis Ins. Co.
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 312
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 312
+    position: 1
+- abbreviated: Michigan Central R. Co. v. Michigan Southern R. Co.
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 378
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 378
+    position: 1
+- abbreviated: United States v. Sutherland
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 363
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 363
+    position: 1
+- abbreviated: Tod v. Pratt
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 362
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 362
+    position: 1
+- abbreviated: Farrelly v. Woodfolk
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 288
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 288
+    position: 1
+- abbreviated: Steamer Virginia v. West
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 182
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 182
+    position: 1
+- abbreviated: Hipp v. Babin
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 271
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 271
+    position: 1
+- abbreviated: Vandewater v. Mills
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 82
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 82
+    position: 1
+- abbreviated: Sturgis v. Honold
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 393
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 393
+    position: 1
+- abbreviated: Ballance v. Papin
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 342
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 342
+    position: 1
+- abbreviated: United States v. Peralta
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 343
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 343
+    position: 1
+- abbreviated: Hartshorn v. Day
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 211
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 211
+    position: 1
+- abbreviated: Pratt v. Reed
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 359
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 359
+    position: 1
+- abbreviated: United States v. Brig Neurea
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 92
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 92
+    position: 1
+- abbreviated: Shaffer v. Scudday
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 16
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 16
+    position: 1
+- abbreviated: Brown v. Duchesne
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 183
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 183
+    position: 1
+- abbreviated: E. J. DuPont de Nemours & Co. v. Vance
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 162
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 162
+    position: 1
+- abbreviated: Cousin v. Blanc’s Executor
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 202
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 202
+    position: 1
+- abbreviated: Byers v. Surget
+  year: 1857
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 303
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 303
+    position: 1
+- abbreviated: Thomas v. Osborn
+  year: 1856
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 19
+    page: 22
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 60
+    page: 22
+    position: 1

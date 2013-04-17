@@ -1,0 +1,456 @@
+---
+- abbreviated: Strout v. Foster
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 89
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 89
+    position: 1
+- abbreviated: United States v. Irving
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 250
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 250
+    position: 2
+- abbreviated: Collins v. Blyth
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 282
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 282
+    position: 1
+- abbreviated: Bank of United States v. Beverly
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 134
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 134
+    position: 1
+- abbreviated: McKenna v. Fisk
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 241
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 241
+    position: 1
+- abbreviated: Buchannon v. Upshaw
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 56
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 56
+    position: 1
+- abbreviated: Todd v. Daniell
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 289
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 289
+    position: 1
+- abbreviated: Peck v. Young
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 250
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 250
+    position: 1
+- abbreviated: Duncan v. Darst
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 301
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 301
+    position: 1
+- abbreviated: Lessee of Mercer v. Selden
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 37
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 37
+    position: 2
+- abbreviated: Minor v. Tillotson
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 287
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 287
+    position: 1
+- abbreviated: Hammond v. Lewis
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 14
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 14
+    position: 1
+- abbreviated: In re Castleman
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 281
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 281
+    position: 1
+- abbreviated: Cartwright v. Howe
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 188
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 188
+    position: 1
+- abbreviated: Lloyd v. Hough
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 153
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 153
+    position: 1
+- abbreviated: Alexander v. Graham
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 37
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 37
+    position: 1
+- abbreviated: Taylor v. Savage
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 282
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 282
+    position: 2
+- abbreviated: Williams v. United States
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 290
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 290
+    position: 1
+- abbreviated: Bell v. Bruen
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 169
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 169
+    position: 1
+- abbreviated: Morris v. Nixon
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 118
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 118
+    position: 1
+- abbreviated: Mayor and Aldermen of Mobile v. Emanuel
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 95
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 95
+    position: 1
+- abbreviated: Nelson v. Carland
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 265
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 265
+    position: 1
+- abbreviated: Williams v. Ash
+  year: 1842
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 1
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 1
+    position: 1
+- abbreviated: United States v. Acosta
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 24
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 24
+    position: 1
+- abbreviated: United States v. Linn
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 104
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 104
+    position: 1
+- abbreviated: Walsh v. United States
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 28
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 28
+    position: 1
+- abbreviated: Connor v. Bradley
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 211
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 211
+    position: 1
+- abbreviated: Ellis v. Jones
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 197
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 197
+    position: 1
+- abbreviated: Smith v. Condry
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 28
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 28
+    position: 2
+- abbreviated: Bank of Metropolis v. New England Bank
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 234
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 234
+    position: 1
+- abbreviated: Bronson v. Kinzie
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 311
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 311
+    position: 1
+- abbreviated: McClurg v. Kingsland
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 202
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 202
+    position: 1
+- abbreviated: McKnight v. Taylor
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 161
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 161
+    position: 1
+- abbreviated: Bowman v. Wathen
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 189
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 189
+    position: 1
+- abbreviated: Jewell v. Jewell
+  year: 1843
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 1
+    page: 219
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 42
+    page: 219
+    position: 1

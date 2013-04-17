@@ -1,0 +1,430 @@
+---
+- style: John R. Sand & Gravel Co. v. United States
+  abbreviated: John R. Sand & Gravel Co. v. United States
+  posture: Certiorari to the United States Court of Appeals for the Federal Circuit
+  argued: 2007-11-06
+  decided: 2008-01-08
+  number: 06-1164
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 130
+    position: 1
+    last: 147
+  paginated: true
+- style: Danforth v. Minnesota
+  abbreviated: Danforth v. Minnesota
+  posture: Certiorari to the Supreme Court of Minnesota
+  argued: 2007-10-31
+  decided: 2008-02-20
+  number: 06-8273
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 264
+    position: 1
+    last: 311
+  paginated: true
+- style: Preston v. Ferrer
+  abbreviated: Preston v. Ferrer
+  posture: Certiorari to the Court of Appeal of California, Second Appellate District
+  argued: 2008-01-14
+  decided: 2008-02-20
+  number: 06-1463
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 346
+    position: 1
+    last: 363
+  paginated: true
+- abbreviated: Hall Street Associates, L. L. C. v. Mattel, Inc.
+  style: Hall Street Associates, L. L. C. v. Mattel, Inc
+  posture: certiorari to the United States Court of Appeals for the Ninth Circuit
+  number: 06-989
+  argued: 2007-11-07
+  decided: 2008-03-25
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 576
+    position: 1
+    last: 596
+  paginated: true
+- style: Warner-Lambert Co., LLC, et al. v. Kent et al.
+  abbreviated: Warner-Lambert Co. v. Kent
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2008-02-25
+  decided: 2008-03-03
+  number: 06-1498
+  year: 2008
+  parenthetical: per curiam
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 440
+    position: 1
+    last: 441
+  paginated: true
+- style: Allen, Commissioner, Alabama Department of Corrections v. Siebert
+  abbreviated: Allen v. Siebert
+  posture: Certiorari to the United States Court of Appeals for the Eleventh Circuit
+  volume: 552
+  decided: 2007-11-05
+  year: 2007
+  parenthetical: per curiam
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 3
+    position: 1
+    last: 8
+  paginated: true
+- style: Medellín v. Texas
+  abbreviated: Medellín v. Texas
+  posture: Certiorari to the Court of Criminal Appeals of Texas
+  argued: 2007-10-10
+  decided: 2008-03-25
+  number: 06-984
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 491
+    position: 1
+    last: 575
+  paginated: true
+- style: Arave, Warden v. Hoffman
+  abbreviated: Arave v. Hoffman
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  decided: 2008-01-07
+  number: 07-110
+  year: 2008
+  parenthetical: per curiam
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 117
+    position: 1
+    last: 119
+  paginated: true
+- style: Wright, Sheriff, Shawano County, Wisconsin v. Van Patten
+  abbreviated: Wright v. Van Patten
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  decided: 2008-01-07
+  number: 07-212
+  year: 2008
+  parenthetical: per curiam
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 120
+    position: 1
+    last: 129
+  paginated: true
+- style: CSX Transportation, Inc. v. Georgia State Board of Equalization et al.
+  abbreviated: CSX Transp., Inc. v. Georgia State Bd. of Equalization
+  posture: Certiorari to the United States Court of Appeals for the Eleventh Circuit
+  argued: 2007-11-05
+  decided: 2007-12-04
+  number: 06-1287
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 9
+    position: 1
+    last: 22
+  paginated: true
+- style: New York State Board of Elections et al. v. Lopez Torres et al.
+  abbreviated: New York State Bd. of Elections v. Lopez Torres
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2007-10-03
+  decided: 2008-01-16
+  number: 06-766
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 196
+    position: 1
+    last: 213
+  paginated: true
+- abbreviated: Logan v. United States
+  style: Logan v. United States
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  argued: 2007-10-30
+  decided: 2007-12-04
+  number: 06-6911
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 23
+    position: 1
+    last: 37
+  paginated: true
+- style: Ali v. Federal Bureau of Prisons et al.
+  abbreviated: Ali v. Federal Bureau of Prisons
+  posture: Certiorari to the United States Court of Appeals for the Eleventh Circuit
+  argued: 2007-10-29
+  decided: 2008-01-22
+  number: 06-9130
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 214
+    position: 1
+    last: 247
+  paginated: true
+- style: Snyder v. Louisiana
+  abbreviated: Snyder v. Louisiana
+  posture: Certiorari to the Supreme Court of Louisiana
+  argued: 2007-12-04
+  decided: 2008-03-19
+  number: 06-10119
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 472
+    position: 1
+    last: 490
+  paginated: true
+- style: Washington State Grange v. Washington State Republican Party et al.
+  abbreviated: Washington State Grange v. Washington State Republican Party
+  with:
+  - number: No. 06–730
+    style: Washington et al. v. Washington State Republican Party et al.,
+    posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  argued: 2007-10-01
+  decided: 2008-03-18
+  number: 06-713
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 442
+    position: 1
+    last: 471
+  paginated: true
+- abbreviated: Kimbrough v. United States
+  posture: Certiorari to the United States Court of Appeals for the Fourth Circuit
+  style: Kimbrough v. United States
+  argued: 2007-10-02
+  decided: 2007-12-10
+  number: 06–6330
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 85
+    position: 1
+    last: 116
+  paginated: true
+- style: Federal Express Corp. v. Holowecki et al.
+  abbreviated: Federal Express Corp. v. Holowecki
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2007-11-06
+  decided: 2008-02-27
+  number: 06-1322
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 389
+    position: 1
+    last: 420
+  paginated: true
+- style: New Jersey v. Delaware
+  abbreviated: New Jersey v. Delaware
+  posture: on exceptions to report of special master
+  argued: 2007-11-27
+  decided: 2008-03-31
+  number: 134, Orig
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 597
+    position: 1
+    last: 646
+  paginated: true
+- style: Rowe, Attorney General of Maine v. New Hampshire Motor Transport Association
+    et al.
+  abbreviated: Rowe v. New Hampshire Motor Transp. Assn.
+  posture: Certiorari to the United States Court of Appeals for the First Circuit
+  argued: 2007-11-28
+  decided: 2008-02-20
+  number: 06–457
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 364
+    position: 1
+    last: 378
+  paginated: true
+- style: Sprint/United Management Co. v. Mendelsohn
+  abbreviated: Sprint/United Management Co. v. Mendelsohn
+  posture: Certiorari to the United States Court of Appeals for the Tenth Circuit
+  argued: 2007-12-03
+  decided: 2008-02-26
+  number: 06-1221
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 379
+    position: 1
+    last: 388
+  paginated: true
+- abbreviated: Board of Ed. of City School Dist. of New York v. Tom F.
+  style: Board of Education of City School District of City of New York v. Tom F.,
+    on behalf of Gilbert F., a minor child
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2007-10-01
+  decided: 2007-10-10
+  number: 06-637
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 1
+    position: 1
+    last: 2
+  paginated: true
+- abbreviated: Gall v. United States
+  style: Gall v. United States
+  posture: Certiorari to the United States Court of Appeals for the Eighth Circuit
+  year: 2007
+  argued: 2007-10-02
+  decided: 2007-12-10
+  number: 06-7949
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 38
+    position: 1
+    last: 73
+  paginated: true
+- style: Riegel, individually and as administrator of Estate of Riegel v. Medtronic,
+    Inc.
+  abbreviated: Riegel v. Medtronic, Inc.
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2007-12-04
+  decided: 2008-02-20
+  number: 06-179
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 312
+    position: 1
+    last: 345
+  paginated: true
+- style: Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc., et al.
+  abbreviated: Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.
+  posture: Certiorari to the United States Court of Appeals for the Eighth Circuit
+  argued: 2007-10-09
+  decided: 2008-01-15
+  number: 06-43
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 148
+    position: 1
+    last: 180
+  paginated: true
+- style: LaRue v. DeWolff, Boberg & Associates, Inc., et al.
+  abbreviated: LaRue v. DeWolff, Boberg & Associates, Inc.
+  posture: Certiorari to the United States Court of Appeals for the Fourth Circuit
+  argued: 2007-11-26
+  decided: 2008-02-20
+  number: 06-856
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 248
+    position: 1
+    last: 263
+  paginated: true
+- style: Boulware v. United States
+  abbreviated: Boulware v. United States
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  argued: 2008-01-08
+  decided: 2008-03-03
+  number: 06-1509
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 421
+    position: 1
+    last: 439
+  paginated: true
+- style: Watson v. United States
+  abbreviated: Watson v. United States
+  posture: Certiorari to the United States Court of Appeals for the Fifth Circuit
+  argued: 2007-10-09
+  decided: 2007-12-10
+  number: 06-571
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 74
+    position: 1
+    last: 84
+  paginated: true
+- style: Knight, trustee of William L. Rudkin Testamentary Trust v. Commissioner of
+    Internal Revenue
+  abbreviated: Knight v. Commissioner
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2007-11-27
+  decided: 2008-01-16
+  number: 06-1286
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 552
+    page: 181
+    position: 1
+    last: 195
+  paginated: true

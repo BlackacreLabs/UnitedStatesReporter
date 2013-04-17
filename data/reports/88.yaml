@@ -1,0 +1,898 @@
+---
+- abbreviated: Railroad Co. v. Smith
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 255
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 255
+    position: 1
+- abbreviated: Erie R. Co. v. Pennsylvania
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 492
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 492
+    position: 1
+- abbreviated: Dupasseur v. Rochereau
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 130
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 130
+    position: 1
+- abbreviated: Yonley v. Lavender
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 276
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 276
+    position: 1
+- abbreviated: Express Co. v. Caldwell
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 264
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 264
+    position: 1
+- abbreviated: The Mohler
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 230
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 230
+    position: 1
+- abbreviated: Langdeau v. Hanes
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 521
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 521
+    position: 1
+- abbreviated: Tilden v. Blair
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 241
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 241
+    position: 1
+- abbreviated: Sacramento v. Fowle
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 119
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 119
+    position: 1
+- abbreviated: Adams v. Adams
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 185
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 185
+    position: 1
+- abbreviated: Texas v. Chiles
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 488
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 488
+    position: 1
+- abbreviated: Hill v. Mendenhall
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 453
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 453
+    position: 1
+- abbreviated: Edwards v. Elliott
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 532
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 532
+    position: 1
+- abbreviated: Grosholz v. Newman
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 481
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 481
+    position: 1
+- abbreviated: Morton v. Nebraska
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 660
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 660
+    position: 1
+- abbreviated: Littlefield v. Perry
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 205
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 205
+    position: 1
+- abbreviated: Chambers County v. Clews
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 317
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 317
+    position: 1
+- abbreviated: Terrell v. Allison
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 289
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 289
+    position: 1
+- abbreviated: Railroad Co. v. Maryland
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 456
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 456
+    position: 1
+- abbreviated: Clarion Bank v. Jones
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 325
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 325
+    position: 1
+- abbreviated: Wood v. Bailey
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 640
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 640
+    position: 1
+- abbreviated: Vannevar v. Bryant
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 41
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 41
+    position: 1
+- abbreviated: National Bank v. Colby
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 609
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 609
+    position: 1
+- abbreviated: Clinkenbeard v. United States
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 65
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 65
+    position: 1
+- abbreviated: Ochiltree v. Railroad Co.
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 249
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 249
+    position: 1
+- abbreviated: Jackson v. Ludeling
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 616
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 616
+    position: 1
+- abbreviated: Vigo’s Case
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 648
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 648
+    position: 1
+- abbreviated: Ex parte Sawyer
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 235
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 235
+    position: 1
+- abbreviated: Dillon v. Barnard
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 430
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 430
+    position: 1
+- abbreviated: Trist v. Child
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 441
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 441
+    position: 1
+- abbreviated: Garrison v. City of New York
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 196
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 196
+    position: 1
+- abbreviated: Maxwell v. Stewart
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 71
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 71
+    position: 1
+- abbreviated: Cooper & Co. v. Coates & Co.
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 105
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 105
+    position: 1
+- abbreviated: Moore v. Mississippi
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 636
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 636
+    position: 1
+- abbreviated: Atlee v. Packet Co.
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 389
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 389
+    position: 1
+- abbreviated: Douglass v. Douglass
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 98
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 98
+    position: 2
+- abbreviated: Decatur Bank v. St. Louis Bank
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 294
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 294
+    position: 1
+- abbreviated: Doane v. Glenn
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 33
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 33
+    position: 1
+- abbreviated: Vermilye & Co. v. Adams Express Co.
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 138
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 138
+    position: 1
+- abbreviated: Brown v. Brackett
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 387
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 387
+    position: 1
+- abbreviated: Clark v. Iselin
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 360
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 360
+    position: 1
+- abbreviated: Smith v. Nichols
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 112
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 112
+    position: 1
+- abbreviated: Little v. Alexander
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 500
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 500
+    position: 1
+- abbreviated: McClelland v. United States
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 98
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 98
+    position: 1
+- abbreviated: The Lady Pike
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 1
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 1
+    position: 1
+- abbreviated: Watson v. Bondurant
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 123
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 123
+    position: 1
+- abbreviated: Hotchkiss v. National Banks
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 354
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 354
+    position: 1
+- abbreviated: Butler v. United States
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 272
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 272
+    position: 1
+- abbreviated: Bailey v. Clark
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 284
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 284
+    position: 1
+- abbreviated: Hamilton v. Dillin
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 73
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 73
+    position: 1
+- abbreviated: Fox v. Gardner
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 475
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 475
+    position: 1
+- abbreviated: Jennisons v. Leonard
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 302
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 302
+    position: 1
+- abbreviated: Watson v. Taylor
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 378
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 378
+    position: 1
+- abbreviated: The Lottawanna
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 558
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 558
+    position: 1
+- abbreviated: Bailey v. Glover
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 342
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 342
+    position: 1
+- abbreviated: French v. Edwards
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 147
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 147
+    position: 1
+- abbreviated: Case of Broderick’s Will
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 503
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 503
+    position: 1
+- abbreviated: Railroad Land Co. v. Courtright
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 310
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 310
+    position: 1
+- abbreviated: Jerome v. McCarter
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 17
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 17
+    position: 1
+- abbreviated: Marsh v. Whitmore
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 178
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 178
+    position: 1
+- abbreviated: Schulenberg v. Harriman
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 44
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 44
+    position: 1
+- abbreviated: Michaels v. Post
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 398
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 398
+    position: 1
+- abbreviated: Gardner v. Brown
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 36
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 36
+    position: 1
+- abbreviated: Mitchell v. United States
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 350
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 350
+    position: 1
+- abbreviated: Minor v. Happersett
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 162
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 162
+    position: 1
+- abbreviated: Insurance Co. v. Sea
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 158
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 158
+    position: 1
+- abbreviated: Insurance Co. v. Mahone
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 152
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 152
+    position: 1
+- abbreviated: Doe v. Childress
+  year: 1875
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 642
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 642
+    position: 1
+- abbreviated: United States v. Boecker
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 21
+    page: 652
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 88
+    page: 652
+    position: 1

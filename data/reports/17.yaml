@@ -1,0 +1,430 @@
+---
+- abbreviated: Sturges v. Crowninshield
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 122
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 122
+    position: 1
+- abbreviated: Brown v. Gilman
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 255
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 255
+    position: 1
+- abbreviated: Sergeant’s Lessee v. Biddle
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 508
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 508
+    position: 1
+- abbreviated: Somerville’s Executors v. Hamilton
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 230
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 230
+    position: 1
+- abbreviated: The Caledonian
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 100
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 100
+    position: 1
+- abbreviated: McArthur v. Browder
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 488
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 488
+    position: 1
+- abbreviated: McCulloch v. Maryland
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 316
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 316
+    position: 1
+- abbreviated: United States v. Howland
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 108
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 108
+    position: 1
+- abbreviated: Orr v. Hodgson
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 453
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 453
+    position: 1
+- abbreviated: Astor v. Wells
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 466
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 466
+    position: 1
+- abbreviated: Bank of Columbia v. Okely
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 235
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 235
+    position: 1
+- abbreviated: McMillan v. McNeill
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 209
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 209
+    position: 1
+- abbreviated: The Estrella
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 298
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 298
+    position: 1
+- abbreviated: The Friendschaft
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 105
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 105
+    position: 1
+- abbreviated: Boyd’s Lessee v. Graves
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 513
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 513
+    position: 1
+- abbreviated: Weightman v. Caldwell
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 85
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 85
+    position: 1
+- abbreviated: United States v. Rice
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 246
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 246
+    position: 1
+- abbreviated: The General Smith
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 438
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 438
+    position: 1
+- abbreviated: The Sybil
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 98
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 98
+    position: 1
+- abbreviated: Trustees of Philadelphia Baptist Assn. v. Hart’s Executors
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 1
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 1
+    position: 1
+- abbreviated: The Langdon Cheves
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 103
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 103
+    position: 1
+- abbreviated: Trustees of Dartmouth College v. Woodward
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 518
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 518
+    position: 1
+- abbreviated: Evans v. Phillips
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 73
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 73
+    position: 1
+- abbreviated: McIver’s Lessee v. Walker
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 444
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 444
+    position: 1
+- abbreviated: Wheaton v. Sexton’s Lessee
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 503
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 503
+    position: 1
+- abbreviated: Barr v. Gratz’s Heirs
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 213
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 213
+    position: 1
+- abbreviated: The Experiment
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 84
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 84
+    position: 1
+- abbreviated: Van Ness v. Buel
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 74
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 74
+    position: 1
+- abbreviated: The Divina Pastora
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 52
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 52
+    position: 1
+- abbreviated: Eliason v. Henshaw
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 225
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 225
+    position: 1
+- abbreviated: Miller v. Nicholls
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 311
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 311
+    position: 1
+- abbreviated: The Neustra Senora de la Caridad
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 497
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 497
+    position: 1
+- abbreviated: Williams v. Peyton’s Lessee
+  year: 1819
+  reports:
+  - reporter: Wheaton
+    abbreviation: Wheat.
+    volume: 4
+    page: 77
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 17
+    page: 77
+    position: 1

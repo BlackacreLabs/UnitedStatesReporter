@@ -1,0 +1,950 @@
+---
+- abbreviated: The Nuestra Señora de Regla
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 29
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 29
+    position: 1
+- abbreviated: Daniel v. Whartenby
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 639
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 639
+    position: 1
+- abbreviated: Packet Co. v. McCue
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 508
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 508
+    position: 1
+- abbreviated: Railroad Co. v. Brown
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 445
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 445
+    position: 1
+- abbreviated: Board of Public Works v. Columbia College
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 521
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 521
+    position: 1
+- abbreviated: Cutner v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 517
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 517
+    position: 1
+- abbreviated: Adams v. Burke
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 453
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 453
+    position: 1
+- abbreviated: Williams v. Baker
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 144
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 144
+    position: 1
+- abbreviated: Railroad Co. v. Stout
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 657
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 657
+    position: 1
+- abbreviated: Stitt v. Huidekopers
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 384
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 384
+    position: 1
+- abbreviated: United States v. Isham
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 496
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 496
+    position: 1
+- abbreviated: Rea v. Missouri
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 532
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 532
+    position: 1
+- abbreviated: Lasere v. Rochereau
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 437
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 437
+    position: 1
+- abbreviated: Carlton v. Bokee
+  year: 1872
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 463
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 463
+    position: 1
+- abbreviated: Ray v. Smith
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 411
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 411
+    position: 1
+- abbreviated: Railroad Co. v. Lockwood
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 357
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 357
+    position: 1
+- abbreviated: Allen v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 207
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 207
+    position: 1
+- abbreviated: United States v. Cook
+  year: 1872
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 168
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 168
+    position: 1
+- abbreviated: Mason v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 67
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 67
+    position: 1
+- abbreviated: Goodwin v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 515
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 515
+    position: 1
+- abbreviated: Sohn v. Waterson
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 596
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 596
+    position: 1
+- abbreviated: Ryan v. Koch
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 19
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 19
+    position: 1
+- abbreviated: Ex parte Warmouth
+  year: 1872
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 64
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 64
+    position: 1
+- abbreviated: Knode v. Williamson
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 586
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 586
+    position: 1
+- abbreviated: Oulton v. Savings Institution
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 109
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 109
+    position: 1
+- abbreviated: Sweeny v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 75
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 75
+    position: 1
+- abbreviated: Marin v. Lalley
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 14
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 14
+    position: 1
+- abbreviated: Walker v. State Harbor Comm’rs
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 648
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 648
+    position: 1
+- abbreviated: Lapeyre v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 191
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 191
+    position: 1
+- abbreviated: Allen v. Massey
+  year: 1872
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 351
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 351
+    position: 1
+- abbreviated: Life Ins. Co. v. Francisco
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 672
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 672
+    position: 1
+- abbreviated: Harrell v. Beall
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 590
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 590
+    position: 1
+- abbreviated: United States v. Hickey
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 9
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 9
+    position: 1
+- abbreviated: Homestead Co. v. Valley R. Co.
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 153
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 153
+    position: 1
+- abbreviated: United States v. Boutwell
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 604
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 604
+    position: 1
+- abbreviated: Branson v. Wirth
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 32
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 32
+    position: 1
+- abbreviated: State v. Stoll
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 425
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 425
+    position: 1
+- abbreviated: Barnes v. Railroads
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 294
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 294
+    position: 1
+- abbreviated: The Merritt
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 582
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 582
+    position: 1
+- abbreviated: Wilson v. City Bank
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 473
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 473
+    position: 1
+- abbreviated: Warner v. Joy
+  year: 1872
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 253
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 253
+    position: 1
+- abbreviated: Railroad Co. v. Fuller
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 560
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 560
+    position: 1
+- abbreviated: Philp v. Nock
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 460
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 460
+    position: 1
+- abbreviated: Eldred v. Bank
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 545
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 545
+    position: 1
+- abbreviated: Carpenter v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 489
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 489
+    position: 1
+- abbreviated: Reed v. Gardner
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 409
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 409
+    position: 1
+- abbreviated: Moore v. Huntington
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 417
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 417
+    position: 1
+- abbreviated: Bailey v. Railroad Co.
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 96
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 96
+    position: 1
+- abbreviated: Cordova v. Hood
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 1
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 1
+    position: 1
+- abbreviated: Goddard v. Foster
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 123
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 123
+    position: 1
+- abbreviated: Rodd v. Heartt
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 354
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 354
+    position: 1
+- abbreviated: Sawyer v. Hoag
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 610
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 610
+    position: 1
+- abbreviated: Miller v. Joseph
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 655
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 655
+    position: 1
+- abbreviated: Hume v. Beale’s Executrix
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 336
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 336
+    position: 1
+- abbreviated: Manufacturing Co. v. United States
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 592
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 592
+    position: 1
+- abbreviated: Tyler v. Magwire
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 253
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 253
+    position: 2
+- abbreviated: Collector v. Beggs
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 182
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 182
+    position: 1
+- abbreviated: The Star of Hope
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 651
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 651
+    position: 1
+- abbreviated: Bank v. Kennedy
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 19
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 19
+    position: 2
+- abbreviated: Averill v. Smith
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 82
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 82
+    position: 1
+- abbreviated: United States v. Railroad Co.
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 322
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 322
+    position: 1
+- abbreviated: Harwood v. Railroad Co.
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 78
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 78
+    position: 1
+- abbreviated: United States v. Henry
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 405
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 405
+    position: 1
+- abbreviated: Railroad Co. v. Fort
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 553
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 553
+    position: 1
+- abbreviated: The Emily Souder
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 666
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 666
+    position: 1
+- abbreviated: Holden v. Joy
+  year: 1872
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 211
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 211
+    position: 1
+- abbreviated: Smiths v. Shoemaker
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 630
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 630
+    position: 1
+- abbreviated: Kibbe v. Benson
+  year: 1874
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 624
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 624
+    position: 1
+- abbreviated: Olcott v. Bynum
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 44
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 44
+    position: 1
+- abbreviated: Conway v. Stannard
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 398
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 398
+    position: 1
+- abbreviated: Ex parte Atocha
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 439
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 439
+    position: 1
+- abbreviated: United States v. Lapène
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 601
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 601
+    position: 1
+- abbreviated: Horn v. Lockhart
+  year: 1873
+  reports:
+  - reporter: Wallace
+    abbreviation: Wall.
+    volume: 17
+    page: 570
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 84
+    page: 570
+    position: 1

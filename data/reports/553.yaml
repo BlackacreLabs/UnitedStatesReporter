@@ -1,0 +1,368 @@
+---
+- abbreviated: Republic of Philippines v. Pimentel
+  style: Republic of Philippines et al. v. Pimentel, Temporary Administrator of Estate
+    of Pimentel, Deceased, et al.
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  argued: 2008-03-17
+  decided: 2008-06-12
+  number: 06-1204
+  year: 2008
+  with: 
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 851
+    position: 1
+- abbreviated: Boumediene v. Bush
+  style: Boumediene et al. v. Bush, President of the United States, et al.
+  posture: Certiorari to the United States Court of Appeals for the District of Columbia
+    Circuit
+  argued: 2007-12-05
+  decided: 2008-06-12
+  number: 06-1195
+  year: 2008
+  with:
+  - style: Al Odah, Next Friend of Al Odah, et al. v. United State et al.
+    posture: Certiorari to the United States Court of Appeals for the District of
+      Columbia Circuit
+    number: 06-1196
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 723
+    position: 1
+- abbreviated: Allison Engine Co. v. United States
+  style: Allison Engine Co., Inc., et al. v. United States ex rel. Sanders et al.
+  posture: Certiorari to the United States Court of Appeals for the Sixth Circuit
+  argued: 2008-02-26
+  decided: 2008-06-09
+  number: 07-214
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 662
+    position: 1
+- abbreviated: United States v. Santos
+  style: United States v. Santos et al.
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  argued: 2008-10-03
+  decided: 2008-06-02
+  number: 06-1005
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 507
+    position: 1
+- abbreviated: Munaf v. Geren
+  style: Munaf et al. v. Geren, Secretary of the Army, et al.
+  posture: Certiorari to the United States Court of Appeals for the District of Columbia
+    Circuit
+  argued: 2008-03-25
+  decided: 2008-06-12
+  number: 06-1666
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 674
+    position: 1
+- abbreviated: Gomez-Perez v. Potter
+  style: Gomez-Perez v. Potter, Postmaster General
+  posture: Certiorari to the United States Court of Appeals for the First Circuit
+  argued: 2008-02-19
+  decided: 2008-05-27
+  number: 06-1321
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 474
+    position: 1
+- abbreviated: Riley v. Kennedy
+  style: Riley, Governor of Alabama v. Kennedy et al.
+  posture: Certiorari to the United States District Court for the Middle District
+    of Alabama
+  argued: 2008-03-24
+  decided: 2008-05-27
+  number: 07-77
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 406
+    position: 1
+- abbreviated: Virginia v. Moore
+  style: Virginia v. Moore
+  posture: Certiorari to the Supreme Court of Virginia
+  argued: 2008-01-14
+  decided: 2008-04-23
+  number: 06-1082
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 164
+    position: 1
+- abbreviated: United States v. Ressam
+  style: United States v. Ressam
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  argued: 2008-03-25
+  decided: 2008-05-19
+  number: 07-455
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 272
+    position: 1
+- abbreviated: Taylor v. Sturgell
+  style: Taylor v. Sturgell, Acting Administrator, Federal Aviation Administration,
+    et al.
+  posture: Certiorari to the United States Court of Appeals for the District of Columbia
+    Circuit
+  argued: 2008-04-16
+  decided: 2008-06-12
+  number: 07-371
+  year: 2008
+  with: 
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 880
+    position: 1
+    last: 907
+- abbreviated: Regalado Cuellar v. United States
+  style: Regalado Cuellar v. United States
+  posture: Certiorari to the United States Court of Appeals for the Fifth Circuit
+  argued: 2008-02-25
+  decided: 2008-06-02
+  number: 06-1456
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 550
+    position: 1
+- abbreviated: CBOCS West, Inc. v. Humphries
+  style: CBOCS West, Inc. v. Humphries
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  argued: 2008-02-20
+  decided: 2008-05-27
+  number: 06-1431
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 442
+    position: 1
+- abbreviated: United States v. Rodriguez
+  style: United States v. Rodriguez
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  argued: 2008-01-15
+  decided: 2008-05-19
+  number: 06-1646
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 377
+    position: 1
+- abbreviated: United States v. Clintwood Elkhorn Mining Co.
+  style: United States v. Clintwood Elkhorn Mining Co. et al.
+  posture: Certiorari to the United States Court of Appeals for the Federal Circuit
+  argued: 2008-03-24
+  decided: 2008-04-15
+  number: 07-308
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 1
+    position: 1
+- abbreviated: MeadWestVaco Corp. v. Ill. Dept. Revenue
+  style: MeadWestVaco Corp., Successor in Interest to Mead Corp. v. Illinois Department
+    of Revenue et al.
+  posture: Certiorari to the Appellate Court of Illinois, First District
+  argued: 2008-01-16
+  decided: 2008-04-15
+  number: 06-1413
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 16
+    position: 1
+- abbreviated: Engquist v. Or. Dep’t of Agric.
+  style: Engquist v. Oregon Department of Agriculture et al.
+  posture: Certiorari to the United States Court of Appeals for the Federal Circuit
+  argued: 2008-04-21
+  decided: 2008-06-09
+  number: 07-474
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 591
+    position: 1
+- abbreviated: Irizarry v. United States
+  style: Irizarry v. United States
+  posture: Certiorari to the United States Court of Appeals for the Eleventh Circuit
+  argued: 2008-04-15
+  decided: 2008-06-12
+  number: 06-7517
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 708
+    position: 1
+- abbreviated: United States v. Williams
+  style: United States v. Williams
+  posture: Certiorari to the United States Court of Appeals for the Eleventh Circuit
+  argued: 2008-10-30
+  decided: 2008-05-19
+  number: 06-694
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 285
+    position: 1
+- abbreviated: Bridge v. Phoenix Bond & Indem. Co.
+  style: Bridge et al. v. Phoenix Bond & Indemnity Co. et al.
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  argued: 2008-04-14
+  decided: 2008-06-09
+  number: 07-210
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 639
+    position: 1
+- abbreviated: Gonzalez v. United States
+  style: Gonzalez v. United States
+  posture: Certiorari to the United States Court of Appeals for the Fifth Circuit
+  argued: 2008-01-08
+  decided: 2008-05-12
+  number: 06-11612
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 242
+    position: 1
+- abbreviated: Dep’t of Revenue of Ky. v. Davis
+  style: Department of Revenue of Kentucky et al. v. Davis et ux.
+  posture: Certiorari to the Court of Appeals of Kentucky
+  argued: 2008-11-05
+  decided: 2008-05-19
+  number: 06-666
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 328
+    position: 1
+- abbreviated: Quanta Computer, Inc. v. LG Electronics, Inc.
+  style: Quanta Computer, Inc., et al. v. LG Electronics, Inc.
+  posture: Certiorari to the United States Court of Appeals for the Federal Circuit
+  argued: 2008-01-16
+  decided: 2008-06-09
+  number: 06-937
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 617
+    position: 1
+- abbreviated: Burgess v. United States
+  style: Burgess v. United States
+  posture: Certiorari to the United States Court of Appeals for the Fourth Circuit
+  argued: 2008-03-24
+  decided: 2008-04-16
+  number: 06-11429
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 124
+    position: 1
+- abbreviated: Crawford v. Marion Cty. Election Bd.
+  style: Crawford et al. v. Marion County Election Board et al.
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  argued: 2008-01-09
+  decided: 2008-04-28
+  number: 07-21
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 181
+    position: 1
+- abbreviated: Begay v. United States
+  style: Begay v. United States
+  posture: Certiorari to the United States Court of Appeals for the Tenth Circuit
+  argued: 2008-01-14
+  decided: 2008-04-16
+  number: 06-11543
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 137
+    position: 1
+- abbreviated: Baze v. Rees
+  style: Baze et al. v. Rees, Commissioner, Kentucky Department of Corrections, et
+    al.
+  posture: Certiorari to the Supreme Court of Kentucky
+  argued: 2008-01-07
+  decided: 2008-04-16
+  number: 07-5439
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 35
+    position: 1
+- abbreviated: Richilin Sec. Serv. Co. v. Chertoff
+  style: Richilin Security Service Co. v. Chertoff, Secretary of Homeland Security
+  posture: Certiorari to the United States Court of Appeals for the Federal Circuit
+  argued: 2008-03-19
+  decided: 2008-06-02
+  number: 06-1717
+  year: 2008
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 553
+    page: 571
+    position: 1

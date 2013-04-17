@@ -1,0 +1,469 @@
+---
+- abbreviated: Truly v. Wanzer
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 141
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 141
+    position: 1
+- abbreviated: United States v. Boyd
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 29
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 29
+    position: 1
+- abbreviated: Rowan v. Runnels
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 134
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 134
+    position: 1
+- abbreviated: McAfee v. Doremus
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 53
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 53
+    position: 1
+- abbreviated: Hildeburn v. Turner
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 69
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 69
+    position: 1
+- abbreviated: Mayberry v. Thompson
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 121
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 121
+    position: 1
+- abbreviated: Cook v. Moffat
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 295
+    position: 2
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 295
+    position: 2
+- abbreviated: Bridges v. Armour
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 91
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 91
+    position: 1
+- abbreviated: Commercial Bank of Cincinnati v. Buckingham’s Executors
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 317
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 317
+    position: 1
+- abbreviated: Sewall v. Chamberlain
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 6
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 6
+    position: 1
+- abbreviated: Gear v. Parish
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 168
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 168
+    position: 1
+- abbreviated: Creath’s Administrator v. Sims
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 192
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 192
+    position: 1
+- abbreviated: Sheppard v. Wilson
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 210
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 210
+    position: 1
+- abbreviated: Walker v. Taylor
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 64
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 64
+    position: 1
+- abbreviated: Miller v. Herbert
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 72
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 72
+    position: 1
+- abbreviated: In re Metzger
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 176
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 176
+    position: 1
+- abbreviated: Waring v. Clarke
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 441
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 441
+    position: 1
+- abbreviated: United States v. Lawton
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 10
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 10
+    position: 1
+- abbreviated: Alexandria Canal Co. v. Swann
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 83
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 83
+    position: 1
+- abbreviated: License Cases
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 504
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 504
+    position: 1
+- abbreviated: Phillips v. Preston
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 278
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 278
+    position: 1
+- abbreviated: Innerarity v. Byrne
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 295
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 295
+    position: 1
+- abbreviated: United States v. Bank of United States
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 382
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 382
+    position: 1
+- abbreviated: Hall v. Smith
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 96
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 96
+    position: 1
+- abbreviated: Wood v. Underhill
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 1
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 1
+    position: 1
+- abbreviated: Barry v. Mercein
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 103
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 103
+    position: 1
+- abbreviated: Jones v. Van Zandt
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 215
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 215
+    position: 1
+- abbreviated: Ford v. Douglas
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 143
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 143
+    position: 1
+- abbreviated: N. & J. Dick & Co. v. Runnels
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 7
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 7
+    position: 1
+- abbreviated: Fox v. Ohio
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 410
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 410
+    position: 1
+- abbreviated: Taylor v. Benham
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 233
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 233
+    position: 1
+- abbreviated: Scott v. Jones
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 343
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 343
+    position: 1
+- abbreviated: Pepper v. Dunlap
+  year: 1846
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 51
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 51
+    position: 1
+- abbreviated: Miners’ Bank of Dubuque v. United States ex rel. Grant
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 213
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 213
+    position: 1
+- abbreviated: United States v. Briggs
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 208
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 208
+    position: 1
+- abbreviated: Nelson v. Hill
+  year: 1847
+  reports:
+  - reporter: Howard
+    abbreviation: How.
+    volume: 5
+    page: 127
+    position: 1
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 46
+    page: 127
+    position: 1

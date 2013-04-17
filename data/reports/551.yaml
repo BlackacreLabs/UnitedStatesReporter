@@ -1,0 +1,383 @@
+---
+- style: Erickson v. Pardus et al.
+  abbreviated: Erickson v. Pardus
+  year: 2007
+  parenthetical: per curiam
+  posture: On Petition for Writ of Certiorari to the United States Court of Appeals
+    for the Tenth Circuit
+  number: 06-7317
+  decided: 2007-06-04
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 89
+    position: 1
+- style: Parents Involved in Community Schools v. Seattle School Dist. No. 1 et al.
+  abbreviated: Parents Involved in Community Schools v. Seattle School Dist. No. 1
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  number: 05-908
+  argued: 2006-12-04
+  decided: 2007-06-28
+  with:
+  - number: 05-925
+    style: Meredith, Custodial Parent and Next Friend of McDonald v. Jefferson County
+      Board of Education et al.
+    posture: Certiorari to the United States Court of Appeals for the Sixth Circuit
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 701
+    position: 1
+- style: Panetti v. Quarterman, Director, Texas Department of Criminal Justice, Correctional
+    Institutions Division
+  abbreviated: Panetti v. Quarterman
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Fifth Circuit
+  number: 06-6407
+  argued: 2007-04-18
+  decided: 2007-06-28
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 930
+    position: 1
+- style: Credit Suisse Securities (USA) LLC, FKA Credit Suisse First Boston LLC, et
+    al. v. Billing et al.
+  abbreviated: Credit Suisse Securities (USA) LLC v. Billing
+  number: 05-1157
+  argued: 2007-03-27
+  decided: 2007-06-18
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 264
+    position: 1
+- style: Leegin Creative Leather Products, Inc. v. PSKS, Inc., DBA Kay’s Kloset . . .
+    Kay’s Shoes
+  abbreviated: Leegin Creative Leather Products, Inc. v. PSKS, Inc.
+  posture: Certiorari to the United States Court of Appeals for the Fifth Circuit
+  year: 2007
+  number: 06-480
+  argued: 2007-03-26
+  decided: 2007-06-28
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 877
+    position: 1
+- style: Watson et al. v. Philip Morris Cos., Inc., et al.
+  abbreviated: Watson v. Philip Morris Cos.
+  number: 05-1284
+  posture: Certiorari to the United States Court of Appeals for the Eighth Circuit
+  argued: 2007-04-25
+  decided: 2007-06-11
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 142
+    position: 1
+- style: Bowles v. Russell, Warden
+  abbreviated: Bowles v. Russell
+  year: 2007
+  number: 06-5306
+  argued: 2007-03-26
+  decided: 2007-06-14
+  posture: Certiorari to the United States Court of Appeals for the Sixth Circuit
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 205
+    position: 1
+- style: United States v. Atlantic Research Corp.
+  abbreviated: United States v. Atlantic Research Corp.
+  year: 2007
+  number: 06-562
+  argued: 2007-04-23
+  decided: 2007-16-11
+  posture: Certiorari to the United States Court of Appeals for the Eighth Circuit
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 128
+    position: 1
+- style: Safeco Insurance Company of America et al. v. Burr et al.
+  abbreviated: Safeco Ins. Co. of America v. Burr
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  number: 06-84
+  argued: 2007-01-16
+  decided: 2007-06-04
+  year: 2007
+  with:
+  - number: 06-100
+    style: GEICO General Insurance Co. et al. v. Edo
+    posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 47
+    position: 1
+- style: Wilkie et al. v. Robbins
+  abbreviated: Wilkie v. Robbins
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Tenth Circuit
+  number: 06-219
+  argued: 2007-03-19
+  decided: 2007-06-25
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 537
+    position: 1
+- style: Brendlin v. California
+  abbreviated: Brendlin v. California
+  year: 2007
+  number: 06-8120
+  argued: 2007-04-23
+  decided: 2007-06-18
+  posture: Certiorari to the Supreme Court of California
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 249
+    position: 1
+- style: Claiborne v. United States
+  abbreviated: Claiborne v. United States
+  year: 2007
+  parenthetical: per curiam
+  posture: Certiorari to the United States Court of Appeals for the Eigth Circuit
+  number: 06-5618
+  argued: 2007-02-20
+  decided: 2007-06-04
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 87
+    position: 1
+- style: Tellabs, Inc., et al. v. Makor Issues & Rights, Ltd., et al.
+  abbreviated: Tellabs, Inc. v. Makor Issues & Rights, Ltd.
+  number: 06-484
+  argued: 2007-03-28
+  decided: 2007-06-21
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 308
+    position: 1
+- style: Rita v. United States
+  abbreviated: Rita v. United States
+  posture: Certiorari to the United States Court of Appeals for the Fourth Circuit
+  number: 06-5754
+  argued: 2007-02-20
+  decided: 2007-06-21
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 338
+    position: 1
+- style: Permanent Mission of India to the United Nations et al. v. City of New York
+  abbreviated: Permanent Mission of India to United Nations v. City of New York
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  argued: 2007-04-24
+  decided: 2007-06-14
+  number: 06-134
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 193
+    position: 1
+- style: Fry v. Pliler, Warden
+  abbreviated: Fry v. Pliler
+  number: 06-5247
+  argued: 2007-03-20
+  decided: 2007-06-11
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 112
+    position: 1
+- style: Beck, Liquidating Trustee of Estates of Crown Vantage, Inc., et al. v. PACE
+    International Union, et al.
+  abbreviated: Beck v. PACE Int’l Union
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  number: 05-1448
+  argued: 2007-04-24
+  decided: 2007-06-11
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 96
+    position: 1
+- style: Uttecht, Superintendent, Washington State Penitentiary v. Brown
+  abbreviated: Uttecht v. Brown
+  number: 06-413
+  argued: 2007-04-17
+  decided: 2007-06-04
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 1
+    position: 1
+- style: Powerex Corp. v. Reliant Energy Services, Inc., et al.
+  abbreviated: Powerex Corp. v. Reliant Energy Services, Inc.
+  year: 2007
+  number: 06-85
+  argued: 2007-04-16
+  decided: 2007-06-18
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 224
+    position: 1
+- style: Morse et al. v. Frederick
+  abbreviated: Morse v. Frederick
+  number: 06-278
+  argued: 2007-03-19
+  decided: 2007-06-25
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 393
+    position: 1
+- style: Tennessee Secondary School Athletic Association v. Brentwood Academy
+  abbreviated: Tennessee Secondary School Athletic Assn. v. Brentwood Academy
+  number: 06-427
+  argued: 2007-04-18
+  decided: 2007-06-21
+  posture: Certiorari to the United States Court of Appeals for the Sixth Circuit
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 291
+    position: 1
+- style: Hein, Director, White House Office of Faith-Based and Community Initiatives,
+    et al. v. Freedom From Religion Foundation, Inc., et al.
+  abbreviated: Hein v. Freedom From Religion Foundation, Inc.
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Seventh Circuit
+  number: 06-157
+  argued: 2007-02-28
+  decided: 2007-06-25
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 587
+    position: 1
+- style: Sole, Secretary, Florida Department of Environmental Protection, et al. v.
+    Wyner et al.
+  abbreviated: Sole v. Wyner
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Eleventh Circuit
+  number: 06-531
+  argued: 2007-04-17
+  decided: 2007-06-04
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 74
+    position: 1
+- style: Davenport et al. v. Washington Education Association
+  abbreviated: Davenport v. Washington Ed. Assn.
+  number: 05-1589
+  argued: 2007-01-10
+  decided: 2007-06-14
+  posture: Certiorari to the Supreme Court of Washington
+  with:
+  - number: 05-1657
+    style: Washington v. Washington Education Association
+    posture: Certiorari to the Supreme Court of Washington
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 177
+    position: 1
+- style: National Association of Home Builders et al. v. Defenders of Wildlife et
+    al.
+  abbreviated: National Assn. of Home Builders v. Defenders of Wildlife
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  number: 06-340
+  argued: 2007-04-17
+  decided: 2007-06-25
+  with:
+  - number: 06-549
+    style: Environmental Protection Agency v. Defenders of Wildlife et al.
+    posture: Certiorari to the United States Court of Appeals for the Ninth Circuit
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 644
+    position: 1
+- style: Long Island Care at Home, Ltd., et al. v. Coke
+  abbreviated: Long Island Care at Home, Ltd. v. Coke
+  year: 2007
+  posture: Certiorari to the United States Court of Appeals for the Second Circuit
+  number: 06-593
+  argued: 2007-04-16
+  decided: 2007-06-11
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 158
+    position: 1
+  paginated: true
+- style: Federal Election Commission v. Wisconsin Right to Life, Inc.
+  abbreviated: Federal Election Comm’n v. Wisconsin Right to Life, Inc.
+  posture: Appeal from the United States Court of Appeals for the District of Columbia
+  number: 06-969
+  argued: 2007-04-25
+  decided: 2007-06-25
+  with:
+  - number: 06-970
+    style: McCain, United States Senator, et al. v. Wisconsin Right to Life, Inc.
+    posture: Appeal from the United States Court of Appeals for the District of Columbia
+  year: 2007
+  reports:
+  - reporter: United States Reports
+    abbreviation: U. S.
+    volume: 551
+    page: 449
+    position: 1
